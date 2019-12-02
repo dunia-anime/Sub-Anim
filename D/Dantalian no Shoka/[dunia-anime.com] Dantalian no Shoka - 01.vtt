@@ -1,0 +1,788 @@
+﻿WEBVTT
+
+00:01:47.800 --> 00:01:53.660
+m -9 -19 b -7 -19 -6 -19 -4 -18 b -3 -19 -2 -20 0 -19 b 0 -20 1 -22 1 -23 b 2 -21 2 -20 3 -18 b 5 -16 4 -15 5 -13 b 5 -12 5 -12 6 -10 l 5 -10 b 5 -9 5 -9 6 -8 l 5 -8 b 5 -5 6 -3 8 -1 b 7 -1 6 -1 5 -2 b 5 -1 5 0 5 1 b 9 0 8 -2 8 -4 b 8 -5 8 -5 8 -6 b 9 -4 11 0 9 3 b 9 3 10 2 10 2 b 9 5 11 9 10 13 b 10 15 11 17 11 19 b 10 19 8 19 7 18 b 6 17 4 18 2 18 b -4 20 -8 19 -6 16 b -8 17 -10 18 -11 16 b -11 18 -10 18 -9 17 b -10 20 -14 18 -13 16 b -12 14 -12 12 -9 9 b -9 9 -11 8 -10 7 b -8 9 -7 7 -7 6 b -9 4 -8 3 -6 1 l -6 -2 l -7 -3 l -7 -4 l -9 -6 l -6 -7 l -6 -9 b -7 -8 -7 -8 -8 -8 b -6 -10 -7 -12 -6 -14 b -6 -14 -6 -15 -6 -15 b -7 -17 -8 -18 -9 -19 m 15 -5 l 24 -5 b 23 -3 23 9 23 15 b 26 15 30 16 31 14 l 30 19 l 15 19 b 16 17 16 -3 15 -5 m 32 11 b 32 1 32 2 41 2 b 49 2 49 1 49 11 b 49 20 49 19 41 19 b 32 19 32 20 32 11 m 41 5 b 38 5 38 4 38 14 b 38 16 38 16 41 16 b 43 16 43 17 43 10 b 43 5 43 5 41 5 m 51 -5 l 58 -5 b 58 5 58 17 59 19 b 56 19 54 19 51 19 b 52 17 52 -2 51 -5 m 62 -5 l 68 -5 l 68 0 l 61 0 l 61 -5 l 62 -5 m 61 2 l 68 2 b 68 8 68 18 69 19 l 61 19 b 62 18 62 3 61 2 m 71 5 b 71 -4 69 -4 87 -4 l 88 1 b 86 0 84 0 81 0 b 78 0 77 0 77 2 b 77 4 78 4 82 4 b 88 4 88 3 88 13 b 88 22 88 20 72 20 l 71 15 b 73 16 76 16 78 16 b 82 16 81 16 81 14 b 81 13 81 13 76 13 b 71 13 71 13 71 5 m 90 12 b 90 2 90 3 99 3 b 107 3 107 2 107 14 l 96 14 b 96 16 95 17 101 17 b 103 17 105 17 107 16 l 106 20 b 90 20 90 21 90 12 m 109 -4 l 116 -4 l 116 9 b 118 6 120 5 120 3 l 126 3 l 122 7 l 128 20 l 120 20 l 117 12 l 116 13 b 116 15 116 18 117 20 l 109 20 b 110 18 110 -1 109 -4 m 130 3 l 137 3 b 146 3 146 2 146 13 b 146 16 146 19 147 20 l 140 20 l 140 19 b 139 20 139 20 134 20 b 129 20 129 18 129 15 b 129 8 129 8 135 8 b 136 8 138 8 139 8 l 139 6 b 136 6 130 6 129 7 l 130 3 m 99 6 b 96 6 96 6 96 10 l 101 10 b 101 6 101 6 99 6 m 139 12 b 134 12 135 12 135 15 b 135 17 135 17 139 17 l 139 12 m 148 3 l 155 3 b 155 9 155 18 156 20 l 148 20 b 149 18 149 5 148 3 m 149 -4 l 155 -4 l 155 1 l 148 1 l 148 -4 l 150 -4 m 177 -27 b 179 -23 180 -19 179 -16 b 180 -15 180 -13 180 -12 l 181 -13 l 181 -12 b 181 -11 181 -10 182 -10 l 181 -8 l 180 -9 b 180 -6 185 -2 184 4 b 181 3 181 3 181 6 b 180 9 178 7 178 11 b 178 15 178 16 172 21 b 173 22 173 23 173 24 b 173 23 172 22 172 22 b 172 22 172 23 172 24 b 172 24 171 23 171 23 b 170 25 171 27 170 29 l 169 27 b 169 25 168 24 168 22 b 170 22 172 17 175 15 l 171 12 b 170 13 170 13 169 14 l 170 12 b 168 12 168 13 167 14 b 166 14 166 13 166 13 b 167 11 167 10 168 8 b 170 10 171 10 175 11 l 174 9 b 170 8 168 6 168 4 b 166 0 165 0 163 2 b 160 -3 162 -3 163 -4 b 163 -5 163 -5 163 -6 l 162 -5 b 164 -6 163 -7 161 -8 b 160 -8 160 -11 160 -13 b 160 -18 165 -15 167 -15 b 168 -16 168 -16 168 -17 b 166 -17 163 -18 161 -17 l 161 -18 b 163 -19 165 -18 167 -17 b 166 -18 167 -19 167 -20 b 167 -20 167 -21 167 -21 b 167 -20 166 -20 166 -19 b 166 -21 166 -22 168 -23 l 164 -20 b 164 -21 166 -22 165 -23 b 166 -23 166 -24 167 -23 b 169 -26 171 -27 174 -27 b 176 -25 174 -23 173 -21 b 172 -20 171 -19 170 -18 b 170 -17 169 -15 168 -14 l 170 -12 b 170 -13 171 -13 171 -14 b 172 -19 173 -21 176 -21 b 177 -23 175 -25 175 -27 b 174 -28 175 -29 176 -29 b 177 -29 177 -28 177 -27
+
+00:00:36.830 --> 00:00:40.910
+Hei, Tempat apa ini?
+
+00:00:42.380 --> 00:00:43.910
+ Kau ada di sebuah tempat khusus.
+
+00:00:45.820 --> 00:00:48.040
+Tempat ini tidak memiliki sebuah nama.
+
+00:00:49.070 --> 00:00:51.930
+Tapi, apa itu tidak masalah?
+
+00:00:51.930 --> 00:00:56.180
+Apabila kau ingin untuk menamainya, panggil saja sesukamu.
+
+00:00:56.550 --> 00:01:00.300
+Kebanyakan orang yang memanggil tempat ini dengan sebutan "Perpustakaan Labirin"
+
+00:01:00.890 --> 00:01:02.800
+Apakah ada nama lainnya?
+
+00:01:02.800 --> 00:01:04.800
+Mystic Archives of Dantalian.
+
+00:01:20.330 --> 00:01:22.410
+Apakah kau tidak kesepian?
+
+00:01:23.660 --> 00:01:25.910
+Berada disini sendirian?
+
+00:02:02.730 --> 00:02:07.580
+Ini sudah lebih dari 6 bulan sejak aku menerima kabar tentang kematian kakekku
+
+00:02:08.360 --> 00:02:11.330
+Gugur oleh sebuah peluru dari seorang pencuri yang mencoba masuk ke mansion
+
+00:02:11.570 --> 00:02:20.040
+itu adalah sebuah cara untuk pergi yang cukup unik,tapi itu memang cukup pantas untuk dia yang bergelar Duke
+
+00:02:21.400 --> 00:02:26.090
+ Dia adalah seorang kolektor buku buku langka dari dari bermacam sejarah waktu
+
+00:02:26.090 --> 00:02:28.730
+ Kita memanggil dia si "Bibiliomaniacs"
+
+00:02:29.720 --> 00:02:37.270
+ dia sangat terobsesi untuk mengkoleksi buku buku itu, pernah sekali dia mengelilingi setengah dari kota ini hanya untuk sebuah buku langka.
+
+00:02:38.380 --> 00:02:43.690
+Para anggota keluarga kami, menghina, menjauhi, dan khawatir tentang dia,
+
+00:02:44.360 --> 00:02:50.870
+Tidak, aku kira yang membuat aku khawatir adalah koleksi buku yang ia punya.
+
+00:02:51.640 --> 00:02:55.920
+Mereka percaya bahwa ada kutukan di dalam buku koleksi dia.
+
+00:02:55.920 --> 00:02:59.760
+Di dalamnya ada pengetahun terlarang, yang bisa menyebabkan bencana.
+
+00:03:00.630 --> 00:03:11.130
+Sebenarnya aku tidak pernah benar benar dekat dengan dia, tapi aku kaget saat menerima kabar itu.
+
+00:03:11.700 --> 00:03:13.640
+Bagaimanapun, di sisi lain aku juga lega.
+
+00:03:14.830 --> 00:03:16.770
+Aku telah menduga itu akan terjadi.
+
+00:03:17.490 --> 00:03:21.980
+Jika aku mau, mungkin aku akan bisa menemukan apa yang telah aku cari selama ini.
+
+00:03:22.790 --> 00:03:25.030
+Harapan yang sia sia
+
+00:03:57.360 --> 00:03:58.850
+Kuncinya salah ya?
+
+00:04:26.490 --> 00:04:28.130
+Apa apaan ini?
+
+00:04:57.930 --> 00:05:01.120
+Semua buku dari mansion berkumpul disini.
+
+00:05:10.980 --> 00:05:12.720
+Sebuah boneka?
+
+00:05:12.720 --> 00:05:14.720
+Apa yang dilakukannya disini?
+
+00:05:20.540 --> 00:05:22.230
+Kau itu siapa?
+
+00:05:24.450 --> 00:05:26.360
+Permisi.
+
+00:05:26.360 --> 00:05:30.240
+Perkenalkan saya Hugh Anthony Disward. Kau bisa memanggilku Huey.
+
+00:05:27.160 --> 00:05:29.100 line:20%
+Note : Disward bisa juga dibaca Dijward dalam bahasa jepang
+
+00:05:30.930 --> 00:05:35.110
+Aku adalah cucu dari pemilik mansion ini, Wesley Disward.
+
+00:05:35.110 --> 00:05:36.550
+Cucu nya Wes?
+
+00:05:36.550 --> 00:05:38.420
+Apakah kau kenal kakekku?
+
+00:05:38.420 --> 00:05:41.900
+Apa yang dilakukan oleh cucu Wes disini, di tanggal ini?
+
+00:05:41.900 --> 00:05:43.910
+Aku sedang mencari sesuatu.
+
+00:05:43.910 --> 00:05:45.000
+Mencari sesuatu?
+
+00:05:45.470 --> 00:05:49.510
+Yaitu "Mystic Archives of Dantalian". Apa kau tahu sesuatu tentangnya?
+
+00:05:50.100 --> 00:05:52.010
+Darimana kau mendengar nama itu?
+
+00:05:52.810 --> 00:05:54.510
+In adalah perintah darinya.
+
+00:05:55.040 --> 00:06:01.020
+Dia akan memindahkan semua aset dan kepemilikan mansion ini kepadaku, maka otomatis aku akan mewarisi buku itu.
+
+00:06:02.270 --> 00:06:06.050
+Dan lagi, isi terakhir dari surat itu membuatku bingung.
+
+00:06:06.050 --> 00:06:08.940
+Lihatlah, Disini ditulis, "Aku serahkan Dalian kepadamu".
+
+00:06:08.940 --> 00:06:11.400
+Aku kira itu adalah seekor hewan peliharaan atau semacamnya...
+
+00:06:11.400 --> 00:06:13.400
+He-Hewan peliharaan?
+
+00:06:13.400 --> 00:06:18.130
+Sial. aku yakin dia akan kelaparan saat ini.
+
+00:06:18.130 --> 00:06:20.620
+Aku harus sesegera mungkin memandikan nya.
+
+00:06:20.620 --> 00:06:23.290
+Kau.... dasar bodoh!
+
+00:06:23.820 --> 00:06:25.670
+Ouch....
+
+00:06:28.200 --> 00:06:31.050
+Dalian itu ... adalah namaku!
+
+00:06:39.160 --> 00:06:41.060
+Apakah kau seorang prajurit?
+
+00:06:41.620 --> 00:06:44.310
+Bukan. aku hanya seorang pilot.
+
+00:06:45.120 --> 00:06:50.820
+Dan bolehkah aku bertanya lagi, Dalian, Apakah kau ini benar benar teman kakek ku?
+
+00:06:51.240 --> 00:06:54.390
+Ya. dia adalah orang yang baik.
+
+00:06:54.390 --> 00:06:57.800
+Begitu ya. jadi dia tidak sendirian selama ini.
+
+00:06:57.800 --> 00:06:59.580
+Dimana kau letakkan gulanya?
+
+00:06:59.960 --> 00:07:01.880
+Oh, apa kau mau gula untuk teh mu?
+
+00:07:01.880 --> 00:07:04.580
+Bukan teh tapi roti, dasar bodoh.
+
+00:07:04.580 --> 00:07:09.800
+Roti panggang itu akan lebih enak jika ditambah dengan gula.
+
+00:07:09.800 --> 00:07:13.630
+Biarkan aku bilang bahwa itu menu makan siang ku.
+
+00:07:13.630 --> 00:07:19.120
+Aku yakin tadi kau bilang, akan buruk kalau sampai Dalian kelaparan.
+
+00:07:19.120 --> 00:07:20.600
+Ya, kau benar.
+
+00:07:30.120 --> 00:07:33.550
+Dan, aku tidak masalah kalau kau memanggil ku Huey.
+
+00:07:41.990 --> 00:07:45.150
+Dantalian juga bisa berarti nama dari sseorang iblis.
+
+00:07:46.240 --> 00:07:50.130
+Seorang iblis yang memiliki buku buku yang tak terbatas, dan mengatur segala ilmu pengetahuan.
+
+00:07:50.510 --> 00:07:54.790
+Harapan ku kembali muncul saat diriku mendengar sebuah perpustakaan dengan kekuatan yang sangat besar.
+
+00:07:54.790 --> 00:07:56.960
+Apakah kau ingin bilang bahwa pertemuan kita ini adalah harapanmu?
+
+00:07:57.700 --> 00:08:01.450
+Semua buku yang ada di basement adalah buku biasa.
+
+00:08:01.450 --> 00:08:06.700
+Dan ada beberapa dari mereka adalah buku yang langka.
+
+00:08:06.700 --> 00:08:09.020
+Tapi tidak pantas disebut buku iblis.
+
+00:08:09.530 --> 00:08:13.980
+Aku harap kau punya sedikit perhatian kepada buku-buku itu, karena kau adalah cucu dari Wes.
+
+00:08:13.980 --> 00:08:17.380
+Tapi pada kenyataan nya kau tidak tahu apa apa.
+
+00:08:17.380 --> 00:08:18.530
+Apa maksud mu?
+
+00:08:19.120 --> 00:08:21.030
+Apakah kau tahu tentang cerita "The Heaven In The Pot"?
+
+00:08:21.030 --> 00:08:25.860
+"The Heaven In The Pot"? Kalau tidak salah itu adalah sebuah dongeng dari timur.
+
+00:08:25.860 --> 00:08:31.100
+Kisah tentang seseorang yang tidak sengaja masuk ke dalam pot, hanya untuk menemukan sebuah dunia yang lain di dalamnya.
+
+00:08:31.100 --> 00:08:34.780
+Ternyata pengetahuanmu lebih luas dari yang ku kira. Biarkan aku memujimu.
+
+00:08:34.780 --> 00:08:36.120
+Terima kasih.
+
+00:08:36.120 --> 00:08:38.300
+Jadi apa yang ingin mereka lakukan dengan buku buku itu?
+
+00:08:38.630 --> 00:08:47.530
+Apabila,jika dongeng itu memang benar, ada sebuah perpustakaan dgn ilmu pengetahuan yang tak terbatas?
+
+00:08:47.530 --> 00:08:50.560
+Yaitu sebuah perpustakaan yang dipenuhi oleh pengetahuan terlarang.
+
+00:08:50.980 --> 00:08:54.370
+Apakah yang kau maksud itu adalah "The Mystic Archives Of Dantalian"?
+
+00:08:58.040 --> 00:09:03.360
+Benar benar dongeng yang menarik. Persis seperti jenis cerita yang kakek sukai.
+
+00:09:03.360 --> 00:09:05.320
+Dasar kau bodoh!
+
+00:09:06.250 --> 00:09:11.790
+Aku merasa sedikit bodoh karena sudah menilaimu baik.
+
+00:09:11.790 --> 00:09:13.670
+Seseorang sepertimu...
+
+00:09:14.420 --> 00:09:17.550
+Darimana kau bisa mendapatkan kunci itu?
+
+00:09:18.470 --> 00:09:20.540
+Kau tahu tentang ini?
+
+00:09:24.760 --> 00:09:26.380
+Jangan khawatir.
+
+00:09:26.380 --> 00:09:29.100
+Aku mendapatkan nya dari Pemanduku.
+
+00:09:29.460 --> 00:09:31.640
+Aku tahu kau pasti capek karena perjalanan panjangmu ini.
+
+00:09:31.640 --> 00:09:38.730
+Aku berterima kasih karena kau telah menerima undangan dari tuanku, Henry Conrad, Tuan Disward.
+
+00:09:39.140 --> 00:09:44.120
+Seharusnya aku yang berterima kasih karena kau telah menyetujui permintaanku yang aneh ini.
+
+00:09:44.120 --> 00:09:46.230
+Aku akan menemanimu.
+
+00:09:46.230 --> 00:09:47.240
+Dalian?
+
+00:09:47.700 --> 00:09:51.000
+Aku bilang, aku mau ikut pergi bersamamu ke tempat Conrad.
+
+00:09:53.380 --> 00:09:54.540
+Apa yang kau rencanakan?
+
+00:09:54.890 --> 00:09:57.690
+Aku juga harusnya bertanya hal yang sama kepadamu.
+
+00:09:57.690 --> 00:10:01.210
+Dia adalah salah satu pelaku dari terbunuhnya Wes.
+
+00:10:01.210 --> 00:10:03.930
+Jadi kau bilang dia telah menyerang kakek,dengan menyamar sebagai pencuri.
+
+00:10:03.930 --> 00:10:05.890
+Untuk mengambil alih koleksi milik Kakek?
+
+00:10:07.220 --> 00:10:09.470
+Jadi kau sudah tahu ya?
+
+00:10:09.470 --> 00:10:15.050
+Itu semua hanyalah rumor. Meskipun tuan Conrad sudah terkenal karena ia dianggap sebagai Rival Kakek.
+
+00:10:15.050 --> 00:10:19.790
+Bagaimanapun, belum ada bukti yang jelas, maka dari itu aku akan mengadakan investigasi mendalam.
+
+00:10:19.790 --> 00:10:21.940
+Buktinya ada kok.
+
+00:10:22.550 --> 00:10:24.450
+Malam ini bulan purnama.
+
+00:10:24.450 --> 00:10:27.700
+Apabila Conrad lah orang yang telah mencuri buku itu,
+
+00:10:27.700 --> 00:10:31.200
+Maka saat ini ia akan menyaksikan sesuatu yang tidak bisa kita lihat saat ini.
+
+00:11:05.120 --> 00:11:08.870
+Tamu kita telah tiba! Apakah ada orang di sini?
+
+00:11:11.830 --> 00:11:14.370
+Saya minta maaf. Harap tunggu sebentar lagi.
+
+00:11:14.830 --> 00:11:16.130
+Baiklah
+
+00:11:17.450 --> 00:11:20.460
+Nampaknya Mereka Terlambat
+
+00:11:20.930 --> 00:11:22.380
+Dalian?
+
+00:11:28.340 --> 00:11:30.030
+Ini....
+
+00:11:32.710 --> 00:11:35.250
+Lekas selidiki
+
+00:11:35.250 --> 00:11:40.910
+Sumber dari kejadian ini kemungkinan besar terletak dalam penelitian Conrad.
+
+00:11:40.910 --> 00:11:42.900
+Apa yang kamu maksud?
+
+00:11:50.110 --> 00:11:51.910
+Lihatlah!
+
+00:12:08.080 --> 00:12:11.260
+Itu adalah hal yang berbahaya untukmu.
+
+00:12:11.260 --> 00:12:14.910
+Apakah kamu berencana membalas Wes dengan ini?
+
+00:12:14.910 --> 00:12:19.820
+Aku berhutang banyak padanya, Aku hanya membawanya sebagai jimat keberuntungan.
+
+00:12:36.160 --> 00:12:40.420
+Seperti yang ku pikirkan, Conrad adalah orang yang mengambil buku itu.
+
+00:12:48.140 --> 00:12:50.050
+Sepertinya para gajah tadi lewat sini.
+
+00:12:51.770 --> 00:12:54.760
+Iya. Memang seperti itu.
+
+00:12:54.760 --> 00:12:58.760
+Kalau benar seperti yang kamu katakan, tapi tak ada seekorpun disini kan?
+
+00:12:58.760 --> 00:13:02.270
+Kamu orang pertama yang mengatakannya.
+
+00:13:04.520 --> 00:13:08.710
+Selain itu, bukan hanya gajah yang ada di sini.
+
+00:13:37.950 --> 00:13:39.670
+Apa yang sebenarnya terjadi disini.
+
+00:13:39.670 --> 00:13:42.330
+Seorang pria yang membawa pisau, Gajah, dan juga Singa.
+
+00:13:42.330 --> 00:13:46.400
+Mungkin ada ular besar dan badut juga.
+
+00:13:46.400 --> 00:13:48.120
+Nyaris seperti itu.
+
+00:13:48.120 --> 00:13:50.110
+Benar, Sebuah Sirkus.
+
+00:13:50.110 --> 00:13:52.940
+Apakah kamu tahu tentang Harlequinade?
+
+00:13:52.940 --> 00:13:54.410
+Harlequinade?
+
+00:13:54.410 --> 00:14:01.500
+Sebuah buku. Apakah kamu tidak pernah membacanya ketika masih kecil?
+
+00:14:02.680 --> 00:14:09.790
+Aku sudah membaca beberapa jilid buku pop up ... Tunggu, apa yang kamu coba katakan di sini?
+
+00:14:09.790 --> 00:14:14.040
+Aku berbicara mengenai Mystical Tome yang Conrad ambil.
+
+00:14:14.040 --> 00:14:15.780
+Mystical Tome?
+
+00:14:16.700 --> 00:14:21.430
+Lihatlah. Ini adalah bentuk sebenarnya dari singa yang kamu tembak.
+
+00:14:22.140 --> 00:14:23.340
+sebuah cat?
+
+00:14:23.340 --> 00:14:28.130
+Ada buku ilusi yang seharusnya tidak pernah ada.
+
+00:14:28.130 --> 00:14:29.440
+The Mystical Tome?
+
+00:14:30.970 --> 00:14:36.700
+The Mystical Tome akan memberikan kekuatan kepada pembacanya jika sang pembaca benar dapat membacanya.
+
+00:14:36.700 --> 00:14:39.450
+Namun, Jika orang itu tidak dapat membacanya, ia tidak akan dapat memiliki The Tome.
+
+00:14:39.450 --> 00:14:44.210
+batas-batas dunia akan menyeberang, yang mengarah pada terjadinya gangguan pada hukum probabilitas dan logika
+
+00:14:44.640 --> 00:14:48.170
+ada hal yang bisa menyegel buku tersebut.
+
+00:14:48.860 --> 00:14:50.210
+...Mystical Archives of Dantalian?
+
+00:14:50.650 --> 00:14:56.750
+Ya. Wes tau keberadaan Harlequinades yang mendatangkan kutukan dan kemalangan pada pemiliknya,
+
+00:14:56.750 --> 00:14:59.570
+Dan berusaha untuk menyegelnya. Tapi...
+
+00:14:59.570 --> 00:15:00.970
+Conrad mengambilnya.
+
+00:15:01.240 --> 00:15:04.980
+Kekuatan dari buku-buku secara langsung terikat dengan fase bulan.
+
+00:15:04.980 --> 00:15:09.980
+Ada kemungkinan bahwa Conrad, yang bukan pemilik yang sah, akan mampu benar membaca isinya.
+
+00:15:11.470 --> 00:15:14.490
+Tidak ada waktu untuk meragukan ucapanmu.
+
+00:15:25.200 --> 00:15:28.380
+Aku rasa, aku akan mempelajarinya.
+
+00:15:34.420 --> 00:15:35.800
+Mengapa hal seperti itu terjadi?
+
+00:15:37.880 --> 00:15:39.710
+Kamu tidak tahu?
+
+00:15:39.710 --> 00:15:46.560
+Setiap sirkus memiliki pertunjukan orang aneh, dan titik penjualan adalah naga.
+
+00:15:46.560 --> 00:15:51.070
+Jika Kamu mengizinkan saya untuk menambahkan sesuatu: Mereka pasti palsu.
+
+00:15:51.690 --> 00:15:56.670
+Naga yang nyata tidak akan keluar dari pertanyaan di buku bergambar.
+
+00:16:26.980 --> 00:16:29.100
+Kita terpojok.
+
+00:16:29.100 --> 00:16:30.480
+Tampaknya begitu.
+
+00:16:30.990 --> 00:16:32.980
+Dalian, apakah kamu punya kaki yang cepat?
+
+00:16:33.320 --> 00:16:35.140
+Apa maksudmu?
+
+00:16:35.140 --> 00:16:38.960
+Aku akan menarik perhatiannya, sementara kamu mempelajarinya.
+
+00:16:38.960 --> 00:16:41.130
+Kamu berencana sebagai umpan?
+
+00:16:41.130 --> 00:16:44.440
+Kamu tau cara menyegel Mystical Tomes, kan?
+
+00:16:46.400 --> 00:16:49.750
+Persetan dengan "Noblesse Oblige".
+
+00:16:49.750 --> 00:16:54.620
+Jika buku-buku Kakek yang menyebabkan ini, maka itu adalah urusanku.
+
+00:16:54.620 --> 00:16:58.510
+Aku tidak bisa membiarkan para monster keluar.
+
+00:17:01.580 --> 00:17:04.010
+Berikan aku kuncinya, Manusia
+
+00:17:05.090 --> 00:17:06.020
+Dalian?
+
+00:17:08.690 --> 00:17:10.520
+Hugh Anthony Disward!
+
+00:17:11.900 --> 00:17:14.430
+Aku menerimamu!
+
+00:17:14.430 --> 00:17:18.780
+Jika Anda memiliki kualifikasi untuk menjadi penjaga kunci, kemudian ucapkanlah kontraknya.
+
+00:17:19.580 --> 00:17:21.780
+kata-kata Kontrak
+
+00:17:24.400 --> 00:17:26.040
+Aku memintamu.
+
+00:17:28.470 --> 00:17:30.580
+Kamu ras manusia?
+
+00:17:35.330 --> 00:17:38.570
+Bukan. Aku dari surga.
+
+00:17:39.090 --> 00:17:41.550
+Heaven in the Pot.
+
+00:18:06.470 --> 00:18:12.000
+The Labyrinth memuat arsip 900,666 segel dari Mystical Tomes.
+
+00:18:12.000 --> 00:18:14.330
+Semoga pintu kebijaksaan terbuka.
+
+00:18:16.510 --> 00:18:20.330
+Liber de Nymphis, ditulis oleh alkemis Paracelsus
+
+00:18:20.330 --> 00:18:23.840
+salah satu Mistik Tomes yang seharusnya tidak ada di dunia ini.
+
+00:18:23.840 --> 00:18:26.430
+Ini adalah Grimoire yang nyata.
+
+00:18:27.100 --> 00:18:29.100
+Sekarang, baca itu!
+
+00:18:36.070 --> 00:18:38.130
+O, Sheol.
+
+00:18:38.130 --> 00:18:41.470
+Jauh di bawah bumi, di mana roh-roh yang telah meninggal berada.
+
+00:18:41.470 --> 00:18:43.860
+Dunia yang gelap dan sunyi.
+
+00:18:44.310 --> 00:18:50.210
+Aku datang ke sini, hanya mengejar seekor kupu-kupu seperti anak kecil.
+
+00:18:50.820 --> 00:18:57.130
+Rasa sakit yang Abadi, sebuah keputusasaan yang tak terhindarkan, membuat jalan dengan setiap napas.
+
+00:18:57.970 --> 00:19:02.720
+Bagaimana saya harus memanggil orang tua saya jika saya bertemu mereka lagi?
+
+00:19:03.630 --> 00:19:05.570
+Aku berjalan di permukaan setelah waktu yang lama,
+
+00:19:05.570 --> 00:19:08.390
+mengumpulkan pengetahuan tak terbatas dari semua budaya.
+
+00:19:08.660 --> 00:19:10.380
+Otak iblis.
+
+00:19:10.380 --> 00:19:15.140
+Rumus utama yang bahkan dia tidak dapat menyentuh permukaan.
+
+00:19:15.140 --> 00:19:16.990
+Aku mencari jawaban.
+
+00:19:16.990 --> 00:19:20.320
+Sebuah solusi sederhana dimana semua makhluk dapat mengikuti.
+
+00:19:20.880 --> 00:19:23.400
+Berkat, sebuah berkat hidup.
+
+00:19:24.100 --> 00:19:27.620
+Berkat mutlak manusia, yang warnanya tidak pernah pudar.
+
+00:19:28.020 --> 00:19:33.950
+Namun, flutterings stabil dari sayap kupu-kupu memicu kemungkinan yang tidak terbatas.
+
+00:19:34.420 --> 00:19:37.850
+Kebenaran dari seribu tahun menertawakan kebijaksanaan manusia,
+
+00:19:37.850 --> 00:19:39.420
+menjauhkan diri karena sarang yang dekat.
+
+00:19:40.900 --> 00:19:45.060
+Tidak peduli apa jenis jawaban ditemukan, kemiskinan tetap,
+
+00:19:45.060 --> 00:19:49.890
+dan manusia mulai membenci satu sama lain, menjadi sakit, menangis, dan berjalan di jalan kematian.
+
+00:19:50.740 --> 00:19:52.350
+Ah, Sheol.
+
+00:19:53.470 --> 00:19:57.420
+Dewa tanpa ampun dari dunia bawah, bayang-bayang kematian,
+
+00:19:57.420 --> 00:19:59.820
+Dengarkanlah hambaku.
+
+00:19:59.820 --> 00:20:02.850
+Dengarkan napas sedih anak-anak.
+
+00:20:03.840 --> 00:20:06.340
+Mayat kupu-kupu yang telah anda tangkap...
+
+00:20:06.340 --> 00:20:11.120
+mencari sepotong sayap patah, bahkan jika itu telah menghancurkan muka pucat kematian mereka.
+
+00:20:11.120 --> 00:20:13.910
+Orang-orang yang berjuang, taruhan hidup mereka, ada di sini.
+
+00:20:14.600 --> 00:20:15.970
+LIHAT!
+
+00:20:15.970 --> 00:20:20.750
+Bentuk-bentuk serangga pemberani yang menguasai langit.
+
+00:20:20.750 --> 00:20:26.590
+Menghidupkan bahkan impian yang hancur dan sisa-sisa matahari terbenam ke dalam sinar yang menyilaukan.
+
+00:20:27.400 --> 00:20:31.380
+Mengepakkan sayap anda yang gagah, dengan senyum di wajah Anda!
+
+00:20:31.380 --> 00:20:33.950
+Terbang! Kupu - kupu yang putus asa!
+
+00:20:39.670 --> 00:20:40.720
+Mari kita pergi, Huey.
+
+00:20:41.370 --> 00:20:46.010
+Kita harus menyegel Conrad Mystical Tome dengan tangan kita sendiri, semampunya.
+
+00:20:48.480 --> 00:20:49.360
+Kamu benar!
+
+00:20:51.380 --> 00:21:00.540
+Buku pop-up pertama kali diproduksi pada pertengahan abad ke-18, sebagai "metamorfosis" buku.
+
+00:21:01.000 --> 00:21:08.630
+Namun, jenis buku memiliki kesenjangan di dalamnya, jadi saya memperkirakan satu ini dibuat pada awal abad ke-18.
+
+00:21:09.180 --> 00:21:14.820
+Mungkin ia menciptakan buku pop-up pertama yang menggunakan ini sebagai cetak biru.
+
+00:21:14.820 --> 00:21:16.770
+Sebuah buku dimana isinya tampaknya menjadi hidup, huh?
+
+00:21:17.420 --> 00:21:22.270
+Sebuah buku dan mereka yang mencarinya dimana saling memikat satu sama lain.
+
+00:21:22.270 --> 00:21:28.140
+Jika orang yang layak untuk mendapatkan buku, kemudian bahkan Mystical Tome seharusnya melayani tujuan sebagai sebuah buku.
+
+00:21:28.140 --> 00:21:33.780
+Jadi ini menimpa Tuan Conrad karena ia mencuri buku tebal demi kebanggaan yang sia-sia?
+
+00:21:34.130 --> 00:21:37.960
+Ada beberapa hal di dunia yang hendaknya tidak diketahui.
+
+00:21:51.310 --> 00:21:54.670
+kamu bangsa Heaven in the Pot, kan Dalian?
+
+00:21:55.800 --> 00:22:00.930
+Mystical Tomes? Kakekku yakin meninggalkan satu neraka dari surat wasiat.
+
+00:22:02.170 --> 00:22:04.110
+Sepertinya aku mulai lapar.
+
+00:22:04.980 --> 00:22:07.730
+Aku bilang aku lapar, Huey.
+
+00:22:07.730 --> 00:22:11.890
+Aku tau. Mari kita mengejar kereta pertama.
+
+00:22:15.960 --> 00:22:18.200
+Ini akan menjadi pagi pada saat kita sudah sampai di rumah.
+
+00:22:18.800 --> 00:22:23.210
+Aku harus menyiapkan beban yang kaya akan gula roti goreng untuk sarapan, bukan?
+
+00:22:27.920 --> 00:22:31.780
+Tebak Aku tidak punya pilihan selain untuk menemani Anda dalam membuatnya kan?
+
+00:24:07.110 --> 00:24:10.570
+Aku sakit dan lelah manusia seperti mu harusnya bisa, Huey.
+
+00:24:10.570 --> 00:24:12.870
+Aku adalah orang yang dangkal dalam menerimamu.
+
+00:24:12.870 --> 00:24:14.980
+Apa yang kamu maksudkan, Dalian?
+
+00:24:14.980 --> 00:24:19.260
+Pria yang mudah ditipu oleh wanita yang melemparkan pesona yang mereka miliki.
+
+00:24:19.260 --> 00:24:20.900
+Selanjutnya: The Infant's Book.
+
+00:22:36.050 --> 00:22:43.760
+rakuen no DOA hiraku kagi wo nakushite
+
+00:22:36.050 --> 00:22:43.760
+
+Aku kehilangan kunci untuk membuka pintu surga
+
+00:22:45.100 --> 00:22:53.120
+Batsu wo uke shouko wa yoru no meiro e
+
+00:22:45.100 --> 00:22:53.120
+Sebagai bukti hukuman, aku menuju ke labryinth malam
+
+00:22:54.440 --> 00:23:02.130
+ibara no wo yurusazu hodokeru kusai
+
+00:22:54.440 --> 00:23:02.130
+Membawa bau yang bahkan menghindari duri dan melepaskanku
+
+00:23:03.660 --> 00:23:11.620
+motometa no wa eien uzumeta ai
+
+00:23:03.660 --> 00:23:11.620
+Apa yang ku rindukan adalah kekal, terkubur cinta.
+
+00:23:12.840 --> 00:23:22.190
+kegare kowareta boku wo minai de
+
+00:23:12.840 --> 00:23:22.190
+Jangan lihat aku, yang kotor dan rusak
+
+00:23:22.190 --> 00:23:31.560
+sakareta kizuna kuroi REKUIEMU
+
+00:23:22.190 --> 00:23:31.560
+Obligasi compang-camping kami adalah doa kegelapan
+
+00:23:31.560 --> 00:23:40.740
+koko ni konai de kimi wa shiranai de
+
+00:23:31.560 --> 00:23:40.740
+Jangan datang ke sini. Tidak tahu di mana hal ini.
+
+00:23:40.740 --> 00:23:45.130
+zetsubou no ame ga furu
+
+00:23:40.740 --> 00:23:45.130
+Hujan putus asa jatuh
+
+00:23:45.130 --> 00:23:49.190
+sekai ga (ima owaru)
+
+00:23:45.130 --> 00:23:49.190
+Dunia (berakhir sekarang)
