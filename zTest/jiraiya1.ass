@@ -1,34 +1,12 @@
 ﻿[Script Info]
-
-Title: Default Aegisub file
-Script
-Type: v4.00+
-
-WrapStyle: 2
-
-PlayResX: 640
-
-PlayResY: 480
-
-ScaledBorderAndShadow: yes
-
-Video File: OuterScienceAVI.avi
-
-Video Aspect Ratio: 0
-
-Video Zoom: 4
-
-Video Position: 6487
-
-Last Style Storage: Default
-
+Title: 
+ScriptType: v4.00+
 Collisions: Normal
-
-
+PlayDepth: 0
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial Rounded MT Bold,22,&H00FFFFFF,&H0300FFFF,&H00000000,&H02000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+Style: Default,Arial Rounded MT Bold,17,&H00FFFFFF,&H0300FFFF,&H00000000,&H02000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
