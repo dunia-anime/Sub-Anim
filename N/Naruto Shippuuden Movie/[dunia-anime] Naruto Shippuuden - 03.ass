@@ -1,0 +1,973 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial Rounded MT Bold,17,&H00FFFFFF,&H0300FFFF,&H00000000,&H02000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:05.70,0:00:11.42,Default,,0000,0000,0000,,{\fs24\fnArial Black\b1}Indonesian Translation: Benyamin Manuel Hasugian\Nhttp://www.facebook.com/benyamin.manuelhasugian{\fn\fs\b0\fn\fs\fn\b0\fn\fs\fn\b0\fn\fs\fn\b0\fn\fs\fn\b0\fn\fs\fn\b0}
+Dialogue: 0,0:03:50.70,0:03:56.42,Default,,0000,0000,0000,,Naruto Shippuden Movie: Inheritors of the Will of Fire
+Dialogue: 0,0:00:52.22,0:00:53.44,Default,,0000,0000,0000,,Itu dia.
+Dialogue: 0,0:00:54.61,0:00:56.98,Default,,0000,0000,0000,,Jejak dari para keturunan ninja telah berakhir di sini
+Dialogue: 0,0:01:17.90,0:01:18.72,Default,,0000,0000,0000,,Apa?
+Dialogue: 0,0:01:42.87,0:01:43.99,Default,,0000,0000,0000,,Sai!!!
+Dialogue: 0,0:01:46.03,0:01:48.26,Default,,0000,0000,0000,,Mundur, Naruto! Kita harus tetap menyelesaikan misi ini.
+Dialogue: 0,0:01:49.04,0:01:51.00,Default,,0000,0000,0000,,Aku tidak akan meninggalkan Sai!
+Dialogue: 0,0:01:56.07,0:01:57.13,Default,,0000,0000,0000,,Naruto!
+Dialogue: 0,0:02:18.11,0:02:18.53,Default,,0000,0000,0000,,Sai!
+Dialogue: 0,0:02:20.16,0:02:22.17,Default,,0000,0000,0000,,Sai, bangun!
+Dialogue: 0,0:02:31.97,0:02:33.37,Default,,0000,0000,0000,,{\c&H016dff&\fs24\fnForte\b1\3c&HFFFFFF&}Kage Bunshin no Jutsu
+Dialogue: 0,0:02:47.07,0:02:47.89,Default,,0000,0000,0000,,{\c&Hf9bc77&\fs24\fnForte\b1\3c&HFFFFFF&}Raikiri
+Dialogue: 0,0:02:58.74,0:03:00.44,Default,,0000,0000,0000,,Mati kau!
+Dialogue: 0,0:03:11.40,0:03:13.07,Default,,0000,0000,0000,,Apakah sai baik-baik saja?
+Dialogue: 0,0:03:14.83,0:03:15.51,Default,,0000,0000,0000,,Ouch!
+Dialogue: 0,0:03:21.43,0:03:23.58,Default,,0000,0000,0000,,Apa masalahmu, saku-
+Dialogue: 0,0:03:27.07,0:03:30.03,Default,,0000,0000,0000,,Lihat itu?! itu luka yang sangat parah
+Dialogue: 0,0:03:30.03,0:03:33.26,Default,,0000,0000,0000,,Jika kau ingin membuat suatu penyelamatan' Setidaknya kau telah membuat strategi terlebih dahulu!
+Dialogue: 0,0:03:33.26,0:03:35.73,Default,,0000,0000,0000,,kau sembrono, sangat tolol.
+Dialogue: 0,0:03:36.71,0:03:38.22,Default,,0000,0000,0000,,Mereka tampak seperti dirimu.
+Dialogue: 0,0:03:39.19,0:03:41.11,Default,,0000,0000,0000,,Apakah kau tidak memikirkanya, obito?
+Dialogue: 0,0:04:11.18,0:04:15.67,Default,,0000,0000,0000,,Kami mengikuti jejak keempat shinobi dari garis keturunan terakhir yang menghilang dari desa masing-masing.
+Dialogue: 0,0:04:17.22,0:04:18.21,Default,,0000,0000,0000,,Mereka berada di sini.
+Dialogue: 0,0:04:19.30,0:04:27.44,Default,,0000,0000,0000,,Mereka menghilang antara Desa batu dan Desa Rumput, tepatnya itu berada digunung Shumisen yang masih masuk dalam kawasan pegunungan konrin.
+Dialogue: 0,0:04:28.07,0:04:28.62,Default,,0000,0000,0000,,Kau melakukannya dengan baik.
+Dialogue: 0,0:04:29.45,0:04:30.62,Default,,0000,0000,0000,,Apa langkah selanjutnya?
+Dialogue: 0,0:04:31.23,0:04:34.14,Default,,0000,0000,0000,,Aku akan mencari sesuatu. kau jangan khawatir.
+Dialogue: 0,0:04:35.31,0:04:39.88,Default,,0000,0000,0000,,Jika mereka menargetkan shinobi dari garis keturunan terakhir, ini mungkin akan ...
+Dialogue: 0,0:04:41.03,0:04:41.71,Default,,0000,0000,0000,,Ada apa?
+Dialogue: 0,0:04:42.11,0:04:42.55,Default,,0000,0000,0000,,Tidak ada apa-apa
+Dialogue: 0,0:04:43.16,0:04:44.73,Default,,0000,0000,0000,,Apa mereka berdua baik-baik saja?
+Dialogue: 0,0:04:45.88,0:04:48.36,Default,,0000,0000,0000,,Mereka, aku kirim kerumah sakit untuk check up.
+Dialogue: 0,0:04:50.64,0:04:53.39,Default,,0000,0000,0000,,Mereka bukanlah tipe orang yang mengikuti perintah dan tinggal di tempat tidur.
+Dialogue: 0,0:05:12.30,0:05:13.17,Default,,0000,0000,0000,,Ini sangat enak!
+Dialogue: 0,0:05:13.17,0:05:15.17,Default,,0000,0000,0000,,Makanlah pelan-pelan, Chouji.
+Dialogue: 0,0:05:15.32,0:05:18.87,Default,,0000,0000,0000,,kau tahu, asuma-sensei pernah tidak membayar.
+Dialogue: 0,0:05:22.40,0:05:24.85,Default,,0000,0000,0000,,Hari ini Kau bukanlah orang yang penting.
+Dialogue: 0,0:05:24.85,0:05:27.29,Default,,0000,0000,0000,,Dan jika kau tetap makan seperti itu, kau benar-benar akan menjadi ge. ..
+Dialogue: 0,0:05:28.55,0:05:29.37,Default,,0000,0000,0000,,Shikamaru!
+Dialogue: 0,0:05:30.30,0:05:33.27,Default,,0000,0000,0000,,Hari ini aku yang mentraktirmu.
+Dialogue: 0,0:05:33.27,0:05:34.51,Default,,0000,0000,0000,,Terima kasih atas traktirannya!
+Dialogue: 0,0:05:39.85,0:05:41.73,Default,,0000,0000,0000,,Mengapa kalian semua berada disini?
+Dialogue: 0,0:05:42.26,0:05:46.52,Default,,0000,0000,0000,,Mengapa? Kami dengar kau mengadakan pesta untuk merayakan kesembuhan naruto dan sai.
+Dialogue: 0,0:05:46.61,0:05:47.68,Default,,0000,0000,0000,,Aku juga.
+Dialogue: 0,0:05:47.76,0:05:49.39,Default,,0000,0000,0000,,Hinata yang mengatakannya padaku.
+Dialogue: 0,0:05:49.39,0:05:50.32,Default,,0000,0000,0000,,Aku juga!
+Dialogue: 0,0:05:50.59,0:05:53.67,Default,,0000,0000,0000,,Naruto-kun memintaku untuk memberitahukannya pada semuanya.
+Dialogue: 0,0:05:53.67,0:05:57.31,Default,,0000,0000,0000,,Orang macam apa itu, aku pikir dia hanya ingin mengundang sedikit orang.
+Dialogue: 0,0:05:57.61,0:05:59.16,Default,,0000,0000,0000,,Baiklah jika berlebihan akan dibayar secara terpisah.
+Dialogue: 0,0:05:59.38,0:06:02.03,Default,,0000,0000,0000,,Tapi dipikir-pikir, tamu kehormatannya sampai sekarang belum datang.
+Dialogue: 0,0:06:04.50,0:06:05.81,Default,,0000,0000,0000,,Maafkan membuat kalian menunggu!
+Dialogue: 0,0:06:06.06,0:06:08.29,Default,,0000,0000,0000,,Wow, kelihatannya semuanya sudah mulai makan!
+Dialogue: 0,0:06:08.29,0:06:11.28,Default,,0000,0000,0000,,Ini tidak benar, Naruto. kita tidak diperbolehkan meninggalkan rumah-
+Dialogue: 0,0:06:11.28,0:06:12.80,Default,,0000,0000,0000,,Ini akan baik-baik saja.
+Dialogue: 0,0:06:12.80,0:06:15.40,Default,,0000,0000,0000,,Hey, kau tidak bisa menambahkan banyak orang dalam buku tamu!
+Dialogue: 0,0:06:15.65,0:06:19.47,Default,,0000,0000,0000,,Ini sangat meriah, benarkan sai?.
+Dialogue: 0,0:06:19.76,0:06:20.71,Default,,0000,0000,0000,,Infusku!
+Dialogue: 0,0:06:20.81,0:06:23.16,Default,,0000,0000,0000,,Baiklah, hari ini adalah acara untuk merayakan kesembuhan kami.
+Dialogue: 0,0:06:23.16,0:06:25.11,Default,,0000,0000,0000,,Jadi makan yang banyak sesuai dengan yang kalian suka!
+Dialogue: 0,0:06:25.11,0:06:27.38,Default,,0000,0000,0000,,Shikamaru akan mentraktir semuanya!
+Dialogue: 0,0:06:27.38,0:06:29.11,Default,,0000,0000,0000,,Hey, aku tidak pernah-
+Dialogue: 0,0:06:28.81,0:06:30.69,Default,,0000,0000,0000,,Terima kasih, Shikamaru!
+Dialogue: 0,0:06:30.99,0:06:33.01,Default,,0000,0000,0000,,Bagus! sekarang kita mu-
+Dialogue: 0,0:06:33.01,0:06:34.39,Default,,0000,0000,0000,,Kalian berdua!
+Dialogue: 0,0:06:45.29,0:06:45.79,Default,,0000,0000,0000,,Rasakan ini!
+Dialogue: 0,0:06:47.39,0:06:48.15,Default,,0000,0000,0000,,Semuanya selesai.
+Dialogue: 0,0:06:50.37,0:06:53.89,Default,,0000,0000,0000,,Sakura-chan, Kami benar-benar terluka parah...
+Dialogue: 0,0:06:53.89,0:06:55.13,Default,,0000,0000,0000,,Oh, Benarkah begitu?
+Dialogue: 0,0:06:55.27,0:06:57.60,Default,,0000,0000,0000,,berapa banyak pasien yang terluka parah yang kau lihat menyelinap keluar untuk makan barbekyu?
+Dialogue: 0,0:06:58.16,0:06:59.97,Default,,0000,0000,0000,,Pertimbangkan saja hukumanmu.
+Dialogue: 0,0:07:01.04,0:07:03.29,Default,,0000,0000,0000,,Jika itu sakit, cepatlah naik ketempat tidur dan segeralah tidur.
+Dialogue: 0,0:07:05.30,0:07:08.09,Default,,0000,0000,0000,,Itulah naruto. Dia dapat menyembuhkan dirinya dengan cepat.
+Dialogue: 0,0:07:13.27,0:07:16.15,Default,,0000,0000,0000,,Mengapa dia selalu pergi seperti itu?
+Dialogue: 0,0:07:16.27,0:07:18.01,Default,,0000,0000,0000,,Yo! kelihatannya kalian sudah bertambah baik.
+Dialogue: 0,0:07:18.51,0:07:21.06,Default,,0000,0000,0000,,Kakashi-sensei, apakah kau kesini untuk menengok kami?
+Dialogue: 0,0:07:21.50,0:07:25.51,Default,,0000,0000,0000,,Memang. Aku bisa memperkirakan kalau kalian akan merasa bosan.
+Dialogue: 0,0:07:25.77,0:07:26.16,Default,,0000,0000,0000,,Ini.
+Dialogue: 0,0:07:26.67,0:07:27.82,Default,,0000,0000,0000,,Terimakasih.
+Dialogue: 0,0:07:34.69,0:07:40.66,Default,,0000,0000,0000,,"Seorang wanita akan mencoba menyembunyikan perhatiannya dihadapanmu, dengan berlagak marah dan berbuat kasar."
+Dialogue: 0,0:07:42.40,0:07:43.70,Default,,0000,0000,0000,,ini sepertinya adalah sebuah pengetahuan
+Dialogue: 0,0:07:44.62,0:07:45.72,Default,,0000,0000,0000,,dan untukku?
+Dialogue: 0,0:07:46.09,0:07:48.06,Default,,0000,0000,0000,,kami berdua tahu kalau kau tidak suka membaca.
+Dialogue: 0,0:07:48.67,0:07:50.63,Default,,0000,0000,0000,,Aku ingin kau untuk menyimpan benda ini.
+Dialogue: 0,0:07:50.71,0:07:53.36,Default,,0000,0000,0000,,hah? Apa isi didalamnya?
+Dialogue: 0,0:08:00.28,0:08:01.34,Default,,0000,0000,0000,,Benda apa itu?
+Dialogue: 0,0:08:05.84,0:08:07.50,Default,,0000,0000,0000,,Aku mempunyai dua Lonceng.
+Dialogue: 0,0:08:07.94,0:08:10.84,Default,,0000,0000,0000,,Tugas kalian adalah mengambil salah satu dari lonceng ini sebelum waktunya makan siang.
+Dialogue: 0,0:08:19.01,0:08:21.06,Default,,0000,0000,0000,,{\b1\fnForte\fs24\c&H960502&\3c&HFFFFFF&}Katon, Goukakyuu no Jutsu!{\b0}
+Dialogue: 0,0:08:21.33,0:08:26.90,Default,,0000,0000,0000,,Sakura-chan dan sasuke melanggar perintah kakashi-sensei dan membagi makan siang mereka denganku.
+Dialogue: 0,0:08:27.20,0:08:31.00,Default,,0000,0000,0000,,Kemudian kami tertangkap basah oleh kakashi-sensei.
+Dialogue: 0,0:08:28.24,0:08:29.60,Default,,0000,0000,0000,,Aku yakin kita semua akan gagal...
+Dialogue: 0,0:08:31.20,0:08:32.31,Default,,0000,0000,0000,,...Kalian lulus.
+Dialogue: 0,0:08:32.31,0:08:35.71,Default,,0000,0000,0000,,Tapi sebenarnya kakashi-senseilah yang meluluskan kami.
+Dialogue: 0,0:08:36.68,0:08:40.97,Default,,0000,0000,0000,,Dalam dunia ninja, orang-orang yang melanggar peraturan dianggap sampah.
+Dialogue: 0,0:08:41.73,0:08:46.44,Default,,0000,0000,0000,,Tapi jika ada seseorang yang tidak perduli terhadap temannya dia dianggap lebih rendah dari sampah.
+Dialogue: 0,0:08:48.01,0:08:52.14,Default,,0000,0000,0000,,Aku tidak akan pernah melupakan apa yang pernah kau berikan padaku, Kakashi-sensei.
+Dialogue: 0,0:08:54.08,0:08:56.41,Default,,0000,0000,0000,,Apakah kau mempelajarinya juga?
+Dialogue: 0,0:08:56.80,0:09:01.40,Default,,0000,0000,0000,,ANBU mengajarkan pada kami untuk meninggalkan teman kita utuk terus melanjutkan misi jika itu diperlukan.
+Dialogue: 0,0:09:03.21,0:09:05.88,Default,,0000,0000,0000,,Itu merupakan cerita tentang masa kecil yang menyedihkan.
+Dialogue: 0,0:09:06.41,0:09:08.17,Default,,0000,0000,0000,,Jadi mengapa kau memberikan ini padaku?
+Dialogue: 0,0:09:08.93,0:09:11.70,Default,,0000,0000,0000,,Seperti yang kau lihat, aku telah merusakannya.
+Dialogue: 0,0:09:11.91,0:09:14.61,Default,,0000,0000,0000,,Jadi aku ingin kau untuk membetulkannya kembali.
+Dialogue: 0,0:09:15.97,0:09:17.31,Default,,0000,0000,0000,,Oke? Aku mempercayakannya padamu.
+Dialogue: 0,0:09:18.02,0:09:21.72,Default,,0000,0000,0000,,Sekarang aku masih banyak urusan, Jadi aku akan membiarkanmu untuk membetulkan lonceng itu.
+Dialogue: 0,0:09:21.72,0:09:24.35,Default,,0000,0000,0000,,H...h...hey! tunggu sebentar, Kakashi-sensei!
+Dialogue: 0,0:09:28.32,0:09:28.95,Default,,0000,0000,0000,,Sampai nanti.
+Dialogue: 0,0:09:29.59,0:09:32.42,Default,,0000,0000,0000,,Bagaimana caranya aku memperbaiki lonceng ini?
+Dialogue: 0,0:09:32.88,0:09:36.02,Default,,0000,0000,0000,,Mengapa bukan kau saja yang memperbaikinya sendiri, Kakashi-sensei?!
+Dialogue: 0,0:09:44.06,0:09:45.81,Default,,0000,0000,0000,,ANBU dari Konoha.
+Dialogue: 0,0:09:46.54,0:09:50.09,Default,,0000,0000,0000,,Jangan khawatir, Tidak ada seorang ninja yang mampu mendekatiku.
+Dialogue: 0,0:10:07.20,0:10:08.67,Default,,0000,0000,0000,,Apa hanya segini milik kalian?
+Dialogue: 0,0:10:08.92,0:10:11.39,Default,,0000,0000,0000,,Aku mengerti, mereka semua sama-sama memiliki chkra elemen tanah.
+Dialogue: 0,0:10:25.22,0:10:26.78,Default,,0000,0000,0000,,Waktu yang tepat.
+Dialogue: 0,0:10:27.34,0:10:28.34,Default,,0000,0000,0000,,Nona Tsunade.
+Dialogue: 0,0:10:30.05,0:10:31.15,Default,,0000,0000,0000,,Ada apa, Shizune?
+Dialogue: 0,0:10:31.79,0:10:35.28,Default,,0000,0000,0000,,Apakah kau telah menerima kabar dari para ANBU yang kita kirimkan ke shumisen?
+Dialogue: 0,0:10:35.66,0:10:37.44,Default,,0000,0000,0000,,Belum, Tapi coba kau lihat ke angkasa!
+Dialogue: 0,0:10:49.00,0:10:53.60,Default,,0000,0000,0000,,Aku adalah Hiruko ninja yang berasal dari Konoha.
+Dialogue: 0,0:10:53.60,0:10:54.35,Default,,0000,0000,0000,,Apa?!
+Dialogue: 0,0:10:55.33,0:10:58.69,Default,,0000,0000,0000,,Ini aneh. tidak mungkin Hiruko masih seperti anak-anak!
+Dialogue: 0,0:11:03.87,0:11:04.95,Default,,0000,0000,0000,,Apa itu?
+Dialogue: 0,0:11:08.27,0:11:16.96,Default,,0000,0000,0000,,Aku telah menggunakan teknik chimera untuk mengambil jurus ninjutsu dari ninja yang merupakan garis keturunan terakhir yang berasal dari empat negara ninja terbesar dan membuatnya menjadi milikku
+Dialogue: 0,0:11:18.49,0:11:21.70,Default,,0000,0000,0000,,Aku tidak akan terkalahkan setelah aku mendapatkan jurus ninjutsu dari ninja keturunan terakhir yang kelima.
+Dialogue: 0,0:11:22.13,0:11:26.42,Default,,0000,0000,0000,,Aku akan menjadi ninja terakhir yang abadi.
+Dialogue: 0,0:11:26.89,0:11:31.46,Default,,0000,0000,0000,,Aku akan menggunakan kekuatan ini untuk memulai perang dunia ninja yang keempat.
+Dialogue: 0,0:11:31.88,0:11:33.66,Default,,0000,0000,0000,,Aku akan menguasai semuanya.
+Dialogue: 0,0:11:40.46,0:11:44.03,Default,,0000,0000,0000,,Segera beritahukan bahwa desa berada dalam keadaan darurat militer
+Dialogue: 0,0:11:44.79,0:11:50.13,Default,,0000,0000,0000,,Asal kalian tahu, seorang ninja bernama hiruko telah mendeklarasikan perang.
+Dialogue: 0,0:11:50.50,0:11:53.72,Default,,0000,0000,0000,,Ini telah menempatkan desa kita dalam situasi yang sangat berbahaya yang belum pernah dihadapi.
+Dialogue: 0,0:11:54.33,0:11:58.52,Default,,0000,0000,0000,,desa lain bisa menyerang kita kapan saja. jadi aku harap kalian waspada!
+Dialogue: 0,0:12:04.61,0:12:08.12,Default,,0000,0000,0000,,Naruto, Tampaknya diluar kelihatan sangat sibuk.
+Dialogue: 0,0:12:15.98,0:12:16.97,Default,,0000,0000,0000,,Apakah itu Kazekage?
+Dialogue: 0,0:12:18.34,0:12:20.55,Default,,0000,0000,0000,,Apa Gaara sudah sampai?
+Dialogue: 0,0:12:21.27,0:12:26.17,Default,,0000,0000,0000,,utusan tersebut telah meninggalkan Sunagakure. mereka sudah berhasil sampai ke punggung bukit.
+Dialogue: 0,0:12:27.32,0:12:29.71,Default,,0000,0000,0000,,Mereka seharusnya tiba dalam waktu setengah jam.
+Dialogue: 0,0:12:35.80,0:12:36.56,Default,,0000,0000,0000,,Nona Tsunade.
+Dialogue: 0,0:12:39.89,0:12:43.98,Default,,0000,0000,0000,,Ini sangatlah berbahaya jika Konoha mencoba mengatasinya sendiri.
+Dialogue: 0,0:12:44.80,0:12:46.55,Default,,0000,0000,0000,,Kami membutuhkan bantuanmu.
+Dialogue: 0,0:12:50.10,0:12:54.90,Default,,0000,0000,0000,,Kelima negara besar masing-masing memiliki desa ninja .
+Dialogue: 0,0:12:54.90,0:12:57.74,Default,,0000,0000,0000,,Mereka telah dipersiapkan untuk melancarkan serangan dan invasi.
+Dialogue: 0,0:12:58.53,0:13:01.79,Default,,0000,0000,0000,,kita, Negara api, memiliki kebanggaan tersendiri karena merupakan negara yang terkuat.
+Dialogue: 0,0:13:02.22,0:13:04.95,Default,,0000,0000,0000,,karena itu, kami melindungi konoha selama bertahun-tahun.
+Dialogue: 0,0:13:05.73,0:13:09.00,Default,,0000,0000,0000,,Namun, Ada kekhawatiran tentang kau yang berencana melakukan kudeta.
+Dialogue: 0,0:13:09.85,0:13:15.33,Default,,0000,0000,0000,,Negara lain telah bersiap-siap untuk berperang, dan para ninja dari negara tersebut telah menuju kemari.
+Dialogue: 0,0:13:15.33,0:13:18.19,Default,,0000,0000,0000,,beberapa laporan mengatakan bahwa mereka telah siap untuk menyerang.
+Dialogue: 0,0:13:19.09,0:13:23.30,Default,,0000,0000,0000,,Hal Ini adalah beban yang sangat besar atas kepercayaan terhadap Konoha.
+Dialogue: 0,0:13:23.30,0:13:24.16,Default,,0000,0000,0000,,Tunggu sebentar.
+Dialogue: 0,0:13:25.08,0:13:31.57,Default,,0000,0000,0000,,Aku mengakui bahwa sepuluh tahun yang lalu ada ninja yang bernama Hiruko melakukan penelitian ilegal pada teknik chimera.
+Dialogue: 0,0:13:32.25,0:13:35.25,Default,,0000,0000,0000,,Tapi dia telah lama meninggalkan desa.
+Dialogue: 0,0:13:35.25,0:13:36.53,Default,,0000,0000,0000,,Simpan saja alasanmu.
+Dialogue: 0,0:13:37.69,0:13:41.63,Default,,0000,0000,0000,,Identifikasi pelakunya dengan benar dan segera jaga stuasi yang akan terjadi.
+Dialogue: 0,0:13:41.63,0:13:46.75,Default,,0000,0000,0000,,Jika kau gagal melakukannya, aku akan menghancurkan Konoha.
+Dialogue: 0,0:13:47.00,0:13:49.71,Default,,0000,0000,0000,,Jangan terburu-buru membuktikan bahwa kau tidak bersalah.
+Dialogue: 0,0:13:49.94,0:13:53.44,Default,,0000,0000,0000,,dan menganggapnya sebagai satu-satunya cara untuk menjaga agar konoha tetap utuh.
+Dialogue: 0,0:13:57.24,0:13:58.06,Default,,0000,0000,0000,,Gaara!
+Dialogue: 0,0:14:58.44,0:14:59.21,Default,,0000,0000,0000,,Nona Tsunade.
+Dialogue: 0,0:15:01.12,0:15:04.93,Default,,0000,0000,0000,,Utusan dari sunagakure tampaknya telah terjebak dalam longsor yang sangat besar .
+Dialogue: 0,0:15:05.10,0:15:06.03,Default,,0000,0000,0000,,Apa?!
+Dialogue: 0,0:15:06.68,0:15:08.38,Default,,0000,0000,0000,,kami menemukan ini di lokasi.
+Dialogue: 0,0:15:12.07,0:15:13.00,Default,,0000,0000,0000,,Nona Tsunade...
+Dialogue: 0,0:15:16.36,0:15:17.40,Default,,0000,0000,0000,,Badai sudah mulai datang.
+Dialogue: 0,0:15:18.43,0:15:20.38,Default,,0000,0000,0000,,Ini adalah mimpi buruk kita..
+Dialogue: 0,0:15:21.16,0:15:23.29,Default,,0000,0000,0000,,Perang dunia ninja yang keempat tampaknya sudah akan dimulai.
+Dialogue: 0,0:15:25.69,0:15:30.89,Default,,0000,0000,0000,,Teknik chimeraku sendiri belum mampu untuk menelan ninjutsu dari ninja keturunan terakhir.
+Dialogue: 0,0:15:31.47,0:15:33.92,Default,,0000,0000,0000,,Ada kondisi tertentu yang harus pertama kali dipenuhi.
+Dialogue: 0,0:15:34.82,0:15:39.47,Default,,0000,0000,0000,,Aku sudah memenuhi kondisi untuk menyerap empat ninja keturunan terakhir.
+Dialogue: 0,0:15:40.17,0:15:45.62,Default,,0000,0000,0000,,Tapi untuk menyerap orang yang kelima...
+Dialogue: 0,0:15:45.62,0:15:50.52,Default,,0000,0000,0000,,...kondisi untuk langit, bumi dan manusia harus terpenuhi.
+Dialogue: 0,0:15:51.43,0:15:54.37,Default,,0000,0000,0000,,Langit adalah lingkaran gerhana.
+Dialogue: 0,0:15:54.67,0:15:56.43,Default,,0000,0000,0000,,Bumi adalah Shumisen.
+Dialogue: 0,0:15:57.11,0:15:58.70,Default,,0000,0000,0000,,Dan manusia...
+Dialogue: 0,0:16:01.63,0:16:10.23,Default,,0000,0000,0000,,jika aku bisa menyerap garis keturunan terakhir, semua lima unsur akan seimbang dalam tubuhku.
+Dialogue: 0,0:16:10.23,0:16:14.22,Default,,0000,0000,0000,,Aku akan abadi. Ninja terakhir akan segera muncul.
+Dialogue: 0,0:16:15.45,0:16:19.81,Default,,0000,0000,0000,,Kau adalah ninja keturunan terakhir yang layak menjadi orang kelimaku.
+Dialogue: 0,0:16:20.87,0:16:24.22,Default,,0000,0000,0000,,Jadi aku menyimpanmu untuk jadi yang terakhir.
+Dialogue: 0,0:16:25.27,0:16:30.23,Default,,0000,0000,0000,,Setelah semuanya, kau adalah teman lamaku.
+Dialogue: 0,0:16:43.70,0:16:47.65,Default,,0000,0000,0000,,Ini hanya sebentar, Hatake Kakashi.
+Dialogue: 0,0:16:52.90,0:16:55.30,Default,,0000,0000,0000,,Kau Hiruko...
+Dialogue: 0,0:17:24.34,0:17:25.21,Default,,0000,0000,0000,,Ada apa?
+Dialogue: 0,0:17:25.84,0:17:27.23,Default,,0000,0000,0000,,Muncul tanda.
+Dialogue: 0,0:17:27.44,0:17:28.21,Default,,0000,0000,0000,,Apa?
+Dialogue: 0,0:17:28.67,0:17:36.54,Default,,0000,0000,0000,,Hiruko memutuskan Sharinganku akan menjadi garis keturunan terakhir miliknya yang kelima setelah lebih dari sepuluh tahun yang lalu.
+Dialogue: 0,0:17:37.09,0:17:39.97,Default,,0000,0000,0000,,Dia meletakkan teknik untuk mengendalikan manusia padaku dibeberapa titik.
+Dialogue: 0,0:17:42.83,0:17:43.73,Default,,0000,0000,0000,,Mengapa?!
+Dialogue: 0,0:17:44.01,0:17:47.61,Default,,0000,0000,0000,,Apakah dia berniat membalas dendam pada Konoha?
+Dialogue: 0,0:17:47.85,0:17:50.70,Default,,0000,0000,0000,,Jika itu memang benar dia, aku telah melakukan kesalahan juga.
+Dialogue: 0,0:17:51.57,0:17:53.71,Default,,0000,0000,0000,,Aku tidak akan membiarkan hiruko mendapatkanmu.
+Dialogue: 0,0:17:53.97,0:17:56.48,Default,,0000,0000,0000,,Tidak, biarkan aku pergi.
+Dialogue: 0,0:17:56.68,0:17:58.03,Default,,0000,0000,0000,,Tidak akan ada gunanya.
+Dialogue: 0,0:17:58.17,0:18:04.77,Default,,0000,0000,0000,,Menurut laporan yang  aku terima dari ANBU, ia menguasai teknik yang memungkinkan dia untuk mengubah teknik ninja dan merubahnya kembali menjadi chakra murni dan memakannya.
+Dialogue: 0,0:18:06.97,0:18:11.00,Default,,0000,0000,0000,,Dengan kata lain, Bahkan seorang ninja terbaik pun tidak dapat mendekatinya.
+Dialogue: 0,0:18:11.41,0:18:13.15,Default,,0000,0000,0000,,Pada dasarnya dia adalah seorang ninja yang terkalahkan.
+Dialogue: 0,0:18:13.77,0:18:17.78,Default,,0000,0000,0000,,Lalu mengapa dia memanggil ninja yang merupakan ninja dari keturunan yang terakhir?
+Dialogue: 0,0:18:19.12,0:18:24.01,Default,,0000,0000,0000,,Aku membayangkan kondisi tertentu harus dipenuhi baginya untuk dapat menyerap ninja keturunan yang terakhir.
+Dialogue: 0,0:18:24.77,0:18:27.36,Default,,0000,0000,0000,,Mengapa dia tidak memilih untuk memanggilku sekarang?
+Dialogue: 0,0:18:29.97,0:18:33.36,Default,,0000,0000,0000,,Aku pernah mendengar bahwa ada kondisi khusus untuk menangani ninja bertipe petir.
+Dialogue: 0,0:18:38.26,0:18:41.18,Default,,0000,0000,0000,,Akan ada gerhana matahari total dalam dua hari...
+Dialogue: 0,0:18:42.03,0:18:44.33,Default,,0000,0000,0000,,...mungkin itu. kita tidak mempunyai banyak waktu.
+Dialogue: 0,0:18:45.06,0:18:48.65,Default,,0000,0000,0000,,Nona Tsunade, adakah teknik yang kau miliki untuk digunakan padaku.
+Dialogue: 0,0:18:49.02,0:18:52.23,Default,,0000,0000,0000,,Ini adalah satu-satunya jalan untuk mengalahkan Hiruko.
+Dialogue: 0,0:18:53.40,0:18:58.61,Default,,0000,0000,0000,,Kakashi, aku akan mengorbankan bawahan untuk melindungi desa.
+Dialogue: 0,0:18:59.61,0:19:02.88,Default,,0000,0000,0000,,Kau ingin melihat kembali sejarahku sebagai hokage berhati dingin?
+Dialogue: 0,0:19:03.40,0:19:05.48,Default,,0000,0000,0000,,Ya, itulah yang aku inginkan.
+Dialogue: 0,0:19:06.15,0:19:08.73,Default,,0000,0000,0000,,Nona Tsunade, itu adalah semangat api yang kau miliki.
+Dialogue: 0,0:19:24.20,0:19:29.59,Default,,0000,0000,0000,,Asuma, saat ini desa berada dalam bahaya yang belum pernah terjadi sebelumnya.
+Dialogue: 0,0:19:31.48,0:19:37.04,Default,,0000,0000,0000,,Aku tidak pernah sekali pun mengalahkanmu dalam Shogi...
+Dialogue: 0,0:19:37.68,0:19:40.42,Default,,0000,0000,0000,,Ingatkah pembicaraan kita tentang sang raja?
+Dialogue: 0,0:19:42.60,0:19:46.19,Default,,0000,0000,0000,,Aku akan mengatakan padamu sebenarnya itu siapa...
+Dialogue: 0,0:19:47.18,0:19:48.43,Default,,0000,0000,0000,,Medekatlah..
+Dialogue: 0,0:19:57.20,0:20:00.08,Default,,0000,0000,0000,,Asuma! kau... tapi...
+Dialogue: 0,0:20:06.24,0:20:08.73,Default,,0000,0000,0000,,Tolonglah, Shikamaru...
+Dialogue: 0,0:20:30.50,0:20:32.29,Default,,0000,0000,0000,,Sekarang adalah giliranku.
+Dialogue: 0,0:20:33.70,0:20:39.15,Default,,0000,0000,0000,,Aku berjanji aku akan melindungi sang raja demi kematianmu.
+Dialogue: 0,0:20:41.59,0:20:42.34,Default,,0000,0000,0000,,Obito...
+Dialogue: 0,0:20:43.22,0:20:43.72,Default,,0000,0000,0000,,Rin...
+Dialogue: 0,0:20:44.91,0:20:47.13,Default,,0000,0000,0000,,Aku tidak mampu melindungi salah satu dari kalian.
+Dialogue: 0,0:20:48.52,0:20:53.09,Default,,0000,0000,0000,,Tapi aku berjanji aku akan melindungi Konoha.
+Dialogue: 0,0:21:05.47,0:21:09.20,Default,,0000,0000,0000,,Kakashi-sensei, kau mengunjungi makam seseorang?
+Dialogue: 0,0:21:10.31,0:21:14.02,Default,,0000,0000,0000,,Ya, benar sekali. kau mengunjung Asuma?
+Dialogue: 0,0:21:14.93,0:21:15.44,Default,,0000,0000,0000,,Ya
+Dialogue: 0,0:21:22.22,0:21:29.26,Default,,0000,0000,0000,,Aku akan memberikan seluruh hidupku untuk melindungi Konoha,\NItu diperlukan untuk melindungi apa yang sudah ditinggalkan oleh Asuma.
+Dialogue: 0,0:21:31.41,0:21:32.66,Default,,0000,0000,0000,,Itu saja.
+Dialogue: 0,0:21:38.63,0:21:41.25,Default,,0000,0000,0000,,Jadi itu semangat apimu...
+Dialogue: 0,0:21:42.66,0:21:44.27,Default,,0000,0000,0000,,Kau akan menjadi ninja yang hebat.
+Dialogue: 0,0:21:46.82,0:21:48.00,Default,,0000,0000,0000,,Apa itu?
+Dialogue: 0,0:21:48.32,0:21:52.18,Default,,0000,0000,0000,,Aku berharap kau bisa menyampaikan pesanku pada Naruto.
+Dialogue: 0,0:21:53.53,0:21:56.31,Default,,0000,0000,0000,,Mengapa kau tidak mengatakannya saja sendiri?
+Dialogue: 0,0:21:56.83,0:21:59.06,Default,,0000,0000,0000,,Karena, aku benar-benar tidak bisa.
+Dialogue: 0,0:22:02.45,0:22:05.28,Default,,0000,0000,0000,,Asal jangan menyeretku masuk kedalam hal yang bermasalah.
+Dialogue: 0,0:22:07.27,0:22:10.51,Default,,0000,0000,0000,,selalu begitu serius.
+Dialogue: 0,0:22:17.04,0:22:20.54,Default,,0000,0000,0000,,Apa kau yakin menyelinap keluar dari rumah sakit?
+Dialogue: 0,0:22:25.71,0:22:29.61,Default,,0000,0000,0000,,Aku menghabiskan satu malam di rumah sakit dan masuk ke dunia yang sialan.
+Dialogue: 0,0:22:29.63,0:22:31.31,Default,,0000,0000,0000,,Aku tidak bisa hanya berbaring di tempat tidur dan tidur.
+Dialogue: 0,0:22:31.31,0:22:32.82,Default,,0000,0000,0000,,Pak tua, terima kasih makanannya.
+Dialogue: 0,0:22:39.93,0:22:41.02,Default,,0000,0000,0000,,Kakashi-sensei...
+Dialogue: 0,0:22:51.82,0:22:53.09,Default,,0000,0000,0000,,Kita sedang berada dibawah situasi darurat militer.
+Dialogue: 0,0:22:53.28,0:22:55.78,Default,,0000,0000,0000,,Kami takut untuk membiarkanmu lewat, Kakashi.
+Dialogue: 0,0:23:18.65,0:23:19.62,Default,,0000,0000,0000,,Kakashi-sensei!
+Dialogue: 0,0:23:20.22,0:23:22.89,Default,,0000,0000,0000,,Kakashi-sensei, apa yang sudah terjadi?!
+Dialogue: 0,0:23:23.10,0:23:24.08,Default,,0000,0000,0000,,Tak bisakah kau mendengar?
+Dialogue: 0,0:23:24.76,0:23:26.05,Default,,0000,0000,0000,,Berhenti, Naruto.
+Dialogue: 0,0:23:26.24,0:23:27.45,Default,,0000,0000,0000,,Minggir Shikamaru.
+Dialogue: 0,0:23:27.73,0:23:29.62,Default,,0000,0000,0000,,Ada sesuatu yang salah dengan Kakashi-sensei.
+Dialogue: 0,0:23:30.80,0:23:32.49,Default,,0000,0000,0000,,{\b1\fnForte\fs24\c&H313135&\3c&HFFFFFF&}Kage Mane no Jutsu!{\b0}
+Dialogue: 0,0:23:33.73,0:23:34.97,Default,,0000,0000,0000,,Apa ini?!
+Dialogue: 0,0:23:35.21,0:23:37.31,Default,,0000,0000,0000,,Kakashi-sensei menginginkan aku menyampaikan sesuatu padamu.
+Dialogue: 0,0:23:38.69,0:23:44.65,Default,,0000,0000,0000,,dia tidak ingin kau pergi setelah dia pergi meninggalkan desa.
+Dialogue: 0,0:23:44.85,0:23:45.62,Default,,0000,0000,0000,,Apa?!
+Dialogue: 0,0:23:52.48,0:23:54.18,Default,,0000,0000,0000,,Apa yang kau tahu?!
+Dialogue: 0,0:23:54.52,0:23:56.00,Default,,0000,0000,0000,,Aku tidak bisa mengatakannya.
+Dialogue: 0,0:23:56.25,0:24:01.09,Default,,0000,0000,0000,,tapi peraturan desa menyatakan bahwa ninja konoha harus mengikuti semua perintah.
+Dialogue: 0,0:24:01.09,0:24:02.47,Default,,0000,0000,0000,,Mengapa kau-!
+Dialogue: 0,0:24:03.24,0:24:04.31,Default,,0000,0000,0000,,Aku tidak akan membiarkannya pergi.
+Dialogue: 0,0:24:05.89,0:24:08.79,Default,,0000,0000,0000,,dia bersedia mempertaruhkan hidupnya untuk menyelamatkan desa.
+Dialogue: 0,0:24:08.79,0:24:10.97,Default,,0000,0000,0000,,Itulah semangat api dari Kakashi-sensei.
+Dialogue: 0,0:24:16.27,0:24:17.15,Default,,0000,0000,0000,,sensei...
+Dialogue: 0,0:24:18.29,0:24:20.35,Default,,0000,0000,0000,,Kakashi-sensei!
+Dialogue: 0,0:24:25.39,0:24:27.47,Default,,0000,0000,0000,,Hatake Kakashi telah pergi meninggalkan desa.
+Dialogue: 0,0:24:29.97,0:24:33.46,Default,,0000,0000,0000,,selanjutnya, semua hubungan antara kakashi dan desa kita sudah putus.
+Dialogue: 0,0:24:34.14,0:24:36.50,Default,,0000,0000,0000,,Tidak perduli apa yang terjadi, menjauhlah dari dia.
+Dialogue: 0,0:24:37.17,0:24:39.76,Default,,0000,0000,0000,,Sesungguhnya, itu berarti kalian tidak usah lagi mengejarnya.
+Dialogue: 0,0:24:40.32,0:24:43.65,Default,,0000,0000,0000,,Pastikan seluruh team mengetahui tentang hal ini.
+Dialogue: 0,0:24:43.65,0:24:44.96,Default,,0000,0000,0000,,Tapi Nona Tsunade-
+Dialogue: 0,0:24:44.96,0:24:45.86,Default,,0000,0000,0000,,Kakashi sudah dipecat!
+Dialogue: 0,0:24:50.66,0:24:51.77,Default,,0000,0000,0000,,Shikamaru, kau tetap disini.
+Dialogue: 0,0:24:53.33,0:24:54.30,Default,,0000,0000,0000,,Kita perlu bicara.
+Dialogue: 0,0:24:56.46,0:24:57.12,Default,,0000,0000,0000,,Baiklah.
+Dialogue: 0,0:25:01.22,0:25:03.27,Default,,0000,0000,0000,,Ini sepertinya sudah dipredisikan oleh Kakashi.
+Dialogue: 0,0:25:03.27,0:25:05.27,Default,,0000,0000,0000,,Naruto mencoba untuk mengejarnya.
+Dialogue: 0,0:25:05.97,0:25:07.88,Default,,0000,0000,0000,,Untuk saat ini aku telah mengurungnya dipenjara.
+Dialogue: 0,0:25:08.69,0:25:10.97,Default,,0000,0000,0000,,Setelah semua hal bodoh yang telah dilakukannya...
+Dialogue: 0,0:25:16.07,0:25:17.71,Default,,0000,0000,0000,,Tentang Kakashi-sensei...
+Dialogue: 0,0:25:18.34,0:25:21.25,Default,,0000,0000,0000,,Apakah ini berkaitan dengan rencana besar yang sedang direncanakan?
+Dialogue: 0,0:25:22.38,0:25:27.48,Default,,0000,0000,0000,,jelas bahwa ada seseorang yang mengendalikan dia ketika pergi meninggalkan desa.
+Dialogue: 0,0:25:27.73,0:25:30.85,Default,,0000,0000,0000,,Tapi dia mengetahui hal itu dan menerimanya.
+Dialogue: 0,0:25:31.22,0:25:35.10,Default,,0000,0000,0000,,Dia melakukannya karena ia pikir itu adalah satu-satunya cara untuk bisa mengalahkan musuh.
+Dialogue: 0,0:25:35.80,0:25:36.81,Default,,0000,0000,0000,,Apakah aku salah?
+Dialogue: 0,0:25:37.59,0:25:39.99,Default,,0000,0000,0000,,Cerdas seperti biasanya...
+Dialogue: 0,0:25:40.60,0:25:43.05,Default,,0000,0000,0000,,Dan kau membiarkan dia untuk melakukannya?!
+Dialogue: 0,0:25:43.66,0:25:47.51,Default,,0000,0000,0000,,Ya, aku memerintahkannya untuk mati demi melindungi desa.
+Dialogue: 0,0:25:48.60,0:25:49.90,Default,,0000,0000,0000,,Lepaskan aku!
+Dialogue: 0,0:25:50.18,0:25:52.90,Default,,0000,0000,0000,,Berhentilah bercanda, keluarkan aku dari sini!.
+Dialogue: 0,0:25:53.18,0:25:56.06,Default,,0000,0000,0000,,Aku akan mengejar Kakashi-sensei!
+Dialogue: 0,0:25:56.50,0:25:58.98,Default,,0000,0000,0000,,Aku akan membawanya kembali!
+Dialogue: 0,0:25:59.16,0:26:00.39,Default,,0000,0000,0000,,Sial!
+Dialogue: 0,0:26:04.69,0:26:08.66,Default,,0000,0000,0000,,Tidak adakah orang yang datang kesini! adakah orang disekitar sini?
+Dialogue: 0,0:26:09.26,0:26:12.73,Default,,0000,0000,0000,,Mengapa? mengapa kalian tidak membiarkan aku?
+Dialogue: 0,0:26:12.97,0:26:15.91,Default,,0000,0000,0000,,Mengapa tidak ada seseorang yang mengerti?
+Dialogue: 0,0:26:21.37,0:26:22.45,Default,,0000,0000,0000,,Kakashi-sensei...
+Dialogue: 0,0:26:26.69,0:26:27.68,Default,,0000,0000,0000,,Sakura-chan!
+Dialogue: 0,0:26:28.77,0:26:31.24,Default,,0000,0000,0000,,Naruto, kenapa mereka melakukan ini padamu?
+Dialogue: 0,0:26:32.24,0:26:33.48,Default,,0000,0000,0000,,Aku tidak tahu.
+Dialogue: 0,0:26:33.68,0:26:38.43,Default,,0000,0000,0000,,Kakashi-sensei bersikap aneh ketika aku mencoba membawanya kembali.
+Dialogue: 0,0:26:40.56,0:26:43.88,Default,,0000,0000,0000,,Nona Tsunade mengatakan bahwa dia pergi meninggalkan desa.
+Dialogue: 0,0:26:44.44,0:26:47.20,Default,,0000,0000,0000,,Nona Tsunade memerintahkan untuk menjauhinya karena dia bukan lagi bagian dari desa .
+Dialogue: 0,0:26:47.45,0:26:49.12,Default,,0000,0000,0000,,Tidak mungkin! ini semakin kacau
+Dialogue: 0,0:26:49.58,0:26:53.00,Default,,0000,0000,0000,,Kelihatannya ada seseorang yang mengontrol Kakashi-sensei.
+Dialogue: 0,0:26:53.54,0:26:58.05,Default,,0000,0000,0000,,Nenek Tsunade sudah gila jika dia berpikir kita akan pergi meninggalkannya!
+Dialogue: 0,0:26:58.54,0:27:01.08,Default,,0000,0000,0000,,Apakah ini berhubungan dengan ilusi?
+Dialogue: 0,0:27:02.44,0:27:05.48,Default,,0000,0000,0000,,Oh ya...dia mengatakan jangan mengejarnya apapun yang terjadi.
+Dialogue: 0,0:27:05.78,0:27:09.02,Default,,0000,0000,0000,,mempertaruhkan hidupnya untuk melindungi desa adalah semangat apinya.
+Dialogue: 0,0:27:09.27,0:27:12.08,Default,,0000,0000,0000,,Itulah yang dikatakan oleh kakashi-sensei.
+Dialogue: 0,0:27:12.71,0:27:17.38,Default,,0000,0000,0000,,Pasti dia mempertaruhkan nyawanya untuk menuntaskan semua kekacauan ini!
+Dialogue: 0,0:27:18.19,0:27:21.73,Default,,0000,0000,0000,,maka itu bukanlah satu-satunya cara dan membiarkan dia pergi sendiri!
+Dialogue: 0,0:27:22.73,0:27:24.44,Default,,0000,0000,0000,,Tapi Nona Tsunade...
+Dialogue: 0,0:27:27.86,0:27:28.82,Default,,0000,0000,0000,,Sakura-chan.
+Dialogue: 0,0:27:31.64,0:27:33.96,Default,,0000,0000,0000,,Kau melihat lonceng yang berada didekatmu?
+Dialogue: 0,0:27:34.90,0:27:36.75,Default,,0000,0000,0000,,Kakashi-sensei memberikannya padaku.
+Dialogue: 0,0:27:38.46,0:27:42.08,Default,,0000,0000,0000,,Ingat? ingat kembali pada apa yang dia beritahukan pada kita.
+Dialogue: 0,0:27:42.97,0:27:45.37,Default,,0000,0000,0000,,Dalam dunia ninja, orang-orang yang melanggar peraturan dianggap sampah,
+Dialogue: 0,0:27:45.37,0:27:48.85,Default,,0000,0000,0000,,Tapi jika ada seseorang yang tidak perduli terhadap temannya dia dianggap lebih rendah dari sampah.
+Dialogue: 0,0:27:49.40,0:27:52.18,Default,,0000,0000,0000,,Aku hanya ingin melindungi temanku!
+Dialogue: 0,0:27:52.83,0:27:55.65,Default,,0000,0000,0000,,Seperti itulah... yang aku lakukan pada Sasuke!
+Dialogue: 0,0:27:56.18,0:28:00.56,Default,,0000,0000,0000,,Dan sekarang ini. aku ingin membawa kembali Kakashi-sensei dengan kedua tanganku sendiri.
+Dialogue: 0,0:28:00.88,0:28:02.56,Default,,0000,0000,0000,,Hanya itu yang aku inginkan.
+Dialogue: 0,0:28:04.47,0:28:08.70,Default,,0000,0000,0000,,Naruto... ini adalah permintaan untuk seumur hidup.
+Dialogue: 0,0:28:09.86,0:28:12.44,Default,,0000,0000,0000,,Bawa kembali Sasuke-kun.
+Dialogue: 0,0:28:13.89,0:28:16.76,Default,,0000,0000,0000,,Aku berjanji aku akan membawanya kembali!
+Dialogue: 0,0:28:17.24,0:28:19.59,Default,,0000,0000,0000,,Ini adalah janjiku seumur hidup.
+Dialogue: 0,0:28:23.47,0:28:26.30,Default,,0000,0000,0000,,Naruto, terima kasih!
+Dialogue: 0,0:28:30.66,0:28:33.57,Default,,0000,0000,0000,,Naruto, bisakah kau melindungi Kakashi-sensei?
+Dialogue: 0,0:28:35.94,0:28:39.28,Default,,0000,0000,0000,,Bisakah tanganmu menggapainya?
+Dialogue: 0,0:28:41.34,0:28:46.35,Default,,0000,0000,0000,,Yah!aku berjanji kali ini aku akan menepati janjiku!
+Dialogue: 0,0:28:47.50,0:28:48.55,Default,,0000,0000,0000,,Naruto...
+Dialogue: 0,0:28:54.60,0:28:56.69,Default,,0000,0000,0000,,Mengapa kau mengejarnya sendirian?!
+Dialogue: 0,0:28:57.47,0:29:00.96,Default,,0000,0000,0000,,Aku adalah anggota dari team Kakashi juga, kau seharusnya mengatakan sesuatu.
+Dialogue: 0,0:29:02.97,0:29:04.11,Default,,0000,0000,0000,,Sakura-chan...
+Dialogue: 0,0:29:05.17,0:29:07.78,Default,,0000,0000,0000,,Kau sialan!!!
+Dialogue: 0,0:29:10.28,0:29:12.54,Default,,0000,0000,0000,,Pembunuhan besar-besaran.
+Dialogue: 0,0:29:16.35,0:29:17.89,Default,,0000,0000,0000,,Jadi hanya itu...
+Dialogue: 0,0:29:18.63,0:29:19.71,Default,,0000,0000,0000,,Nona Tsunade!
+Dialogue: 0,0:29:20.86,0:29:23.15,Default,,0000,0000,0000,,Uzumaki Naruto melarikan diri!
+Dialogue: 0,0:29:23.51,0:29:24.39,Default,,0000,0000,0000,,Apa?!
+Dialogue: 0,0:29:24.70,0:29:27.31,Default,,0000,0000,0000,,Kelihatannya Sakura yang menolongnya.
+Dialogue: 0,0:29:27.91,0:29:29.47,Default,,0000,0000,0000,,Sial!
+Dialogue: 0,0:29:29.85,0:29:33.48,Default,,0000,0000,0000,,Nona Hokage, mengapa tidak menyuruhku untuk menanganinya?
+Dialogue: 0,0:29:34.48,0:29:38.30,Default,,0000,0000,0000,,Kekacauan yang dibuatnya, itu adalah tugasku.
+Dialogue: 0,0:29:38.55,0:29:39.46,Default,,0000,0000,0000,,Baiklah.
+Dialogue: 0,0:29:40.02,0:29:43.51,Default,,0000,0000,0000,,Shikamaru, Aku menyerahkan Naruto dan Sakura padamu.
+Dialogue: 0,0:29:44.77,0:29:46.27,Default,,0000,0000,0000,,Apa semuanya sudah berkumpul?
+Dialogue: 0,0:29:47.43,0:29:52.43,Default,,0000,0000,0000,,Kita diperintahkan oleh lady Tsunade untuk menangkap naruto dan sakura, dan bawa mereka kembali.
+Dialogue: 0,0:29:53.77,0:29:57.01,Default,,0000,0000,0000,,Tunggu sebentar! apa yang sudah terjadi?
+Dialogue: 0,0:29:57.25,0:29:59.72,Default,,0000,0000,0000,,Kau sudah mendengar pesan Nona Tsunade, bukan?
+Dialogue: 0,0:30:00.16,0:30:03.91,Default,,0000,0000,0000,,Naruto dan Sakura melanggar perintahnya dan pergi mengejar Kakashi.
+Dialogue: 0,0:30:04.28,0:30:07.07,Default,,0000,0000,0000,,tetapi mengapa Tsunade-sensei memerintahkan kita untuk tidak mengejarnya?
+Dialogue: 0,0:30:07.40,0:30:11.82,Default,,0000,0000,0000,,Aku pikir ini wajar bagi mereka semenjak mereka menjadi anggota dari team kakashi!
+Dialogue: 0,0:30:12.11,0:30:13.82,Default,,0000,0000,0000,,Jangan berpikir terlalu dalam tentang hal ini.
+Dialogue: 0,0:30:13.99,0:30:17.02,Default,,0000,0000,0000,,Kalau begitu berikan aku alasan yang tepat agar aku bisa mengganti pemikiranku!
+Dialogue: 0,0:30:17.29,0:30:18.81,Default,,0000,0000,0000,,Lee, mengalahlah.
+Dialogue: 0,0:30:19.33,0:30:23.67,Default,,0000,0000,0000,,Aku akan mematuhi Shikamaru jika hokage memerintahkannya menjadi kapten kita.
+Dialogue: 0,0:30:24.34,0:30:25.29,Default,,0000,0000,0000,,Tapi...
+Dialogue: 0,0:30:25.29,0:30:26.42,Default,,0000,0000,0000,,Aku juga.
+Dialogue: 0,0:30:27.01,0:30:30.39,Default,,0000,0000,0000,,Itu menandakan bagaimana peraturan ini berjalan didesa konoha .
+Dialogue: 0,0:30:30.72,0:30:32.33,Default,,0000,0000,0000,,Baiklah, kita tidak mempunyai banyak waktu.
+Dialogue: 0,0:30:32.33,0:30:34.99,Default,,0000,0000,0000,,kita akan mengatur tim saat tim sedang bergerak.
+Dialogue: 0,0:30:35.42,0:30:36.16,Default,,0000,0000,0000,,Ayo pergi!
+Dialogue: 0,0:30:59.32,0:31:00.96,Default,,0000,0000,0000,,Desa sungakure sudah mulai bergerak maju.
+Dialogue: 0,0:31:05.75,0:31:16.43,Default,,0000,0000,0000,,Pergilah!
+Dialogue: 0,0:31:20.39,0:31:23.31,Default,,0000,0000,0000,,Akhirnya kita bertemu lagi, Kakashi.
+Dialogue: 0,0:31:24.75,0:31:27.91,Default,,0000,0000,0000,,Pergi dan sambutlah tamu kehormatan kita.
+Dialogue: 0,0:31:28.63,0:31:33.28,Default,,0000,0000,0000,,Jika seseorang mencoba menhalangi jalanmu, bunuh mereka.
+Dialogue: 0,0:31:33.87,0:31:34.53,Default,,0000,0000,0000,,Baik.
+Dialogue: 0,0:31:47.97,0:31:48.89,Default,,0000,0000,0000,,Kakashi-sensei!
+Dialogue: 0,0:31:50.79,0:31:51.85,Default,,0000,0000,0000,,Kakashi-sensei!
+Dialogue: 0,0:31:52.86,0:31:54.25,Default,,0000,0000,0000,,Tunggu!
+Dialogue: 0,0:31:59.03,0:31:59.89,Default,,0000,0000,0000,,Kalian!
+Dialogue: 0,0:31:59.97,0:32:05.75,Default,,0000,0000,0000,,Naruto, Sakura, dengan ini aku diperintahkan oleh peraturan yang berlaku untuk membawa kalian kembali ke desa.
+Dialogue: 0,0:32:06.59,0:32:10.42,Default,,0000,0000,0000,,Kakashi-sensei pergi meninggalkan desa karena ada orang yang mengontrolnya.
+Dialogue: 0,0:32:10.42,0:32:12.33,Default,,0000,0000,0000,,Tolong, Biarkan Naruto pergi!
+Dialogue: 0,0:32:12.33,0:32:15.24,Default,,0000,0000,0000,,Aku tidak akan membiarkan! Nona Tsunade sudah jelas memberikan perintah.
+Dialogue: 0,0:32:15.46,0:32:19.50,Default,,0000,0000,0000,,Hokage telah memerintahkan kita agar tidak berhubungan lagi dengan Kakashi!
+Dialogue: 0,0:32:29.95,0:32:34.02,Default,,0000,0000,0000,,Tentu, orang yang melanggar peraturan desa akan dianggap sebagai sampah.
+Dialogue: 0,0:32:37.80,0:32:39.17,Default,,0000,0000,0000,,Tapi kau harus tahu...
+Dialogue: 0,0:32:42.43,0:32:45.94,Default,,0000,0000,0000,,Kakashi-sensei mengajariku sesuatu selama kami melakukan latihan secara bersama-sama.
+Dialogue: 0,0:32:46.70,0:32:50.87,Default,,0000,0000,0000,,Orang yang tidak perduli terhadap temannya lebih buruk dari sampah.
+Dialogue: 0,0:32:53.13,0:32:55.79,Default,,0000,0000,0000,,Aku tidak ingin menjadi seorang ninja yang dianggap lebih buruk dari sampah!
+Dialogue: 0,0:32:58.13,0:33:03.09,Default,,0000,0000,0000,,Um, apakah itu benar kakashi-sensei telah dikontrol oleh seseorang?
+Dialogue: 0,0:33:03.73,0:33:10.15,Default,,0000,0000,0000,,yeah. kakashi-sensei sengaja membiarkan dia mengambil alih supaya dia bisa masuk ke tempat persembunyian mereka.
+Dialogue: 0,0:33:13.12,0:33:17.52,Default,,0000,0000,0000,,mungkin, jika aku mengetahui hal itu, aku juga akan bersikap seperti apa yang dilakukan oleh Naruto-kun!
+Dialogue: 0,0:33:17.52,0:33:18.42,Default,,0000,0000,0000,,Aku juga sama.
+Dialogue: 0,0:33:19.85,0:33:21.82,Default,,0000,0000,0000,,Aku juga, jika aku bisa melakukannya.
+Dialogue: 0,0:33:22.79,0:33:27.03,Default,,0000,0000,0000,,Tapi hanya itu satu-satunya jalan untuk menyelamatkan masa depan desa kita.
+Dialogue: 0,0:33:29.71,0:33:30.52,Default,,0000,0000,0000,,Berpencar!
+Dialogue: 0,0:33:33.71,0:33:34.84,Default,,0000,0000,0000,,Sekarang, Naruto!
+Dialogue: 0,0:33:34.94,0:33:35.42,Default,,0000,0000,0000,,ya!
+Dialogue: 0,0:33:36.07,0:33:37.07,Default,,0000,0000,0000,,Sial!
+Dialogue: 0,0:33:37.80,0:33:40.07,Default,,0000,0000,0000,,Neji, aku membutuhkan satu tim untuk mengatasi hal ini.
+Dialogue: 0,0:33:40.07,0:33:41.34,Default,,0000,0000,0000,,Aku akan melakukannya.
+Dialogue: 0,0:33:42.11,0:33:45.36,Default,,0000,0000,0000,,Hey kalian, kami memiliki alasan untuk melakukan hal ini.
+Dialogue: 0,0:33:45.36,0:33:47.60,Default,,0000,0000,0000,,Aku tidak akan membiarkanmu melewati pintu itu.
+Dialogue: 0,0:33:49.36,0:33:51.38,Default,,0000,0000,0000,,{\b1\fnForte\fs24\c&H450124&\3c&HFFFFFF&}Kuchiyose, Soutouja!{\b0}
+Dialogue: 0,0:33:52.96,0:33:54.12,Default,,0000,0000,0000,,{\b1\fnForte\fs24\c&H450124&\3c&HFFFFFF&}Dakoumou!{\b0}
+Dialogue: 0,0:33:56.32,0:33:57.28,Default,,0000,0000,0000,,Mereka itu apa?!
+Dialogue: 0,0:33:57.43,0:33:58.80,Default,,0000,0000,0000,,Terus saja berlari!
+Dialogue: 0,0:34:04.80,0:34:06.13,Default,,0000,0000,0000,,Kunai peledak!
+Dialogue: 0,0:34:12.46,0:34:15.70,Default,,0000,0000,0000,,Berhati-hatilah! dia memiliki jumlah chakra yang mengagumkan.
+Dialogue: 0,0:34:16.61,0:34:19.61,Default,,0000,0000,0000,,Kalian tidak terlalu buruk.
+Dialogue: 0,0:34:27.93,0:34:29.08,Default,,0000,0000,0000,,Pintu lain?
+Dialogue: 0,0:34:29.44,0:34:31.86,Default,,0000,0000,0000,,Kakashi-sensei pasti telah melewatinya.
+Dialogue: 0,0:34:33.51,0:34:34.97,Default,,0000,0000,0000,,Akhirnya kalian datang kesini.
+Dialogue: 0,0:34:35.81,0:34:40.20,Default,,0000,0000,0000,,Binatang kesayanganku ini sudah bosan menunggu.
+Dialogue: 0,0:34:40.85,0:34:44.47,Default,,0000,0000,0000,,Mereka ingin membalas kekalahan mereka waktu itu.
+Dialogue: 0,0:34:47.20,0:34:51.19,Default,,0000,0000,0000,,Sempurna. aku juga memiliki hutang pada salah satunya!
+Dialogue: 0,0:34:51.49,0:34:54.50,Default,,0000,0000,0000,,Kau seharusnya tetap menyimpan binatangmu dan memberikannya kalung!
+Dialogue: 0,0:34:55.20,0:34:57.16,Default,,0000,0000,0000,,Yang biasanya digunakan oleh anjing.
+Dialogue: 0,0:34:58.17,0:34:59.96,Default,,0000,0000,0000,,Bukan begitu, Hinata?
+Dialogue: 0,0:34:59.96,0:35:04.22,Default,,0000,0000,0000,,mereka memiliki aliran chakra yang sama seperti yang dimiliki oleh anjing ninja terlatih .
+Dialogue: 0,0:35:04.22,0:35:06.62,Default,,0000,0000,0000,,Itu jelas mereka bukanlah anjing yang normal.
+Dialogue: 0,0:35:07.23,0:35:10.53,Default,,0000,0000,0000,,Mereka bahkan terlihat tidak normal.
+Dialogue: 0,0:35:10.53,0:35:13.88,Default,,0000,0000,0000,,Jangan menganggu jika aku sedang bicara, Shino.
+Dialogue: 0,0:35:14.64,0:35:21.72,Default,,0000,0000,0000,,Naruto, Sakura! aku tidak tahu yang kau lakukan itu benar apa salah.
+Dialogue: 0,0:35:22.41,0:35:27.22,Default,,0000,0000,0000,,Tapi aku mengerti apa sebenarnya yang kau rasakan.
+Dialogue: 0,0:35:28.43,0:35:32.69,Default,,0000,0000,0000,,Naruto-kun, Sakura-san. aku tidak berpikir kalau kalian salah!
+Dialogue: 0,0:35:33.76,0:35:35.59,Default,,0000,0000,0000,,Kiba, Hinata...
+Dialogue: 0,0:35:37.43,0:35:40.83,Default,,0000,0000,0000,,Aku katakan mereka sudah sangat bosan! habisi mereka!
+Dialogue: 0,0:35:44.84,0:35:46.87,Default,,0000,0000,0000,,Mari kita kesampingkan dulu pendapat kita.
+Dialogue: 0,0:35:47.37,0:35:49.35,Default,,0000,0000,0000,,Kami akan menangani ini untukmu.
+Dialogue: 0,0:35:49.93,0:35:55.32,Default,,0000,0000,0000,,Setelah semuanya, kita memiliki binatang yang spesialis di tim kita.
+Dialogue: 0,0:35:55.81,0:35:57.57,Default,,0000,0000,0000,,Ayo, Akamaru!
+Dialogue: 0,0:35:58.50,0:35:59.90,Default,,0000,0000,0000,,( Juujin Hengen: Perubahan manusia-binatang )
+Dialogue: 0,0:35:58.50,0:35:59.90,Default,,0000,0000,0000,,{\b1\fnForte\fs24\c&H67676B&\3c&HFFFFFF&}Juujin Hengen!{\b0}
+Dialogue: 0,0:36:03.65,0:36:04.79,Default,,0000,0000,0000,,{\b1\fnForte\fs24\c&H67676B&\3c&HFFFFFF&}Gatsuuga!{\b0}
+Dialogue: 0,0:36:07.61,0:36:08.60,Default,,0000,0000,0000,,Sangat mudah!
+Dialogue: 0,0:36:11.85,0:36:13.30,Default,,0000,0000,0000,,Pergi sekarang!
+Dialogue: 0,0:36:13.30,0:36:14.11,Default,,0000,0000,0000,,Kiba...
+Dialogue: 0,0:36:15.56,0:36:16.98,Default,,0000,0000,0000,,Tunggu, Naruto!
+Dialogue: 0,0:36:18.26,0:36:19.63,Default,,0000,0000,0000,,Terima kasih, Kiba!
+Dialogue: 0,0:36:22.45,0:36:24.25,Default,,0000,0000,0000,,Percayakan wanita ini pada kami.
+Dialogue: 0,0:36:24.25,0:36:26.78,Default,,0000,0000,0000,,Apa yang kau lakukan? kejar mereka!
+Dialogue: 0,0:36:26.78,0:36:27.87,Default,,0000,0000,0000,,Mereka tidak bisa.
+Dialogue: 0,0:36:38.72,0:36:40.12,Default,,0000,0000,0000,,Sekarang kita tinggal mengalahkan tuannya.
+Dialogue: 0,0:36:42.06,0:36:46.39,Default,,0000,0000,0000,,Binatangku... Beraninya kalian!...
+Dialogue: 0,0:36:47.00,0:36:48.09,Default,,0000,0000,0000,,{\b1\c&H0304D1&\3c&HFFFFFF&\fnForte\fs24}Kuchiyose!{\b0}
+Dialogue: 0,0:36:52.58,0:36:53.79,Default,,0000,0000,0000,,{\b1\fnForte\fs24\c&H0304D1&\3c&HFFFFFF&}Chimera no Jutsu{\b0}
+Dialogue: 0,0:36:56.26,0:36:57.05,Default,,0000,0000,0000,,Mereka datang!
+Dialogue: 0,0:37:04.81,0:37:06.86,Default,,0000,0000,0000,,Ini saatnya pertarungan yang sebenarnya.
+Dialogue: 0,0:37:22.77,0:37:25.28,Default,,0000,0000,0000,,Naruto, dengarkan aku.
+Dialogue: 0,0:37:25.67,0:37:31.82,Default,,0000,0000,0000,,musuh-musuh baru terus bermunculan menyerang kita itu membuktikan bahwa kakashi-sensei sangatlah penting bagi mereka
+Dialogue: 0,0:37:32.44,0:37:34.89,Default,,0000,0000,0000,,Artinya dugaan Kakashi-sensei itu benar.
+Dialogue: 0,0:37:35.35,0:37:38.45,Default,,0000,0000,0000,,Jadi, kita seharusnya membiarkan dia mengikuti apa yang sudah dia rencanakan?
+Dialogue: 0,0:37:38.45,0:37:40.45,Default,,0000,0000,0000,,Itu hanya omong kosong!
+Dialogue: 0,0:37:41.48,0:37:43.27,Default,,0000,0000,0000,,Kau sangat keras kepala dasar bodoh!
+Dialogue: 0,0:38:01.04,0:38:03.24,Default,,0000,0000,0000,,Aku juga ingin menyelamatkan Kakashi-sensei juga.
+Dialogue: 0,0:38:03.63,0:38:08.21,Default,,0000,0000,0000,,Tapi kita tidak bisa mengorbankan seluruh isi desa untuknya!
+Dialogue: 0,0:38:11.04,0:38:13.49,Default,,0000,0000,0000,,Itu adalah ucapan yang cukup bagus.
+Dialogue: 0,0:38:14.22,0:38:16.96,Default,,0000,0000,0000,,Sekarang, tujuanku adalah mengalahkan mereka dengan menggunakan titik peledak.
+Dialogue: 0,0:38:17.45,0:38:19.92,Default,,0000,0000,0000,,Darimana seharusnya aku memulai membunuh mereka?
+Dialogue: 0,0:38:29.10,0:38:31.10,Default,,0000,0000,0000,,Naruto, Sakura, naiklah!
+Dialogue: 0,0:38:32.86,0:38:33.66,Default,,0000,0000,0000,,Sai!
+Dialogue: 0,0:38:40.54,0:38:41.91,Default,,0000,0000,0000,,Mereka meninggalkan kita.
+Dialogue: 0,0:38:41.91,0:38:43.91,Default,,0000,0000,0000,,Sialan kau sai.
+Dialogue: 0,0:38:44.31,0:38:46.26,Default,,0000,0000,0000,,Menggunakan Bom Cahaya tidaklah adil!
+Dialogue: 0,0:38:48.44,0:38:52.29,Default,,0000,0000,0000,,Kelihatannya hanya tinggal mereka bertiga saja...
+Dialogue: 0,0:38:52.69,0:38:54.77,Default,,0000,0000,0000,,Apa yang harus kita lakukan, Shikamaru?
+Dialogue: 0,0:38:54.77,0:38:59.55,Default,,0000,0000,0000,,Aku yakin dia akan percaya kalau kita katakan padanya kalau kita bukanlah musuhnya.
+Dialogue: 0,0:39:00.24,0:39:02.65,Default,,0000,0000,0000,,Ayo kita coba lagi.
+Dialogue: 0,0:39:02.65,0:39:06.24,Default,,0000,0000,0000,,Kalau begitu kita harus mengalahkan dia.
+Dialogue: 0,0:39:07.66,0:39:11.27,Default,,0000,0000,0000,,Tapi kita tidak mempunyai banyak waktu!
+Dialogue: 0,0:39:21.16,0:39:24.24,Default,,0000,0000,0000,,Udara disini sudah mulai tidak stabil...kita harus segera turun.
+Dialogue: 0,0:39:24.79,0:39:25.59,Default,,0000,0000,0000,,Baiklah.
+Dialogue: 0,0:39:32.43,0:39:35.02,Default,,0000,0000,0000,,Sai, aku senang kau datang juga.
+Dialogue: 0,0:39:35.02,0:39:36.13,Default,,0000,0000,0000,,Kau sangat banyak membantu.
+Dialogue: 0,0:39:36.90,0:39:39.71,Default,,0000,0000,0000,,Karena aku juga adalah anggota dari tim kakashi.
+Dialogue: 0,0:39:40.90,0:39:43.13,Default,,0000,0000,0000,,Apakah kalian tidak keberatan jika aku ikut membantu, juga?
+Dialogue: 0,0:39:43.13,0:39:45.49,Default,,0000,0000,0000,,Tentu tidak! benarkan, Naruto?
+Dialogue: 0,0:39:45.49,0:39:50.22,Default,,0000,0000,0000,,Ya, siapa saja yang mengikuti teknik Kakashi-sensei adalah anggota dari tim kakashi.
+Dialogue: 0,0:39:51.57,0:39:52.53,Default,,0000,0000,0000,,Aku tahu itu.
+Dialogue: 0,0:39:54.10,0:39:55.83,Default,,0000,0000,0000,,Hi~
+Dialogue: 0,0:39:56.27,0:39:57.65,Default,,0000,0000,0000,,Hati wanita?!
+Dialogue: 0,0:39:58.06,0:40:02.57,Default,,0000,0000,0000,,buku itu mengatakan bahwa orang-orang akan berterima kasih bila kau muncul pada saat-saat seperti ini.
+Dialogue: 0,0:40:02.90,0:40:05.40,Default,,0000,0000,0000,,Aku merasa bodoh sampai hampir marah.
+Dialogue: 0,0:40:05.72,0:40:08.10,Default,,0000,0000,0000,,Kau menjatuhkan bukumu.
+Dialogue: 0,0:40:10.95,0:40:14.91,Default,,0000,0000,0000,,Pertahananmu sungguh mengesankan, tapi kau tidak dapat mengalahkanku jika kau tetap pada posisi bertahan.
+Dialogue: 0,0:40:14.91,0:40:16.91,Default,,0000,0000,0000,,Kalu begitu biar aku yang melawanmu.
+Dialogue: 0,0:40:24.40,0:40:25.26,Default,,0000,0000,0000,,{\b1\fnForte\fs24\c&H450124&\3c&HFFFFFF&}Jasenshi!{\b0}
+Dialogue: 0,0:40:27.64,0:40:28.34,Default,,0000,0000,0000,,{\b1\fnForte\fs24\c&HEAEAED&\3c&HFFFFFF&}Kaiten{\b0}
+Dialogue: 0,0:40:29.82,0:40:31.82,Default,,0000,0000,0000,,Kita tidak mendapatkan apa-apa.
+Dialogue: 0,0:40:32.11,0:40:35.18,Default,,0000,0000,0000,,Kalau saja kita bisa menyerang dengan tetap menjaga pertahanan kita.
+Dialogue: 0,0:40:35.37,0:40:38.70,Default,,0000,0000,0000,,Kaitenku dan regenerasi ularnya sangat setara satu sama lain.
+Dialogue: 0,0:40:38.70,0:40:41.94,Default,,0000,0000,0000,,Aku tidak bisa menyerang jika aku tidak meningkatkan kecepatan seranganku.
+Dialogue: 0,0:40:44.43,0:40:46.99,Default,,0000,0000,0000,,Lee, gunakan omote renge padaku!
+Dialogue: 0,0:40:47.23,0:40:48.44,Default,,0000,0000,0000,,Tenten, lindungi kami!
+Dialogue: 0,0:40:48.49,0:40:49.27,Default,,0000,0000,0000,,Baik!
+Dialogue: 0,0:40:49.30,0:40:52.17,Default,,0000,0000,0000,,omote renge? oh, aku tahu!
+Dialogue: 0,0:40:52.76,0:40:53.68,Default,,0000,0000,0000,,Itu tidak akan berguna!
+Dialogue: 0,0:40:55.38,0:40:56.77,Default,,0000,0000,0000,,Aku tidak akan membiarkanmu menghentikan mereka!
+Dialogue: 0,0:40:59.30,0:41:01.84,Default,,0000,0000,0000,,Kami datang! {\c&H015a0c&\fs24\fnForte\3c&HFFFFFF&\b0}Omote Renge!{\b1}{\c}{\fn\fs\fn\fs\fn\fs\fn\fs\fn\fs\fn\fs\b0\fn\b0\fn\b0\fn\b0\fn\b0\fn\b0}
+Dialogue: 0,0:41:02.17,0:41:03.98,Default,,0000,0000,0000,,{\b1\fnForte\fs24\c&HEAEAED&\3c&HFFFFFF&}Hakkeshou Kaiten!{\b0}
+Dialogue: 0,0:41:12.60,0:41:13.51,Default,,0000,0000,0000,,Apa?!
+Dialogue: 0,0:41:23.71,0:41:24.81,Default,,0000,0000,0000,,Rasakan ini!
+Dialogue: 0,0:41:34.87,0:41:39.88,Default,,0000,0000,0000,,Kau tidak dapat mengikuti kami dengan tubuhnya yang besar, benarkan?
+Dialogue: 0,0:41:39.88,0:41:41.88,Default,,0000,0000,0000,,Kalian orang-orang Konoha bajingan!
+Dialogue: 0,0:41:42.20,0:41:43.44,Default,,0000,0000,0000,,Mati kau!
+Dialogue: 0,0:41:51.81,0:41:53.20,Default,,0000,0000,0000,,Apa ini perangkap yang licik!
+Dialogue: 0,0:41:53.63,0:41:58.45,Default,,0000,0000,0000,,Aku muncul ketika kau sibuk dengan denga kiba dan itu membuat kau melupakan aku.
+Dialogue: 0,0:41:59.52,0:42:01.75,Default,,0000,0000,0000,,yang memberi aku banyak waktu untuk mengerjakan ini.
+Dialogue: 0,0:42:01.75,0:42:04.85,Default,,0000,0000,0000,,Ini hanya lubang! Apa yang kau-
+Dialogue: 0,0:42:04.85,0:42:07.21,Default,,0000,0000,0000,,Apakah kau benar-benar berfikir bahwa aku ini sangat lemah?!
+Dialogue: 0,0:42:14.80,0:42:15.50,Default,,0000,0000,0000,,Serangga?!
+Dialogue: 0,0:42:16.70,0:42:17.68,Default,,0000,0000,0000,,(Mushi Dama: Bola serangga )
+Dialogue: 0,0:42:16.70,0:42:17.68,Default,,0000,0000,0000,,{\b1\fnForte\fs24\c&H00071C&\3c&HFFFFFF&}Mushi Dama{\b0}
+Dialogue: 0,0:42:25.03,0:42:28.25,Default,,0000,0000,0000,,Ini sudah cukup lama, tapi mari kita gunakan formasi Ino-Shika-Chou!
+Dialogue: 0,0:42:28.25,0:42:29.38,Default,,0000,0000,0000,,Baik!
+Dialogue: 0,0:42:31.55,0:42:33.29,Default,,0000,0000,0000,,{\b1\fnForte\fs24\c&H0000FF&\3c&HFFFFFF&}Chou Baika no Jutsu!{\b0}
+Dialogue: 0,0:42:43.84,0:42:45.48,Default,,0000,0000,0000,,{\b1\fnForte\fs24\c&H7F0058&\3c&HFFFFFF&}Shintenshin no Jutsu!{\b0}
+Dialogue: 0,0:42:53.86,0:42:56.58,Default,,0000,0000,0000,,Sudah dilakukan.
+Dialogue: 0,0:42:59.21,0:43:05.40,Default,,0000,0000,0000,,Ino, katakan padanya kita disini untuk membawa naruto dan yang lainnya kembali .
+Dialogue: 0,0:43:05.40,0:43:07.94,Default,,0000,0000,0000,,Kita tidak ingin melawan mereka.
+Dialogue: 0,0:43:08.15,0:43:10.90,Default,,0000,0000,0000,,Tanyakan juga padanya kakashi menuju kemana.
+Dialogue: 0,0:43:12.64,0:43:19.55,Default,,0000,0000,0000,,Aku mengerti, tapi aku tidak bisa membiarkan informasi itu berlalu.
+Dialogue: 0,0:43:20.24,0:43:21.17,Default,,0000,0000,0000,,Apa?!
+Dialogue: 0,0:43:24.47,0:43:25.25,Default,,0000,0000,0000,,Shikamaru!
+Dialogue: 0,0:43:25.25,0:43:26.50,Default,,0000,0000,0000,,Mundur, Chouji!
+Dialogue: 0,0:43:29.45,0:43:30.90,Default,,0000,0000,0000,,{\b1\fnForte\fs24\c&H313135&\3c&HFFFFFF&}Kuchiyose no Jutsu!{\b0}
+Dialogue: 0,0:43:33.60,0:43:34.60,Default,,0000,0000,0000,,Dari semua waktu...
+Dialogue: 0,0:43:40.23,0:43:41.14,Default,,0000,0000,0000,,Apa?!
+Dialogue: 0,0:43:42.94,0:43:44.11,Default,,0000,0000,0000,,{\b1\fnForte\fs24\c&H450124&\3c&HFFFFFF&}Chimera no Jutsu!{\b0}
+Dialogue: 0,0:43:52.47,0:43:53.82,Default,,0000,0000,0000,,Apa yang dilakukannya?
+Dialogue: 0,0:43:54.01,0:43:56.95,Default,,0000,0000,0000,,aku tahu bahwa kita tidak bisa mendapatkan informasi darinya.
+Dialogue: 0,0:44:13.39,0:44:16.58,Default,,0000,0000,0000,,Hey, aku telah mengatakannya pada kalian! kami berbeda dengan kalian-
+Dialogue: 0,0:45:08.35,0:45:13.69,Default,,0000,0000,0000,,Aku kagum kau bisa keluar sendiri dengan kekuatanmu, Gaara.
+Dialogue: 0,0:45:15.59,0:45:23.57,Default,,0000,0000,0000,,Ini bukan hanya Kakashi. Semua ninja yang memiliki semangat api akan mertaruhkan hidupnya untuk menyelamatkan Konoha.
+Dialogue: 0,0:45:24.68,0:45:27.42,Default,,0000,0000,0000,,Tapi itu belumlah cukup untuk mengalahkan Hiruko?
+Dialogue: 0,0:45:28.10,0:45:35.92,Default,,0000,0000,0000,,Itu bisa saja Kakashi, atau kita berharap Naruto, akan mengalahkannya.
+Dialogue: 0,0:45:36.78,0:45:38.02,Default,,0000,0000,0000,,Naruto bisa?
+Dialogue: 0,0:45:38.45,0:45:41.12,Default,,0000,0000,0000,,Dia mempunyai banyak cara untuk menjadi seorang ninja.
+Dialogue: 0,0:45:41.66,0:45:48.12,Default,,0000,0000,0000,,Dia satu-satunya orang yang mewarisi jalan ninjaku dan menjadi seorang ninja yang tidak mudah menyerah.
+Dialogue: 0,0:45:49.48,0:45:54.00,Default,,0000,0000,0000,,Itu terserah padamu, apakah kau percaya pada potensi dirinya.
+Dialogue: 0,0:46:13.00,0:46:15.08,Default,,0000,0000,0000,,Nona Tsunade, tolong masuklah!
+Dialogue: 0,0:46:15.18,0:46:16.74,Default,,0000,0000,0000,,Semua orang menjadikanmu target.
+Dialogue: 0,0:46:17.87,0:46:19.32,Default,,0000,0000,0000,,Aku tahu itu!
+Dialogue: 0,0:46:45.93,0:46:48.01,Default,,0000,0000,0000,,Tahan dulu semuanya!
+Dialogue: 0,0:46:49.31,0:46:54.78,Default,,0000,0000,0000,,Anggota dari Sunagakure, Kazekage kalian sepenuhnya baik-baik saja.
+Dialogue: 0,0:46:55.37,0:46:58.71,Default,,0000,0000,0000,,Dia memberikan ini padaku untuk membuktikannya pada kalian.
+Dialogue: 0,0:47:03.21,0:47:03.75,Default,,0000,0000,0000,,Itu...
+Dialogue: 0,0:47:08.00,0:47:11.96,Default,,0000,0000,0000,,Berhenti! itu adalah tanda dari Kazekage untuk menghentikan perang secara sementara.
+Dialogue: 0,0:47:12.21,0:47:13.06,Default,,0000,0000,0000,,Baik!
+Dialogue: 0,0:47:14.37,0:47:17.32,Default,,0000,0000,0000,,Jiraiya, dimana Gaara sekarang berada?!
+Dialogue: 0,0:47:18.34,0:47:22.96,Default,,0000,0000,0000,,Sebenarnya aku tidak tahu kemana dia pergi.
+Dialogue: 0,0:47:43.85,0:47:46.00,Default,,0000,0000,0000,,Ada apa dengan badai pasir ini?!
+Dialogue: 0,0:47:46.16,0:47:47.72,Default,,0000,0000,0000,,Mataku sakit!
+Dialogue: 0,0:48:06.53,0:48:07.54,Default,,0000,0000,0000,,Gaara!
+Dialogue: 0,0:48:07.95,0:48:09.71,Default,,0000,0000,0000,,Kau datang apakah untuk membantu juga?
+Dialogue: 0,0:48:11.28,0:48:15.68,Default,,0000,0000,0000,,Naruto, aku tidak akan membiarkanmu lewat.
+Dialogue: 0,0:48:17.43,0:48:20.54,Default,,0000,0000,0000,,Itu keinginan dari Kakashi sendiri.
+Dialogue: 0,0:48:21.84,0:48:22.88,Default,,0000,0000,0000,,Gaara-kun...
+Dialogue: 0,0:48:24.28,0:48:27.65,Default,,0000,0000,0000,,Apa katamu? aku hanya tidak ingin membiarkan dia pergi!
+Dialogue: 0,0:48:27.65,0:48:30.48,Default,,0000,0000,0000,,Apa kau mengerti yang dirasakan oleh Kakashi?!
+Dialogue: 0,0:48:32.71,0:48:33.82,Default,,0000,0000,0000,,Jangan menghalangi jalanku-
+Dialogue: 0,0:48:53.48,0:48:54.55,Default,,0000,0000,0000,,Naruto!
+Dialogue: 0,0:48:54.55,0:48:55.60,Default,,0000,0000,0000,,Apakah kita harus membantunya juga!
+Dialogue: 0,0:48:55.60,0:48:57.09,Default,,0000,0000,0000,,Kalian segeralah pergi!
+Dialogue: 0,0:49:09.88,0:49:10.89,Default,,0000,0000,0000,,Tapi...
+Dialogue: 0,0:49:12.05,0:49:13.22,Default,,0000,0000,0000,,Kami sebenarnya tidak...
+Dialogue: 0,0:49:13.45,0:49:16.39,Default,,0000,0000,0000,,...akan membiarkan Kakashi sendirian!
+Dialogue: 0,0:49:32.24,0:49:35.48,Default,,0000,0000,0000,,Mengapa kau mencoba menghentikanku?!
+Dialogue: 0,0:49:55.99,0:49:57.78,Default,,0000,0000,0000,,Kau pernah mengatakan ini sebelumnya:
+Dialogue: 0,0:50:01.75,0:50:05.12,Default,,0000,0000,0000,,"Aku tidak akan membiarkan orang yang sangat berarti bagiku terluka!"
+Dialogue: 0,0:50:05.85,0:50:09.33,Default,,0000,0000,0000,,Dan kau mempertaruhkan hidupmu untuk melindungi temanmu!
+Dialogue: 0,0:50:14.20,0:50:18.49,Default,,0000,0000,0000,,Untuk melindungi semua orang.
+Dialogue: 0,0:50:18.49,0:50:21.15,Default,,0000,0000,0000,,Tidak, tidak! aku tidak akan membiarkan itu terjadi!
+Dialogue: 0,0:50:21.15,0:50:23.45,Default,,0000,0000,0000,,Aku tidak akan membiarkan Kakashi-sensei melakukan hal itu!
+Dialogue: 0,0:50:23.45,0:50:26.28,Default,,0000,0000,0000,,Aku tidak ingin semua orang untuk berkorban!
+Dialogue: 0,0:50:32.53,0:50:35.06,Default,,0000,0000,0000,,Kau terlalu idealis.
+Dialogue: 0,0:50:35.42,0:50:40.07,Default,,0000,0000,0000,,Kita semua masih terlalu lemah untuk merubah idealis menjadi kenyataan.
+Dialogue: 0,0:50:41.57,0:50:44.55,Default,,0000,0000,0000,,Aku adalah Kazekage dari desa sunagakure.
+Dialogue: 0,0:50:45.34,0:50:49.63,Default,,0000,0000,0000,,Dan sekarang, kehidupan warga desaku bergantung padaku.
+Dialogue: 0,0:50:50.52,0:50:53.04,Default,,0000,0000,0000,,Aku tidak mempunyai banyak waktu untuk idealismu.
+Dialogue: 0,0:51:02.81,0:51:05.70,Default,,0000,0000,0000,,Mengapa kau tidak mau mengerti?
+Dialogue: 0,0:51:06.26,0:51:14.14,Default,,0000,0000,0000,,Aku tidak bisa membebankan kehidupan penduduk desa terhadap kakashi-sensei!
+Dialogue: 0,0:51:16.89,0:51:17.97,Default,,0000,0000,0000,,Aku...
+Dialogue: 0,0:51:21.04,0:51:23.00,Default,,0000,0000,0000,,...ingin melindungi...
+Dialogue: 0,0:51:23.41,0:51:25.07,Default,,0000,0000,0000,,...Kakashi-sensei!
+Dialogue: 0,0:51:49.07,0:51:51.21,Default,,0000,0000,0000,,Mengapa kau tidak mengerti juga?
+Dialogue: 0,0:52:23.28,0:52:26.63,Default,,0000,0000,0000,,Aku tidak memiliki pilihan untuk melepaskan serangga Kikaichuu seperti ini.
+Dialogue: 0,0:52:26.92,0:52:29.28,Default,,0000,0000,0000,,Tenten, bisakah kau mengeluarkan rantai?
+Dialogue: 0,0:52:29.28,0:52:30.18,Default,,0000,0000,0000,,Ya.
+Dialogue: 0,0:52:30.26,0:52:31.03,Default,,0000,0000,0000,,Apa yang akan kau lakukan?
+Dialogue: 0,0:52:31.03,0:52:33.77,Default,,0000,0000,0000,,Pertama, aku ingin mengikat sayapnya. berpencar!
+Dialogue: 0,0:52:39.17,0:52:41.73,Default,,0000,0000,0000,,Baiklah, tarik rantainya secara bersamaan!
+Dialogue: 0,0:52:44.93,0:52:48.04,Default,,0000,0000,0000,,itu merupakan bulu sebagai peledak. binatang yang berbahaya.
+Dialogue: 0,0:52:48.04,0:52:50.68,Default,,0000,0000,0000,,Shikaramu! kau kejarlah Naruto!
+Dialogue: 0,0:52:51.40,0:52:55.77,Default,,0000,0000,0000,,bahkan dengan kita semua berada di sini itu akan memakan waktu cukup lama untuk mengalahkan benda ini.
+Dialogue: 0,0:52:55.77,0:53:00.45,Default,,0000,0000,0000,,Kami semua mengerti apa yang kau pikirkan.
+Dialogue: 0,0:53:01.17,0:53:02.81,Default,,0000,0000,0000,,Aku tahu apa yang dirasakan oleh Naruto.
+Dialogue: 0,0:53:03.26,0:53:07.02,Default,,0000,0000,0000,,Tapi perintah Hokage adalah mutlak.
+Dialogue: 0,0:53:07.13,0:53:08.97,Default,,0000,0000,0000,,Serahkan hal ini pada kami!
+Dialogue: 0,0:53:09.65,0:53:11.24,Default,,0000,0000,0000,,Pergilah, Shikamaru!
+Dialogue: 0,0:53:11.24,0:53:13.32,Default,,0000,0000,0000,,Kami menyerahkan Naruto-kun padamu.
+Dialogue: 0,0:53:14.96,0:53:17.52,Default,,0000,0000,0000,,Pergilah, kami bisa terus membuatnya terperangkap!
+Dialogue: 0,0:53:17.58,0:53:18.63,Default,,0000,0000,0000,,Shikamaru...
+Dialogue: 0,0:53:18.75,0:53:20.33,Default,,0000,0000,0000,,Lindungi desa!
+Dialogue: 0,0:53:20.92,0:53:22.11,Default,,0000,0000,0000,,Kalian...
+Dialogue: 0,0:53:23.95,0:53:26.11,Default,,0000,0000,0000,,menyulitkan sekali...
+Dialogue: 0,0:53:28.71,0:53:29.99,Default,,0000,0000,0000,,Aku mengandalkan kalian semuanya.
+Dialogue: 0,0:53:31.87,0:53:32.60,Default,,0000,0000,0000,,Sial...
+Dialogue: 0,0:53:51.79,0:53:52.65,Default,,0000,0000,0000,,Gaara!
+Dialogue: 0,0:53:58.03,0:53:59.52,Default,,0000,0000,0000,,Naruto sudah tidak ada.
+Dialogue: 0,0:53:59.71,0:54:03.49,Default,,0000,0000,0000,,Apa? jangan katakan padaku bahwa kau membiarkannya pergi...
+Dialogue: 0,0:54:04.39,0:54:06.49,Default,,0000,0000,0000,,Jiraiya mengatakan banyak hal padaku.
+Dialogue: 0,0:54:07.09,0:54:12.18,Default,,0000,0000,0000,,Jika kau pikir itu masuk akal, strategi Kakashi adalah satu-satunya cara untuk mengalahkan mereka.
+Dialogue: 0,0:54:13.60,0:54:15.25,Default,,0000,0000,0000,,Sama seperti pemikiranku.
+Dialogue: 0,0:54:15.58,0:54:21.64,Default,,0000,0000,0000,,Tapi setelah bertarung lagi dengan naruto untuk pertama kalinya setelah beberapa tahun, dia menyampaikan emosinya padaku
+Dialogue: 0,0:54:23.01,0:54:24.03,Default,,0000,0000,0000,,Mengapa?
+Dialogue: 0,0:54:24.60,0:54:28.68,Default,,0000,0000,0000,,itu karena tidak ada keraguan dalam jalan ninjanya. Dia tidak pernah menyerah.
+Dialogue: 0,0:54:30.20,0:54:33.80,Default,,0000,0000,0000,,Aku juga mengerti apa yang dirasakan oleh jiraya. Dia mempertaruhkan semuanya pada potensi yang dimiliki Naruto.
+Dialogue: 0,0:54:35.42,0:54:38.92,Default,,0000,0000,0000,,ada saat-saat ketika aku iri tentang bagaimana ia dapat membiarkan hatinya menuntunnya.
+Dialogue: 0,0:54:40.06,0:54:42.85,Default,,0000,0000,0000,,Tapi sekarang bukan waktunya untuk itu.
+Dialogue: 0,0:54:43.15,0:54:45.78,Default,,0000,0000,0000,,Raja yang Asuma percayakan padaku...
+Dialogue: 0,0:54:45.96,0:54:49.63,Default,,0000,0000,0000,,Anak-anak sebagai masa depan desa... aku harus melindungi mereka!
+Dialogue: 0,0:54:57.90,0:55:02.86,Default,,0000,0000,0000,,Aku akan pergi menghentikan Naruto meskipun jika aku harus membunuhnya.
+Dialogue: 0,0:55:20.22,0:55:20.97,Default,,0000,0000,0000,,Tempat ini...
+Dialogue: 0,0:55:27.50,0:55:28.55,Default,,0000,0000,0000,,dari pertempuran terakhir...
+Dialogue: 0,0:55:34.00,0:55:36.74,Default,,0000,0000,0000,,Kakashi-sensei, dimana kau?
+Dialogue: 0,0:55:42.98,0:55:44.50,Default,,0000,0000,0000,,Sakura-chan, ada apa?
+Dialogue: 0,0:55:44.82,0:55:46.07,Default,,0000,0000,0000,,lihat itu!
+Dialogue: 0,0:55:50.89,0:55:52.03,Default,,0000,0000,0000,,Kakashi-sensei!
+Dialogue: 0,0:55:52.60,0:55:54.04,Default,,0000,0000,0000,,Mengapa kau tidak menghentikannya?
+Dialogue: 0,0:55:54.52,0:55:56.67,Default,,0000,0000,0000,,tidak peduli bagaimana kita memanggil dia, itu tidak ada pengaruhnya.
+Dialogue: 0,0:55:57.37,0:56:00.96,Default,,0000,0000,0000,,Kelihatannya Kakashi-san Äbenar-benar berada dibawah control musuh.
+Dialogue: 0,0:56:06.93,0:56:07.84,Default,,0000,0000,0000,,Kakashi-sensei!
+Dialogue: 0,0:56:10.69,0:56:14.54,Default,,0000,0000,0000,,Kakashi-sensei, jawab aku! kau mengenalikukan?
+Dialogue: 0,0:56:15.38,0:56:16.42,Default,,0000,0000,0000,,Tunggu!
+Dialogue: 0,0:56:22.11,0:56:23.64,Default,,0000,0000,0000,,Apa itu?
+Dialogue: 0,0:56:24.51,0:56:25.96,Default,,0000,0000,0000,,Tanda waktu untuk melepaskan teknik.
+Dialogue: 0,0:56:26.95,0:56:29.71,Default,,0000,0000,0000,,bahkan jika ia disiksa atau berada di bawah kesadarannya.
+Dialogue: 0,0:56:30.22,0:56:31.93,Default,,0000,0000,0000,,tekniknya akan secara otomatis aktif jika sudah pada waktunya.
+Dialogue: 0,0:56:32.17,0:56:35.48,Default,,0000,0000,0000,,Kelihatannya itu adalah bom bunuh diri!
+Dialogue: 0,0:56:36.19,0:56:39.34,Default,,0000,0000,0000,,ini bahkan tidak banyak digunakan di ANBU. ini dianggap sebagai upaya terakhir.
+Dialogue: 0,0:56:40.12,0:56:42.83,Default,,0000,0000,0000,,Jadi, Kakashi-sensei memilih untuk...
+Dialogue: 0,0:56:43.15,0:56:44.56,Default,,0000,0000,0000,,Itu benar.
+Dialogue: 0,0:56:46.55,0:56:49.46,Default,,0000,0000,0000,,Shikamaru! kau mengetahuinya mulai dari awal, benarkan?!
+Dialogue: 0,0:56:51.72,0:56:54.51,Default,,0000,0000,0000,,Tidak. Dan Hokagelah orang satu-satunya yang memasang teknik itu.
+Dialogue: 0,0:56:59.40,0:57:03.52,Default,,0000,0000,0000,,Ketika musuh menangkap Kakashi,
+Dialogue: 0,0:57:03.88,0:57:06.00,Default,,0000,0000,0000,,pada saat salah satu mereka berupaya menghilangkan tanda itu, Dia akan mengaktifkan Mangekyou Sharingan nya.
+Dialogue: 0,0:57:06.59,0:57:10.70,Default,,0000,0000,0000,,ini digunakan untuk menghancurkan musuh yang menyerap teknik ninja tanpa terbatas.
+Dialogue: 0,0:57:11.36,0:57:12.92,Default,,0000,0000,0000,,Ini adalah satu-satunya cara.
+Dialogue: 0,0:57:13.92,0:57:15.53,Default,,0000,0000,0000,,Nenek Tsunade mengetahuinya?
+Dialogue: 0,0:57:15.99,0:57:19.32,Default,,0000,0000,0000,,Kakashi-sensei akan mati...?
+Dialogue: 0,0:57:20.19,0:57:21.49,Default,,0000,0000,0000,,Tidak mungkin...
+Dialogue: 0,0:57:24.25,0:57:25.25,Default,,0000,0000,0000,,Sekarang kau mengerti?
+Dialogue: 0,0:57:25.77,0:57:29.19,Default,,0000,0000,0000,,Itulah semangat api Kakashi-sensei.
+Dialogue: 0,0:57:30.32,0:57:34.78,Default,,0000,0000,0000,,Ini...ini..., ini tidak benar.
+Dialogue: 0,0:57:34.78,0:57:38.73,Default,,0000,0000,0000,,Naruto! Kakashi-sensei tidak lagi bisa mendengarkan suaramu!
+Dialogue: 0,0:57:39.08,0:57:40.42,Default,,0000,0000,0000,,Aku akan membuat dia mendengarnya!
+Dialogue: 0,0:57:40.42,0:57:41.10,Default,,0000,0000,0000,,Tunggu!
+Dialogue: 0,0:57:41.55,0:57:42.60,Default,,0000,0000,0000,,Kakashi-sensei!
+Dialogue: 0,0:57:54.38,0:57:57.46,Default,,0000,0000,0000,,itu sudah lama sekali, Hatake Kakashi.
+Dialogue: 0,0:57:58.54,0:58:03.42,Default,,0000,0000,0000,,Aku telah lama menunggu kedatanganmu. sudah hampir waktunya gerhana matahari
+Dialogue: 0,0:58:04.00,0:58:08.61,Default,,0000,0000,0000,,Apakah itu kau!
+Dialogue: 0,0:58:08.82,0:58:12.17,Default,,0000,0000,0000,,Mengapa kau membuat Konoha sebagai musuhmu?
+Dialogue: 0,0:58:17.28,0:58:21.48,Default,,0000,0000,0000,,Dulu, ada seseorang yang tinggal dikonoha dan bernama Hiruko.
+Dialogue: 0,0:58:22.14,0:58:25.71,Default,,0000,0000,0000,,Dahulu, orang ini memimpikan apa yang akan terjadi hari ini.
+Dialogue: 0,0:58:26.27,0:58:31.12,Default,,0000,0000,0000,,Dan menempatkan tanda kutukan pengontrol pada Kakashi.
+Dialogue: 0,0:58:39.09,0:58:43.71,Default,,0000,0000,0000,,Hiruko adalah teman dari Jiraiya, Tsunade dan Orochimaru:
+Dialogue: 0,0:58:44.31,0:58:47.81,Default,,0000,0000,0000,,para legenda sannin.
+Dialogue: 0,0:58:49.16,0:58:54.92,Default,,0000,0000,0000,,Tapi, Hiruko tidak memiliki skil ninja seperti mereka.
+Dialogue: 0,0:58:57.32,0:59:03.03,Default,,0000,0000,0000,,untuk mengatasi kelemahan fisiknya, ia menenggelamkan diri dalam penelitian.
+Dialogue: 0,0:59:03.49,0:59:08.36,Default,,0000,0000,0000,,dan mencoba teknik menjadi tubuh yang sintetis, Chimera.
+Dialogue: 0,0:59:10.55,0:59:13.34,Default,,0000,0000,0000,,selama perang dunia ketiga ninja terjadi.
+Dialogue: 0,0:59:13.84,0:59:18.19,Default,,0000,0000,0000,,pertempuran di jembatan kannabi dikatakan adalah yang paling dahsyat dari semua pertempuran.
+Dialogue: 0,0:59:19.89,0:59:21.56,Default,,0000,0000,0000,,Ah, mataku!
+Dialogue: 0,0:59:21.99,0:59:23.56,Default,,0000,0000,0000,,Kakashi, kau baik-baik saja?
+Dialogue: 0,0:59:30.49,0:59:33.64,Default,,0000,0000,0000,,Bagaimana...? kau seharusnya tidak dapat melihatku...
+Dialogue: 0,0:59:39.87,0:59:41.54,Default,,0000,0000,0000,,semuanya, larilah sampai menuju tempat keluar!
+Dialogue: 0,0:59:43.05,0:59:44.31,Default,,0000,0000,0000,,Titik buta mata kananku...
+Dialogue: 0,0:59:52.33,0:59:53.36,Default,,0000,0000,0000,,Apa kau baik-baik saja?
+Dialogue: 0,0:59:54.06,0:59:56.05,Default,,0000,0000,0000,,Rin... Kakashi...
+Dialogue: 0,0:59:58.03,1:00:00.26,Default,,0000,0000,0000,,Obito...
+Dialogue: 0,1:00:01.43,1:00:05.31,Default,,0000,0000,0000,,Hatake Kakashi kembali dari pertempuran.
+Dialogue: 0,1:00:05.69,1:00:07.31,Default,,0000,0000,0000,,Aku sangat terkejut.
+Dialogue: 0,1:00:08.10,1:00:18.95,Default,,0000,0000,0000,,Dia telah menerima garis keturunan dari uchiha obito, berupa mata sharingan dan membuatnya menjadi miliknya!
+Dialogue: 0,1:00:20.11,1:00:22.93,Default,,0000,0000,0000,,saat itulah aku berpikir, ini dia!"
+Dialogue: 0,1:00:29.05,1:00:33.61,Default,,0000,0000,0000,,Dengan menggunakan teknik Chimeraku, jika aku bisa membuat kekuatan dari garis keturunan menjadi kekuatanku.
+Dialogue: 0,1:00:33.61,1:00:37.69,Default,,0000,0000,0000,,Aku akan menjadi kuat seperti Jiraiya, Tsunade dan Orochimaru!
+Dialogue: 0,1:00:40.03,1:00:40.85,Default,,0000,0000,0000,,Tapi,
+Dialogue: 0,1:00:42.99,1:00:48.29,Default,,0000,0000,0000,,Pada waktu Hokage mengetahui tentang penelitianku, dia mencoba membunuhku!
+Dialogue: 0,1:00:50.21,1:00:52.83,Default,,0000,0000,0000,,Kau adalah ninja Konoha?
+Dialogue: 0,1:01:04.40,1:01:06.15,Default,,0000,0000,0000,,Hiruko ada disini.
+Dialogue: 0,1:01:06.48,1:01:08.49,Default,,0000,0000,0000,,Cepat segera tunjukkan dirimu!
+Dialogue: 0,1:01:23.93,1:01:27.55,Default,,0000,0000,0000,,Kakashi kemarilah.
+Dialogue: 0,1:01:28.67,1:01:31.69,Default,,0000,0000,0000,,Garis keturunanmu adalah yang kelima dan yang terakhir.
+Dialogue: 0,1:01:32.04,1:01:37.27,Default,,0000,0000,0000,,Dan aku akan benar-benar menjadi ninja yang abadi.
+Dialogue: 0,1:01:44.83,1:01:46.34,Default,,0000,0000,0000,,Jangan pergi, Kakashi-sensei!
+Dialogue: 0,1:01:46.34,1:01:49.68,Default,,0000,0000,0000,,Kelihatannya hanya ada satu cara untuk menghentikan kakashi-sensei adalah mengalahkan Hiruko.
+Dialogue: 0,1:01:51.10,1:01:51.64,Default,,0000,0000,0000,,Tunggu!
+Dialogue: 0,1:01:52.98,1:01:55.25,Default,,0000,0000,0000,,Kalian tidak bisa menggunakan teknik ninja padanya!
+Dialogue: 0,1:01:55.50,1:01:57.43,Default,,0000,0000,0000,,{\b1\fnForte\fs24\c&H016DFF&\3c&HFFFFFF&}Tajuu Kage Bunshin no Jutsu!{\b0}
+Dialogue: 0,1:02:02.75,1:02:07.26,Default,,0000,0000,0000,,{\pos(315,42)}( Ranton, Raiunkuuha: Storm element, Lightning claud wave )
+Dialogue: 0,1:02:02.75,1:02:07.26,Default,,0000,0000,0000,,Pertama... {\b1\fnForte\fs24\c&HE8E8EC&\3c&HFFFFFF&}Ranton, Raiunkuuha!{\b0}
+Dialogue: 0,1:02:14.57,1:02:16.57,Default,,0000,0000,0000,,{\b1\fnForte\fs24\c&H016DFF&\3c&HFFFFFF&}Rasengan!{\b0}
+Dialogue: 0,1:02:17.72,1:02:21.04,Default,,0000,0000,0000,,{\pos(315,42)}( Meiton, Kyuuketsukou: Darkness element - suction abyss )
+Dialogue: 0,1:02:17.72,1:02:21.04,Default,,0000,0000,0000,,Kedua... {\b1\fnForte\fs24\c&HE8E8EC&\3c&HFFFFFF&}Meiton, Kyuuketsukou!{\b0}
+Dialogue: 0,1:02:21.60,1:02:24.65,Default,,0000,0000,0000,,Elemen kegelapan berguna untuk menghisap chakra!
+Dialogue: 0,1:02:42.16,1:02:43.04,Default,,0000,0000,0000,,Ketiga...
+Dialogue: 0,1:02:44.77,1:02:49.42,Default,,0000,0000,0000,,Pedang tidak mempan terhadapku, setelah aku bisa menggunakan elemen baja.
+Dialogue: 0,1:02:50.51,1:02:52.20,Default,,0000,0000,0000,,Mati kau!
+Dialogue: 0,1:02:52.32,1:02:54.82,Default,,0000,0000,0000,,{\pos(315,42)}( Jinton: swiftness element )
+Dialogue: 0,1:02:52.32,1:02:54.82,Default,,0000,0000,0000,,Keempat... {\b1\fnForte\fs24\c&HE8E8EC&\3c&HFFFFFF&}Jinton!{\b0}
+Dialogue: 0,1:02:56.60,1:03:00.19,Default,,0000,0000,0000,,Bodoh jika hanya menggunakan kekuatan saja tidak akan mungkin bisa menangkapku!
+Dialogue: 0,1:03:02.42,1:03:05.53,Default,,0000,0000,0000,,Dia bertambah kuat lebih dari sekedar menyerap teknik!
+Dialogue: 0,1:03:05.53,1:03:10.42,Default,,0000,0000,0000,,Dia bisa menggunakan kekuatan dari garis keturunan yang diserapnya dengan mudah semudah pemilik aslinya.
+Dialogue: 0,1:03:10.59,1:03:13.02,Default,,0000,0000,0000,,{\pos(315,42)}( Meiton, Judment: the dark Arts - Arbitration )
+Dialogue: 0,1:03:10.59,1:03:13.02,Default,,0000,0000,0000,,{\b1\fnForte\fs24\c&HE8E8EC&\3c&HFFFFFF&}Meiton, Judment!{\b0}
+Dialogue: 0,1:03:22.08,1:03:25.30,Default,,0000,0000,0000,,Ini, aku kembalikan chakra kalian. sekarang tetaplah disana
+Dialogue: 0,1:03:26.29,1:03:31.71,Default,,0000,0000,0000,,Baiklah, Kakashi, ini sudah saatnya untukmu untuk menjadi bagian dari diriku sehingga aku akan menjadi benar-benar sempurna.
+Dialogue: 0,1:03:35.43,1:03:36.63,Default,,0000,0000,0000,,Kakashi-sensei...
+Dialogue: 0,1:03:38.48,1:03:41.72,Default,,0000,0000,0000,,Tidak... Jika pintu itu tertutup...
+Dialogue: 0,1:03:43.52,1:03:48.13,Default,,0000,0000,0000,,ini adalah bagaimana seharusnya. tidak ada cara yang lain...
+Dialogue: 0,1:04:13.71,1:04:19.66,Default,,0000,0000,0000,,Kau memberiku petunjuk agar aku dapat membuat diriku menjadi sempurna.
+Dialogue: 0,1:04:21.07,1:04:25.80,Default,,0000,0000,0000,,ketika bulan membuat bayangan maka matahari akan menciptakan sebuah cincin emas,
+Dialogue: 0,1:04:26.24,1:04:29.79,Default,,0000,0000,0000,,Sinar matahari itu akan membawa kekuatan yang spesial .
+Dialogue: 0,1:04:30.15,1:04:34.50,Default,,0000,0000,0000,,Saat aku bermandikan cahaya itu, kau akan menjadi bagian dari diriku.
+Dialogue: 0,1:04:34.90,1:04:39.54,Default,,0000,0000,0000,,Dan aku akan menjadi sempurna, ninja yang abadi, Kakashi.
+Dialogue: 0,1:04:45.46,1:04:46.75,Default,,0000,0000,0000,,Kakashi-sensei...
+Dialogue: 0,1:04:47.29,1:04:48.00,Default,,0000,0000,0000,,Sial...
+Dialogue: 0,1:04:49.61,1:04:51.06,Default,,0000,0000,0000,,Aku tidak akan membiarkanmu lewat!
+Dialogue: 0,1:04:51.21,1:04:54.25,Default,,0000,0000,0000,,Cukup, minggir kau!
+Dialogue: 0,1:04:54.31,1:04:59.89,Default,,0000,0000,0000,,Sang raja"... yang harus aku lindungi adalah anak yang belum lahir, karena itu adalah masa depan desa!
+Dialogue: 0,1:05:00.69,1:05:03.11,Default,,0000,0000,0000,,Jangan khawatir, aku juga akan melindungi mereka juga.
+Dialogue: 0,1:05:03.84,1:05:09.75,Default,,0000,0000,0000,,Semua itu telah Kakashi-sensei ajarkan padaku, temanku...
+Dialogue: 0,1:05:13.55,1:05:18.84,Default,,0000,0000,0000,,Aku akan melindungi mereka. desa kita, teman-teman kita...
+Dialogue: 0,1:05:20.39,1:05:21.58,Default,,0000,0000,0000,,Anak-anak...
+Dialogue: 0,1:05:22.14,1:05:23.76,Default,,0000,0000,0000,,lalu mengapa kau-?
+Dialogue: 0,1:05:26.79,1:05:29.23,Default,,0000,0000,0000,,Aku akan melindunginya.
+Dialogue: 0,1:05:29.97,1:05:33.31,Default,,0000,0000,0000,,kita bahkan tidak akan memiliki masa depan kecuali kita melindungi hal yang paling penting dari semuanya.
+Dialogue: 0,1:05:33.76,1:05:36.03,Default,,0000,0000,0000,,Hal yang paling penting?
+Dialogue: 0,1:05:36.40,1:05:40.84,Default,,0000,0000,0000,,Jadi generasi masa depan akan berpikir bangga terhadap hal itu...
+Dialogue: 0,1:05:41.07,1:05:42.98,Default,,0000,0000,0000,,Aku harus melindungi desa!
+Dialogue: 0,1:05:43.78,1:05:46.02,Default,,0000,0000,0000,,mematuhi aturan adalah bagaimana seorang ninja hidup.
+Dialogue: 0,1:05:46.34,1:05:50.12,Default,,0000,0000,0000,,Dan Ninja konoha akan melindungi teman-temannya meskipun harus mempertaruhkan hidupnya sendiri!
+Dialogue: 0,1:05:50.43,1:05:51.50,Default,,0000,0000,0000,,Tapi!
+Dialogue: 0,1:05:52.72,1:05:56.60,Default,,0000,0000,0000,,Merencanakan untuk mengorbankan seseorang dari awal?
+Dialogue: 0,1:05:57.02,1:06:00.87,Default,,0000,0000,0000,,Apakah itu yang kita lakukan sekarang?! Apakah kau merasa baik-baik saja dengan hal itu?
+Dialogue: 0,1:06:00.99,1:06:04.78,Default,,0000,0000,0000,,Dan kau berpikir semua orang akan senang jika mereka tahu bagaimana mereka diselamatkan?
+Dialogue: 0,1:06:05.34,1:06:06.77,Default,,0000,0000,0000,,Itu akan lebih banyak membawa kesedihan!
+Dialogue: 0,1:06:07.38,1:06:11.67,Default,,0000,0000,0000,,Itu bukanlah desa Konoha yang sangat aku cintai!
+Dialogue: 0,1:06:17.06,1:06:21.57,Default,,0000,0000,0000,,Aku... Aku akan melindunginya.
+Dialogue: 0,1:06:24.85,1:06:31.02,Default,,0000,0000,0000,,Desa yang begitu aku cintai, Dan generasi masa depan dari seluruh desa.
+Dialogue: 0,1:06:48.69,1:06:49.57,Default,,0000,0000,0000,,Shikamaru...
+Dialogue: 0,1:06:50.76,1:06:54.78,Default,,0000,0000,0000,,Sang "Raja" adalah anak-anak yang akan menjadi generasi masa depan dari desa.
+Dialogue: 0,1:06:55.63,1:07:00.32,Default,,0000,0000,0000,,Tolong lindungi desa yang sangat aku cintai,
+Dialogue: 0,1:07:00.50,1:07:03.57,Default,,0000,0000,0000,,Untuk semua anak-anak.
+Dialogue: 0,1:07:07.36,1:07:09.23,Default,,0000,0000,0000,,Apa kau baik-baik saja dengan ini, Shikamaru?
+Dialogue: 0,1:07:10.42,1:07:12.57,Default,,0000,0000,0000,,Dia mencoba untuk melindungi...
+Dialogue: 0,1:07:12.57,1:07:15.17,Default,,0000,0000,0000,,...hal yang sama seperti dirimu, Asuma.
+Dialogue: 0,1:07:17.77,1:07:18.46,Default,,0000,0000,0000,,Ya.
+Dialogue: 0,1:07:18.92,1:07:25.12,Default,,0000,0000,0000,,Dia mencoba melindungi anak-anak masa depan yang kau panggil denga sang "Raja", dan meninggalkan sesuatu bagi mereka.
+Dialogue: 0,1:07:27.09,1:07:29.56,Default,,0000,0000,0000,,Itulah yang dinamakan semangat api.
+Dialogue: 0,1:07:31.47,1:07:32.19,Default,,0000,0000,0000,,Asuma...
+Dialogue: 0,1:08:05.22,1:08:06.02,Default,,0000,0000,0000,,Naruto!
+Dialogue: 0,1:08:07.04,1:08:08.02,Default,,0000,0000,0000,,{\b1\fnForte\fs24\c&H313135&\3c&HFFFFFF&}Kage nui!{\b0}
+Dialogue: 0,1:08:22.27,1:08:26.59,Default,,0000,0000,0000,,Naruto, sekarang kau telah mewarisi apa yang dinamakan semangat api.
+Dialogue: 0,1:08:26.97,1:08:30.60,Default,,0000,0000,0000,,lakukanlah dan ikuti jalan ninja yang kau percaya.
+Dialogue: 0,1:08:31.87,1:08:33.03,Default,,0000,0000,0000,,Shikamaru...
+Dialogue: 0,1:08:35.49,1:08:36.57,Default,,0000,0000,0000,,Aku mengerti!
+Dialogue: 0,1:08:42.79,1:08:46.17,Default,,0000,0000,0000,,Aku akan mendapatkannya kembali!
+Dialogue: 0,1:08:52.97,1:08:53.90,Default,,0000,0000,0000,,Naruto...
+Dialogue: 0,1:08:54.27,1:08:55.07,Default,,0000,0000,0000,,Kami mengandalkanmu...
+Dialogue: 0,1:09:00.00,1:09:01.15,Default,,0000,0000,0000,,Aku tidak akan membiarkan ini terjadi!
+Dialogue: 0,1:09:07.12,1:09:09.48,Default,,0000,0000,0000,,Jadi apakah ini yang dimaksud oleh jiraya?
+Dialogue: 0,1:09:12.38,1:09:16.75,Default,,0000,0000,0000,,Apakah Konoha benar-benar mempertaruhkan nasib pada orang ini?
+Dialogue: 0,1:09:24.20,1:09:26.13,Default,,0000,0000,0000,,segera setelah matahari tertutup oleh bulan,
+Dialogue: 0,1:09:26.56,1:09:31.42,Default,,0000,0000,0000,,Dan gerhana matahari yang menerangi permukaan bumi,
+Dialogue: 0,1:09:31.58,1:09:35.14,Default,,0000,0000,0000,,ini akan memenuhi langit, bumi dan kondisi manusia.
+Dialogue: 0,1:09:36.33,1:09:42.32,Default,,0000,0000,0000,,Hatake Kakashi, Sharinganmu akan menjadi bagian dari diriku!
+Dialogue: 0,1:09:52.96,1:09:53.83,Default,,0000,0000,0000,,Hentikan!
+Dialogue: 0,1:09:55.76,1:09:57.81,Default,,0000,0000,0000,,Jangan menyentuh mereka semua!
+Dialogue: 0,1:10:03.34,1:10:10.21,Default,,0000,0000,0000,,Menggunakan kekuatan dari sinar gerhana matahari, akan membuatku benar-benar menjadi sempurna!
+Dialogue: 0,1:10:17.51,1:10:18.88,Default,,0000,0000,0000,,Kau menyebalkan!
+Dialogue: 0,1:10:26.70,1:10:32.43,Default,,0000,0000,0000,,Kau terlambat! Kakashi telah menjadi bagian dari diriku!
+Dialogue: 0,1:10:37.66,1:10:38.96,Default,,0000,0000,0000,,Pergilah ke neraka!
+Dialogue: 0,1:10:58.91,1:11:02.85,Default,,0000,0000,0000,,Apa?! Kakashi, apa yang kau lakukan?!
+Dialogue: 0,1:11:04.48,1:11:08.42,Default,,0000,0000,0000,,Kau tidak dapat dikendalikan! kau berada dalam tubuhku sekarang!
+Dialogue: 0,1:11:20.37,1:11:24.56,Default,,0000,0000,0000,,Apakah Kakashi-sensei berencana menggunakan mengekyou sharingan untuk meledakkan dirinya dan orang itu di dimensi yang lain?
+Dialogue: 0,1:11:25.13,1:11:27.67,Default,,0000,0000,0000,,tapi sensei juga akan mati jika dia melakukan itu.
+Dialogue: 0,1:11:28.23,1:11:30.19,Default,,0000,0000,0000,,{\b1\fnForte\fs24\c&H016DFF&\3c&HFFFFFF&}Tajuu Kage Bunshin!{\b0}
+Dialogue: 0,1:11:31.97,1:11:33.40,Default,,0000,0000,0000,,{\b1\fnForte\fs24\c&H016DFF&\3c&HFFFFFF&}Rasengan!{\b0}
+Dialogue: 0,1:11:35.30,1:11:35.96,Default,,0000,0000,0000,,Segera lakukan!
+Dialogue: 0,1:11:48.33,1:11:49.30,Default,,0000,0000,0000,,Apa?!
+Dialogue: 0,1:11:53.02,1:11:54.39,Default,,0000,0000,0000,,{\b1\fnForte\fs24\c&H016DFF&\3c&HFFFFFF&}Rasengan!{\b0}
+Dialogue: 0,1:12:32.21,1:12:34.49,Default,,0000,0000,0000,,Aku tidak akan membiarkanmu pergi!
+Dialogue: 0,1:12:45.39,1:12:47.78,Default,,0000,0000,0000,,Sensei... Sensei...
+Dialogue: 0,1:12:48.37,1:12:50.40,Default,,0000,0000,0000,,Tunggu sebentar Sensei.
+Dialogue: 0,1:12:52.01,1:12:53.66,Default,,0000,0000,0000,,Tolong buka matamu!
+Dialogue: 0,1:12:53.92,1:12:56.06,Default,,0000,0000,0000,,Kakashi-sensei, tolong bangun!
+Dialogue: 0,1:12:56.78,1:13:00.28,Default,,0000,0000,0000,,Aku berjanji pada Sakura-chan!
+Dialogue: 0,1:13:00.28,1:13:02.88,Default,,0000,0000,0000,,Aku berjanji bahwa aku akan melindungimu, Kakashi-sensei...
+Dialogue: 0,1:13:05.94,1:13:08.81,Default,,0000,0000,0000,,mengapa selalu berubah seperti ini?!
+Dialogue: 0,1:13:08.81,1:13:10.53,Default,,0000,0000,0000,,Sial!
+Dialogue: 0,1:13:13.67,1:13:14.29,Default,,0000,0000,0000,,Sialan...
+Dialogue: 0,1:13:23.25,1:13:24.28,Default,,0000,0000,0000,,Pagi...Pagi...
+Dialogue: 0,1:13:28.90,1:13:29.78,Default,,0000,0000,0000,,Sensei!
+Dialogue: 0,1:13:30.78,1:13:34.78,Default,,0000,0000,0000,,Naruto, menurutmu apa yang kau lakukan disini?
+Dialogue: 0,1:13:35.09,1:13:38.10,Default,,0000,0000,0000,,Ya ampun, kau membuatku sedikit khawatir!
+Dialogue: 0,1:13:39.42,1:13:40.67,Default,,0000,0000,0000,,Lihatlah!
+Dialogue: 0,1:13:42.51,1:13:43.66,Default,,0000,0000,0000,,Aku memperbaikinya.
+Dialogue: 0,1:13:44.18,1:13:46.17,Default,,0000,0000,0000,,Karena kau yang memintaku, Kakashi-sensei.
+Dialogue: 0,1:13:47.47,1:13:50.97,Default,,0000,0000,0000,,Aku mengikuti pelajaran yang diajarkan oleh lonceng ini dan datang untuk menyelamatkanmu.
+Dialogue: 0,1:13:53.02,1:13:56.62,Default,,0000,0000,0000,,Aku tidak akan pernah melupakan apa yang kau ajarkan padaku.
+Dialogue: 0,1:13:57.17,1:14:00.95,Default,,0000,0000,0000,,Barang siapa melanggar peraturan dalam dunia ninja akan dianggap sampah.
+Dialogue: 0,1:14:01.69,1:14:06.27,Default,,0000,0000,0000,,Tapi barang siapa yang tidak melindungi temannya akan dianggap lebih rendah dari sampah!
+Dialogue: 0,1:14:07.18,1:14:08.01,Default,,0000,0000,0000,,Naruto...
+Dialogue: 0,1:14:11.23,1:14:12.34,Default,,0000,0000,0000,,Ya ampun...
+Dialogue: 0,1:14:13.32,1:14:16.80,Default,,0000,0000,0000,,Jika aku masih hidup, berarti rencananya menjadi gagal.
+Dialogue: 0,1:14:20.76,1:14:22.92,Default,,0000,0000,0000,,terimalah Terima kasihku, Naruto.
+Dialogue: 0,1:14:31.32,1:14:36.03,Default,,0000,0000,0000,,Jika kau tidak datang, aku mungkin akan meledak bersama Kakashi.
+Dialogue: 0,1:14:36.64,1:14:41.35,Default,,0000,0000,0000,,Malah, murid Kakashilah yang menyelamatkan aku.
+Dialogue: 0,1:14:45.50,1:14:48.85,Default,,0000,0000,0000,,Gerhana matahari belum berakhir.
+Dialogue: 0,1:14:48.85,1:14:52.29,Default,,0000,0000,0000,,Aku masih memiliki bumi dan langit.
+Dialogue: 0,1:14:52.49,1:14:57.72,Default,,0000,0000,0000,,Kakashi, aku akan membunuhmu dan mengambil kondisi manusiamu
+Dialogue: 0,1:15:03.56,1:15:04.29,Default,,0000,0000,0000,,Apa?
+Dialogue: 0,1:15:04.33,1:15:05.39,Default,,0000,0000,0000,,Ayo kita lari, Naruto!
+Dialogue: 0,1:15:29.30,1:15:31.71,Default,,0000,0000,0000,,Naruto, apakah dia mengalahkannya?
+Dialogue: 0,1:15:38.20,1:15:41.50,Default,,0000,0000,0000,,Tunggu, Kakashi, temanku.
+Dialogue: 0,1:15:42.01,1:15:46.14,Default,,0000,0000,0000,,Kau seharusnya menjadi bagian dari diriku!
+Dialogue: 0,1:15:48.29,1:15:50.34,Default,,0000,0000,0000,,Apa yang kau cari sejauh ini?!
+Dialogue: 0,1:15:50.34,1:15:52.18,Default,,0000,0000,0000,,Aku melindungi Kakashi-sensei!
+Dialogue: 0,1:15:52.66,1:15:55.41,Default,,0000,0000,0000,,Aku bukan satu-satunya yang mempunyai semangat api!
+Dialogue: 0,1:15:55.81,1:15:58.40,Default,,0000,0000,0000,,Begitu juga semua orang yang berada di desa!
+Dialogue: 0,1:16:03.18,1:16:05.01,Default,,0000,0000,0000,,kita hanya perlu untuk mengalahkan dia saja, benarkan?
+Dialogue: 0,1:16:07.27,1:16:08.12,Default,,0000,0000,0000,,Ayo segera lakukan!
+Dialogue: 0,1:16:10.55,1:16:12.28,Default,,0000,0000,0000,,Tidak ada pilihan lain...
+Dialogue: 0,1:16:14.11,1:16:17.48,Default,,0000,0000,0000,,Sekelompok orang yang lemah dan berisik!
+Dialogue: 0,1:16:18.97,1:16:21.43,Default,,0000,0000,0000,,Aku bahkan tidak perlu melihatmu.
+Dialogue: 0,1:16:21.82,1:16:23.14,Default,,0000,0000,0000,,{\b1\fnForte\fs24\c&HE8E8EC&\3c&HFFFFFF&}Kuchiyose!{\b0}
+Dialogue: 0,1:16:35.20,1:16:36.04,Default,,0000,0000,0000,,Apa?
+Dialogue: 0,1:16:36.73,1:16:38.42,Default,,0000,0000,0000,,Itu adalah Kuchiyose.
+Dialogue: 0,1:16:47.80,1:16:50.62,Default,,0000,0000,0000,,Aku benar-benar tidak ingin untuk melihat benda ini lagi...
+Dialogue: 0,1:16:50.66,1:16:52.22,Default,,0000,0000,0000,,Serahkan saja padaku!
+Dialogue: 0,1:16:52.58,1:16:53.70,Default,,0000,0000,0000,,Jangan banyak berpikir,
+Dialogue: 0,1:16:53.70,1:16:59.21,Default,,0000,0000,0000,,Didalam buku yang diberikan oleh Kakashi padaku, dikatakan bahwa wanita akan menjadi lebih kuat untuk orang yang dicintai...
+Dialogue: 0,1:16:59.21,1:16:59.88,Default,,0000,0000,0000,,Diam kau!
+Dialogue: 0,1:17:00.51,1:17:02.27,Default,,0000,0000,0000,,Aku serahkan yang satu ini pada kalian!
+Dialogue: 0,1:17:02.94,1:17:07.79,Default,,0000,0000,0000,,semuanya seharusnya telah dipecahkan untuk merubah hidupku.
+Dialogue: 0,1:17:08.92,1:17:10.53,Default,,0000,0000,0000,,Jangan mengeluh.
+Dialogue: 0,1:17:12.12,1:17:16.02,Default,,0000,0000,0000,,Semua yang aku lakukan berasal dari semua yang kau ajarkan padaku.
+Dialogue: 0,1:17:23.33,1:17:24.90,Default,,0000,0000,0000,,Ayo, Naruto.
+Dialogue: 0,1:17:25.74,1:17:26.30,Default,,0000,0000,0000,,Baiklah.
+Dialogue: 0,1:17:41.57,1:17:43.73,Default,,0000,0000,0000,,Bisakah aku menggunakn jurusku dengan cahaya yang seperti ini?
+Dialogue: 0,1:17:44.46,1:17:45.40,Default,,0000,0000,0000,,{\b1\fnForte\fs24\c&H313135&\3c&HFFFFFF&}Kage Nui!{\b0}
+Dialogue: 0,1:17:48.71,1:17:49.49,Default,,0000,0000,0000,,Sekarang!
+Dialogue: 0,1:17:49.88,1:17:51.67,Default,,0000,0000,0000,,{\b1\fnForte\fs24\c&H313135&}Ninpou, Choujuu Giga!{\b0}
+Dialogue: 0,1:17:55.76,1:17:56.76,Default,,0000,0000,0000,,{\pos(315,42)}( Oukashou: Sudden petals training )
+Dialogue: 0,1:17:55.76,1:17:56.76,Default,,0000,0000,0000,,{\b1\fnForte\fs24\c&HBEBEFD&\3c&HFFFFFF&}Oukashou!{\b0}
+Dialogue: 0,1:17:58.46,1:18:00.68,Default,,0000,0000,0000,,Mati kau!
+Dialogue: 0,1:18:08.39,1:18:10.63,Default,,0000,0000,0000,,Lemah! terlalu lemah!
+Dialogue: 0,1:18:21.38,1:18:25.20,Default,,0000,0000,0000,,Menyerahlah Kakashi! aku akan menjadi satu denganmu!
+Dialogue: 0,1:18:25.20,1:18:28.46,Default,,0000,0000,0000,,{\pos(315,42)}( Ranton Ougi Rankiryuu: Storm element ultimate technique, turbulence )
+Dialogue: 0,1:18:25.20,1:18:28.46,Default,,0000,0000,0000,,{\b1\fnForte\fs24}Ranton Ougi, Rankiryuu!{\b0\c&HE8E8EC&\3c&HFFFFFF&}
+Dialogue: 0,1:18:39.11,1:18:41.60,Default,,0000,0000,0000,,ini bukan awan guntur biasa.
+Dialogue: 0,1:18:41.60,1:18:45.15,Default,,0000,0000,0000,,Ini tentang penggunaan chakra yang terus meningkat.
+Dialogue: 0,1:18:45.15,1:18:49.18,Default,,0000,0000,0000,,dan Aku akan mengarahkan semua energi tersebut ke bumi!
+Dialogue: 0,1:18:49.77,1:18:54.39,Default,,0000,0000,0000,,Dia adalah monster yang diciptakan oleh teknik Chimera ditambah empat garis keturunan.
+Dialogue: 0,1:18:55.14,1:18:58.85,Default,,0000,0000,0000,,Tapi selama dia tidak bergabung dengan Kakashi-sensei, salah satu yang kelima,
+Dialogue: 0,1:18:59.24,1:19:00.85,Default,,0000,0000,0000,,Dia belum sepenuhnya menjadi sempurna.
+Dialogue: 0,1:19:04.17,1:19:04.94,Default,,0000,0000,0000,,Naruto!
+Dialogue: 0,1:19:05.20,1:19:08.97,Default,,0000,0000,0000,,tempat di mana dia ingin menggabungkan kakashi-sensei masih kosong!
+Dialogue: 0,1:19:09.22,1:19:13.50,Default,,0000,0000,0000,,satu-satunya kelemahan adalah bekas luka di dadanya.
+Dialogue: 0,1:19:18.82,1:19:19.60,Default,,0000,0000,0000,,Baiklah...
+Dialogue: 0,1:19:27.39,1:19:28.04,Default,,0000,0000,0000,,Sial-
+Dialogue: 0,1:19:40.90,1:19:41.78,Default,,0000,0000,0000,,Kalian!
+Dialogue: 0,1:19:42.32,1:19:43.38,Default,,0000,0000,0000,,Kalian semua datang...
+Dialogue: 0,1:19:45.61,1:19:49.04,Default,,0000,0000,0000,,Baiklah, teman-teman, ayo segera kita lakukan!
+Dialogue: 0,1:19:51.07,1:19:52.94,Default,,0000,0000,0000,,{\b1\fnForte\fs24\c&H0000FF&\3c&HFFFFFF&}Chou Baika no Jutsu!{\b0}
+Dialogue: 0,1:19:56.62,1:19:59.39,Default,,0000,0000,0000,,{\b1\fnForte\fs24\c&H0000FF&\3c&HFFFFFF&}Nikudan Haru Sensha!{\b0}
+Dialogue: 0,1:20:00.48,1:20:01.53,Default,,0000,0000,0000,,{\b1\fnForte\fs24\c&H67676B&\3c&HFFFFFF&}Gatsuuga!{\b0}
+Dialogue: 0,1:20:06.67,1:20:08.72,Default,,0000,0000,0000,,{\b1\fnForte\fs24\c&HF8B5E3&\3c&HEAEAED&}Hakke Rokujuuyon Shou!{\b0}
+Dialogue: 0,1:20:10.53,1:20:12.38,Default,,0000,0000,0000,,{\b1\fnForte\fs24\c&H015A0C&\3c&HFFFFFF&}Konoha Senpuu!{\b0}
+Dialogue: 0,1:20:15.74,1:20:16.41,Default,,0000,0000,0000,,Tenten!
+Dialogue: 0,1:20:17.70,1:20:19.70,Default,,0000,0000,0000,,{\pos(315,42)}( Soushouryuu: Rising Double Dragons )
+Dialogue: 0,1:20:17.70,1:20:19.70,Default,,0000,0000,0000,,Terima ini! {\b1\fnForte\fs24\c&H0000BB&}Soushouryuu!{\b0}
+Dialogue: 0,1:20:22.88,1:20:23.54,Default,,0000,0000,0000,,Naruto!
+Dialogue: 0,1:20:28.94,1:20:29.72,Default,,0000,0000,0000,,Baiklah!
+Dialogue: 0,1:20:33.47,1:20:35.72,Default,,0000,0000,0000,,{\b1\fnForte\fs24\c&H016DFF&\3c&HFFFFFF&}Tajuu Kage Bunshin no Jutsu!{\b0}
+Dialogue: 0,1:20:38.62,1:20:41.15,Default,,0000,0000,0000,,Teknik ninja tidak berguna terhadapku!
+Dialogue: 0,1:20:42.57,1:20:45.00,Default,,0000,0000,0000,,{\b1\fnForte\fs24\c&H016DFF&\3c&HFFFFFF&}Oodama Rasengan!{\b0}
+Dialogue: 0,1:21:03.16,1:21:06.52,Default,,0000,0000,0000,,Aku akan mengembalikan semuanya padamu!
+Dialogue: 0,1:21:19.63,1:21:20.89,Default,,0000,0000,0000,,{\b1\fnForte\fs24\c&HF9BC77&\3c&HFFFFFF&}Raikiri!{\b0}
+Dialogue: 0,1:21:24.38,1:21:26.07,Default,,0000,0000,0000,,Itu yang sudah aku tunggu selama ini.
+Dialogue: 0,1:21:26.39,1:21:27.00,Default,,0000,0000,0000,,Apa?
+Dialogue: 0,1:21:30.83,1:21:32.89,Default,,0000,0000,0000,,Aku kembalikan padamu! {\b1\fnForte\fs24\c&HE8E8EC&\3c&HFFFFFF&}Raikiri!{\b0}
+Dialogue: 0,1:21:41.51,1:21:43.88,Default,,0000,0000,0000,,Ini belum berakhir!
+Dialogue: 0,1:21:45.16,1:21:46.04,Default,,0000,0000,0000,,Kau bodoh!
+Dialogue: 0,1:22:03.80,1:22:05.22,Default,,0000,0000,0000,,Ini tidak berjalan dengan baik...
+Dialogue: 0,1:22:29.64,1:22:34.09,Default,,0000,0000,0000,,Kau masih memiliki teknik ditanganmu? tapi seperti yang sudah aku katakan sebelumnya!
+Dialogue: 0,1:22:34.48,1:22:37.08,Default,,0000,0000,0000,,Teknik ninja tidak akan berguna bagiku!
+Dialogue: 0,1:22:42.47,1:22:44.71,Default,,0000,0000,0000,,Apa? aku tidak bisa menyerapnya?!
+Dialogue: 0,1:22:45.75,1:22:48.36,Default,,0000,0000,0000,,Teknik seperti itu... aku tidak mempercayainya!
+Dialogue: 0,1:22:48.56,1:22:51.14,Default,,0000,0000,0000,,itu tidak mungkin!
+Dialogue: 0,1:22:51.83,1:22:55.08,Default,,0000,0000,0000,,Rasakan ini! {\b1\fnForte\fs24\c&HFFE102&\3c&H016DFF&}Fuuton, Rasen Shuriken!{\b0}
+Dialogue: 0,1:23:57.04,1:23:59.48,Default,,0000,0000,0000,,Kita berhasil, Kita berhasil!
+Dialogue: 0,1:25:06.64,1:25:16.30,Default,,0000,0000,0000,,Dengan menggabungkanmu, aku akan menjadi sempurna...
+Dialogue: 0,1:25:17.15,1:25:19.31,Default,,0000,0000,0000,,Apakah yang aku lakukan ini salah?
+Dialogue: 0,1:25:20.47,1:25:22.94,Default,,0000,0000,0000,,Untuk mengatasi kelemahanmu,
+Dialogue: 0,1:25:23.54,1:25:27.88,Default,,0000,0000,0000,,Kau dibuang orang lain, dan hanya mencoba untuk menyempurnakan dirimu sendiri.
+Dialogue: 0,1:25:28.73,1:25:30.23,Default,,0000,0000,0000,,Itulah kesalahanmu.
+Dialogue: 0,1:25:31.61,1:25:36.14,Default,,0000,0000,0000,,itu logika jika dilahirkan dengan kekuatan.
+Dialogue: 0,1:25:37.22,1:25:40.90,Default,,0000,0000,0000,,Jika diingat lagi, aku tidak mempunyai banyak teman.
+Dialogue: 0,1:25:41.81,1:25:43.82,Default,,0000,0000,0000,,Itu adalah satu-satunya cara agar aku bisa bertahan hidup.
+Dialogue: 0,1:25:44.58,1:25:46.21,Default,,0000,0000,0000,,Kau salah, Hiruko.
+Dialogue: 0,1:25:54.37,1:25:55.58,Default,,0000,0000,0000,,Aku ada disana.
+Dialogue: 0,1:25:56.35,1:25:57.75,Default,,0000,0000,0000,,begitu juga aku.
+Dialogue: 0,1:26:00.40,1:26:02.72,Default,,0000,0000,0000,,Hiruko kau datang untuk merasakan!
+Dialogue: 0,1:26:05.32,1:26:09.88,Default,,0000,0000,0000,,Kau seharusnya memilih untuk membuat ikatan bersama denga temanmu,
+Dialogue: 0,1:26:10.84,1:26:15.13,Default,,0000,0000,0000,,jika kau terus mencoba, teman-temanmu akan mencoba menolongmu.
+Dialogue: 0,1:26:16.06,1:26:18.96,Default,,0000,0000,0000,,Teman-teman... Aku mengerti...
+Dialogue: 0,1:26:20.17,1:26:25.61,Default,,0000,0000,0000,,tapi itulah yang coba kau lakukan saat ini, Kakashi...
+Dialogue: 0,1:26:26.76,1:26:30.88,Default,,0000,0000,0000,,Ya, aku sama seperti dirimu, Hiruko.
+Dialogue: 0,1:26:31.66,1:26:34.70,Default,,0000,0000,0000,,mungkin kau bukan satu-satunya yang merasa kehilangan.
+Dialogue: 0,1:26:35.60,1:26:36.67,Default,,0000,0000,0000,,Mungkin aku juga.
+Dialogue: 0,1:26:38.09,1:26:41.96,Default,,0000,0000,0000,,dengan berpikir bahwa jika aku mengorbankan diriku sendiri, aku bisa menyelamatkan desa,
+Dialogue: 0,1:26:43.21,1:26:46.35,Default,,0000,0000,0000,,Aku memutuskan sendiri hubunganku dengan teman-temanku.
+Dialogue: 0,1:26:47.72,1:26:50.84,Default,,0000,0000,0000,,Aku mencoba untuk mengorbankan apa yang paling penting pada desa.
+Dialogue: 0,1:26:52.72,1:26:55.20,Default,,0000,0000,0000,,jujur, aku orang yang benar-benar telah dikalahkan.
+Dialogue: 0,1:27:02.38,1:27:03.36,Default,,0000,0000,0000,,Aku...
+Dialogue: 0,1:27:05.01,1:27:08.63,Default,,0000,0000,0000,,aku akhirnya membuat sebuah hubungan?
+Dialogue: 0,1:27:10.76,1:27:12.50,Default,,0000,0000,0000,,Bersama...temanku...
+Dialogue: 0,1:27:42.19,1:27:49.14,Default,,0000,0000,0000,,Hip hip Hooray!
+Dialogue: 0,1:27:52.78,1:27:56.70,Default,,0000,0000,0000,,Kau telah lama melampauiku,
+Dialogue: 0,1:27:58.59,1:27:59.51,Default,,0000,0000,0000,,Naruto...
+Dialogue: 0,1:28:15.80,1:28:17.00,Default,,0000,0000,0000,,Gaara!
+Dialogue: 0,1:28:18.76,1:28:22.00,Default,,0000,0000,0000,,Mundur! semua telah dipecahkan.
+Dialogue: 0,1:28:22.25,1:28:22.84,Default,,0000,0000,0000,,Baik!
+Dialogue: 0,1:28:23.82,1:28:26.04,Default,,0000,0000,0000,,Mundur! mundur!
+Dialogue: 0,1:28:32.94,1:28:35.00,Default,,0000,0000,0000,,Maafkan atas masalah ini, Jiraiya.
+Dialogue: 0,1:28:37.63,1:28:39.86,Default,,0000,0000,0000,,Kita selamat karena dirimu.
+Dialogue: 0,1:28:41.00,1:28:42.45,Default,,0000,0000,0000,,Tidak...
+Dialogue: 0,1:28:44.10,1:28:46.40,Default,,0000,0000,0000,,Kita berdua telah diselamatkan.
+Dialogue: 0,1:28:47.47,1:28:54.53,Default,,0000,0000,0000,,mereka bertindak sama seperti kita waktu masih muda dulu.
+Dialogue: 0,1:28:56.80,1:29:01.36,Default,,0000,0000,0000,,Ya. aku rasa kita sudah mulai tua...
+Dialogue: 0,1:29:13.80,1:29:14.83,Default,,0000,0000,0000,,Kakashi-sensei.
+Dialogue: 0,1:29:16.82,1:29:21.93,Default,,0000,0000,0000,,Ini. aku kembalikan apa yang kau berikan padaku.
+Dialogue: 0,1:29:27.85,1:29:33.73,Default,,0000,0000,0000,,Itu benar didalam dunia ninja, mereka yang melanggar peraturan akan dianggap seperti sampah.
+Dialogue: 0,1:29:34.88,1:29:35.97,Default,,0000,0000,0000,,Tapi...
+Dialogue: 0,1:29:36.87,1:29:40.73,Default,,0000,0000,0000,,Mereka yang tidak mau melindungi temannya bahkan lebih rendah dari sampah!
+Dialogue: 0,1:29:41.52,1:29:44.99,Default,,0000,0000,0000,,Jika nantinya aku dipanggil sampah, aku akan tetap melanggar peraturan itu!
+Dialogue: 0,1:29:45.57,1:29:46.23,Default,,0000,0000,0000,,Obito...
+Dialogue: 0,1:29:46.70,1:29:49.19,Default,,0000,0000,0000,,Jika itu bukan cara menjadi ninja yang baik.
+Dialogue: 0,1:29:50.14,1:29:53.45,Default,,0000,0000,0000,,Aku akan menghancurkan pemikiran itu!
+Dialogue: 0,1:30:15.07,1:30:17.70,Default,,0000,0000,0000,,Kau hampir mirip dengannya.
+Dialogue: 0,1:30:18.59,1:30:19.94,Default,,0000,0000,0000,,Kau mengatakan apa?
+Dialogue: 0,1:30:20.11,1:30:23.31,Default,,0000,0000,0000,,Astaga itu tempat yang menyeramkan dan tidak keren!
+Dialogue: 0,1:30:24.80,1:30:25.97,Default,,0000,0000,0000,,sedikit mirip...
+Dialogue: 0,1:30:28.29,1:30:29.27,Default,,0000,0000,0000,,Ap-Apa?
+Dialogue: 0,1:30:30.10,1:30:33.04,Default,,0000,0000,0000,,Aku tidak tahu bahwa kakashi-sensei memiliki ...kecenderungan seperti itu...
+Dialogue: 0,1:30:34.94,1:30:40.53,Default,,0000,0000,0000,,buku itu mengatakan bahwa seiring waktu, ketika dua pihak sama-sama merasa hati mereka berdebar-debar, itu bisa mengarah pada cinta...
+Dialogue: 0,1:30:40.53,1:30:42.30,Default,,0000,0000,0000,,Tapi aku tidak tahu bagaimana tentang dua pria...
+Dialogue: 0,1:30:42.92,1:30:44.91,Default,,0000,0000,0000,,Ayolah, apakah kau serius?
+Dialogue: 0,1:30:44.91,1:30:46.91,Default,,0000,0000,0000,,Tidak tunggu! ini bukan seperti itu-
+Dialogue: 0,1:30:46.62,1:30:50.77,Default,,0000,0000,0000,,Guy-sensei mengatakan bahwa ini juga merupakan bagian dari masa puber seorang pemuda.
+Dialogue: 0,1:30:50.77,1:30:53.48,Default,,0000,0000,0000,,Aku tahu itu.
+Dialogue: 0,1:30:53.76,1:30:54.61,Default,,0000,0000,0000,,Ap?
+Dialogue: 0,1:30:59.07,1:31:01.47,Default,,0000,0000,0000,,Oh, Kau pasti bercanda padaku!
+Dialogue: 0,1:31:01.47,1:31:04.15,Default,,0000,0000,0000,,Bukan seperti itu, Naruto!
+Dialogue: 0,1:31:04.68,1:31:05.82,Default,,0000,0000,0000,,Tunggu!
+Dialogue: 0,1:31:05.93,1:31:06.66,Default,,0000,0000,0000,,Jangan mendekat!
+Dialogue: 0,1:31:06.66,1:31:07.45,Default,,0000,0000,0000,,Naruto!
+Dialogue: 0,1:31:07.45,1:31:08.23,Default,,0000,0000,0000,,Tidak!

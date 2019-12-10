@@ -1,0 +1,1059 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial Rounded MT Bold,17,&H00FFFFFF,&H0300FFFB,&H00000000,&H02000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:35.22,0:00:36.47,Default,,0,0,0,,(Jurus 口寄せの術) Kuchiyose no Jutsu !
+Dialogue: 0,0:00:43.39,0:00:45.49,Default,,0,0,0,,Wuuaaaaaaaaaaaaaaa :]xx
+Dialogue: 0,0:00:47.47,0:00:48.49,Default,,0,0,0,,Apa itu ?
+Dialogue: 0,0:00:54.70,0:00:56.02,Default,,0,0,0,,Itu ,,, Jangan-jangan .........
+Dialogue: 0,0:01:00.33,0:01:01.00,Default,,0,0,0,,Kyuubi !!!
+Dialogue: 0,0:01:01.02,0:01:02.96,Default,,0,0,0,,Serang, Kyuubi !
+Dialogue: 0,0:01:22.55,0:01:24.17,Default,,0,0,0,,Apa yang terjadi ?
+Dialogue: 0,0:01:24.62,0:01:25.63,Default,,0,0,0,,Minato ...
+Dialogue: 0,0:01:29.01,0:01:30.39,Default,,0,0,0,,Jangan pikirkan itu sekarang,
+Dialogue: 0,0:01:30.49,0:01:32.00,Default,,0,0,0,,Tetaplah bersama Naruto disini.
+Dialogue: 0,0:01:37.89,0:01:39.36,Default,,0,0,0,,Naruto ... :'(
+Dialogue: 0,0:01:50.85,0:01:54.00,Default,,0,0,0,,Minato ,,, Terima kasih,
+Dialogue: 0,0:01:55.69,0:01:57.53,Default,,0,0,0,,Berhati - hatilah.
+Dialogue: 0,0:02:01.20,0:02:03.42,Default,,0,0,0,,Aku akan segera kembali.
+Dialogue: 0,0:02:21.82,0:02:24.34,Default,,0,0,0,,Aku tidak akan membiarkanmu bertindak lebih jauh lagi !
+Dialogue: 0,0:02:32.20,0:02:34.12,Default,,0,0,0,,Jadi kau menyadari kehadiranku.
+Dialogue: 0,0:02:38.30,0:02:41.02,Default,,0,0,0,,Kau tidak akan bisa sampai disini !
+Dialogue: 0,0:03:01.50,0:03:06.50,Default,,0,0,0,,Thanks To :\NReza Perdana (Laros Banyuwangi) dan Awan-kun
+Dialogue: 0,0:03:07.50,0:03:12.50,Default,,0,0,0,,{\c&H006400&}Kredit : Kazegami FanSub™
+Dialogue: 0,0:03:13.50,0:03:21.50,Default,,0,0,0,,{\c&H9933ff&}Subtitle By : Silver Bullet Cavendish
+Dialogue: 0,0:03:23.18,0:03:24.90,Default,,0,0,0,,{\c&Hffff00&\i1}Ninja itu apa ?{\i1}
+Dialogue: 0,0:03:25.22,0:03:27.77,Default,,0,0,0,,{\c&Hffff00&\i1}Seseorang bertanya padaku.{\i1}
+Dialogue: 0,0:03:28.42,0:03:32.10,Default,,0,0,0,,{\c&Hffff00&\i1}Ninja adalah orang yang menanggung beban.{\i1}
+Dialogue: 0,0:03:32.38,0:03:34.16,Default,,0,0,0,,{\c&Hffff00&\i1}Guruku mengatakan itu.{\i1}
+Dialogue: 0,0:03:48.54,0:03:52.24,Default,,0,0,0,,Aku pikir laporan itu benar, bahwa Akatsuki sedang disini.
+Dialogue: 0,0:03:53.46,0:03:54.88,Default,,0,0,0,,Bagaimana bisa ?
+Dialogue: 0,0:03:55.14,0:03:57.06,Default,,0,0,0,,Beberapa dari mereka pernah kita kalahkan.
+Dialogue: 0,0:03:57.39,0:04:01.44,Default,,0,0,0,,Ini bukan waktunya untuk mengetahui bagaimana mereka bisa kembali.
+Dialogue: 0,0:04:03.91,0:04:07.61,Default,,0,0,0,,Jumlah musuh yang harus kita kalahkan ada delapan,
+Dialogue: 0,0:04:07.78,0:04:10.66,Default,,0,0,0,,Saat ini aku mempunyai data mereka semua dikepalaku.
+Dialogue: 0,0:04:11.12,0:04:13.62,Default,,0,0,0,,Persiapan selesai, kami akan menunggu perintah.
+Dialogue: 0,0:04:13.72,0:04:14.10,Default,,0,0,0,,Aku menger ,,,
+Dialogue: 0,0:04:14.10,0:04:15.22,Default,,0,0,0,,(Jurus 螺旋丸) Rasengan !
+Dialogue: 0,0:04:15.22,0:04:15.77,Default,,0,0,0,,Apa !!??
+Dialogue: 0,0:04:24.31,0:04:26.63,Default,,0,0,0,,Aku tidak pernah lari atau bersembunyi !
+Dialogue: 0,0:04:26.79,0:04:29.36,Default,,0,0,0,,Majulah kalian semua !
+Dialogue: 0,0:04:29.51,0:04:31.35,Default,,0,0,0,,{\c&Hffff00&\i1}Dan ,,,{\i1}
+Dialogue: 0,0:04:31.64,0:04:33.55,Default,,0,0,0,,{\c&Hffff00&\i1}Namaku adalah ,,,{\i1}
+Dialogue: 0,0:04:37.60,0:04:39.24,Default,,0,0,0,,{\c&Hffff00&\i1}Uzumaki Naruto !{\i1}
+Dialogue: 0,0:04:39.31,0:04:40.99,Default,,0,0,0,,{\c&Hffff00&\i1}Ninja Dattebayo !{\i1}
+Dialogue: 0,0:04:41.14,0:04:42.91,Default,,0,0,0,,Apa yang dia lakukan ?
+Dialogue: 0,0:04:43.04,0:04:45.59,Default,,0,0,0,,Dia berkata dia itu ninja, tapi dia bahkan tidak sabaran.
+Dialogue: 0,0:04:48.43,0:04:52.86,Default,,0,0,0,,Baik, aku pikir bahwa dia adalah umpan yang sempurna.
+Dialogue: 0,0:04:53.12,0:04:54.34,Default,,0,0,0,,Shikimaru !
+Dialogue: 0,0:04:55.55,0:04:57.54,Default,,0,0,0,,Kesempatan mereka adalah melawan kita sebagai sebuah kelompok,
+Dialogue: 0,0:04:57.56,0:05:00.30,Default,,0,0,0,,Hal terbaik yang dapat kita lakukan adalah melawan mereka satu lawan satu secara terpisah,
+Dialogue: 0,0:05:00.37,0:05:02.08,Default,,0,0,0,,Semuanya mengerti bukan ?
+Dialogue: 0,0:05:09.88,0:05:12.74,Default,,0,0,0,,Aku mohon berhentilah membuat masalah.
+Dialogue: 0,0:05:12.76,0:05:15.00,Default,,0,0,0,,Kau benar-benar cereboh.
+Dialogue: 0,0:05:15.10,0:05:16.50,Default,,0,0,0,,Apa katamu !!??
+Dialogue: 0,0:05:17.88,0:05:20.15,Default,,0,0,0,,Walaupun aku sedikit lapar, aku tetap akan memulai !
+Dialogue: 0,0:05:20.40,0:05:23.46,Default,,0,0,0,,(Jurus 倍化の術) Baika no Jutsu !
+Dialogue: 0,0:05:24.02,0:05:26.42,Default,,0,0,0,,(Jurus 肉弾針戦車) Nikudan Hari Sensha !
+Dialogue: 0,0:05:26.72,0:05:29.31,Default,,0,0,0,,Kau harus segera kembali ke tempat persembunyianmu.
+Dialogue: 0,0:05:31.04,0:05:35.31,Default,,0,0,0,,Aku tidak akan memberimu waktu untuk menggunakan jutsumu.
+Dialogue: 0,0:05:39.69,0:05:42.62,Default,,0,0,0,,Apa kau lihat kombinasi mengagumkan kami ?
+Dialogue: 0,0:05:43.84,0:05:46.51,Default,,0,0,0,,Hinata, berjuanglah ! ;)
+Dialogue: 0,0:05:46.52,0:05:47.86,Default,,0,0,0,,Naruto-kun :$ <3<3
+Dialogue: 0,0:05:49.34,0:05:52.53,Default,,0,0,0,,(Jurus ダブルダイナミック・エントリー) Daburu Dainamikku Entorī !
+Dialogue: 0,0:05:57.58,0:06:01.72,Default,,0,0,0,,Dulu aku berjuang keras melawanmu, tetapi aku sekarang sudah berbeda.
+Dialogue: 0,0:06:01.88,0:06:04.24,Default,,0,0,0,,Kau tidak akan mampu melawanku sekarang.
+Dialogue: 0,0:06:04.42,0:06:11.56,Default,,0,0,0,,Benar Lee, kita tunjukan kepada mereka kekuatan masa muda !
+Dialogue: 0,0:06:15.46,0:06:17.02,Default,,0,0,0,,Aku tidak akan membiarkanmu lari !
+Dialogue: 0,0:06:17.14,0:06:18.44,Default,,0,0,0,,Itu benar.
+Dialogue: 0,0:06:32.26,0:06:34.38,Default,,0,0,0,,{\c&Hffff00&\i1}Tempat itu ,,,{\i1}
+Dialogue: 0,0:06:34.44,0:06:39.40,Default,,0,0,0,,{\c&Hffff00&\i1}Tempat dimana Ayahku dan Ero Sennin berlatih.{\i1}
+Dialogue: 0,0:06:44.24,0:06:45.83,Default,,0,0,0,,Maaf sudah ,,, Aduh ! :&
+Dialogue: 0,0:06:45.84,0:06:47.77,Default,,0,0,0,,Jangan pura-pura tidak tahu !
+Dialogue: 0,0:06:49.12,0:06:52.06,Default,,0,0,0,,(Jurus 土遁・土石龍) Doton : Doryūheki !
+Dialogue: 0,0:06:54.75,0:06:57.37,Default,,0,0,0,,(Jurus 忍法・超獣偽画) Ninpou : Choujuu Giga !
+Dialogue: 0,0:07:03.46,0:07:05.48,Default,,0,0,0,,Sial ! Aku akan ,,,
+Dialogue: 0,0:07:06.48,0:07:08.48,Default,,0,0,0,,Uuaaaa !!! Caaaahhh :&
+Dialogue: 0,0:07:08.50,0:07:10.65,Default,,0,0,0,,Apa itu ? Lepaskan !
+Dialogue: 0,0:07:10.68,0:07:15.34,Default,,0,0,0,,Tangan itu !!! Tangan ... x_x
+Dialogue: 0,0:07:15.44,0:07:17.50,Default,,0,0,0,,Ini adalah jutsu musuh.
+Dialogue: 0,0:07:33.96,0:07:36.42,Default,,0,0,0,,Mereka menghilang tanpa serangan balik ?!
+Dialogue: 0,0:07:36.50,0:07:37.72,Default,,0,0,0,,Kita berhasil.
+Dialogue: 0,0:07:37.76,0:07:41.46,Default,,0,0,0,,Sepertinya kita berhasil membuat mereka takut.
+Dialogue: 0,0:07:44.02,0:07:45.58,Default,,0,0,0,,Kakashi Sensei !
+Dialogue: 0,0:07:46.58,0:07:50.75,Default,,0,0,0,,Ya, ini aneh !
+Dialogue: 0,0:07:55.02,0:07:58.59,Default,,0,0,0,,Kau bilang anggota Akatsuki yang telah mati menyerang ?
+Dialogue: 0,0:07:58.78,0:08:00.44,Default,,0,0,0,,Bagaimana bisa ?
+Dialogue: 0,0:08:01.18,0:08:02.71,Default,,0,0,0,,Aku tidak tahu !
+Dialogue: 0,0:08:02.74,0:08:05.78,Default,,0,0,0,,Mereka mundur tanpa serangan balasan.
+Dialogue: 0,0:08:05.94,0:08:10.20,Default,,0,0,0,,Aku tidak yakin apakah ini ancaman atau hal lainnya.
+Dialogue: 0,0:08:10.32,0:08:13.54,Default,,0,0,0,,Kita perluas penjagaan dan perkuat tim patroli desa.
+Dialogue: 0,0:08:13.60,0:08:14.26,Default,,0,0,0,,Baiklah.
+Dialogue: 0,0:08:16.60,0:08:20.50,Default,,0,0,0,,Dan kita masih punya bagian tubuh itu kan ?
+Dialogue: 0,0:08:20.78,0:08:23.06,Default,,0,0,0,,Lakukan pemeriksaan dan bandingkan sekarang juga !
+Dialogue: 0,0:08:23.14,0:08:24.06,Default,,0,0,0,,Baik.
+Dialogue: 0,0:08:30.52,0:08:35.26,Default,,0,0,0,,Aku dengar, Akatsuki melarikan diri setelah menyerang desa.
+Dialogue: 0,0:08:35.44,0:08:36.82,Default,,0,0,0,,Ya itu benar.
+Dialogue: 0,0:08:36.90,0:08:38.74,Default,,0,0,0,,Tapi, semuanya berakhir dengan cepat.
+Dialogue: 0,0:08:38.76,0:08:40.14,Default,,0,0,0,,Apa yang kau katakan.
+Dialogue: 0,0:08:40.24,0:08:44.76,Default,,0,0,0,,Itu baru putraku, melakukan hal yang tepat, disaat yang tepat.
+Dialogue: 0,0:08:44.92,0:08:50.22,Default,,0,0,0,,Bukankah semua anggota Akatsuki itu orang-orang kuat ?
+Dialogue: 0,0:08:50.32,0:08:55.50,Default,,0,0,0,,Dan kalian membuat mereka semua kabur. Kalian sama hebatnya dengan Jounin.
+Dialogue: 0,0:08:55.57,0:08:58.20,Default,,0,0,0,,Hahaha :D Apakah benar begitu ?
+Dialogue: 0,0:08:58.33,0:08:59.40,Default,,0,0,0,,Tentu saja !
+Dialogue: 0,0:08:59.62,0:09:01.45,Default,,0,0,0,,Oleh karena itu, kami semua sudah membicarakannya.
+Dialogue: 0,0:09:01.86,0:09:05.94,Default,,0,0,0,,Kami telah memutuskan untuk mengirim surat rekomendasi Jounin kepada Hokage.
+Dialogue: 0,0:09:06.58,0:09:08.90,Default,,0,0,0,,Benarkah ? Jadi kami akan dijadikan Jounin ?
+Dialogue: 0,0:09:09.02,0:09:10.31,Default,,0,0,0,,Percaya dirilah.
+Dialogue: 0,0:09:10.64,0:09:13.04,Default,,0,0,0,,Ini sudah ditentukan bersama.
+Dialogue: 0,0:09:13.12,0:09:13.90,Default,,0,0,0,,Benar bukan ?
+Dialogue: 0,0:09:14.02,0:09:18.18,Default,,0,0,0,,Ya ya, benar, aku setuju !
+Dialogue: 0,0:09:18.37,0:09:20.58,Default,,0,0,0,,Ah, permisi ...
+Dialogue: 0,0:09:20.62,0:09:22.02,Default,,0,0,0,,Ngomong-ngomong, perasaanku tidak enak.
+Dialogue: 0,0:09:22.18,0:09:25.34,Default,,0,0,0,,Kami awalnya ragu pada kalian.
+Dialogue: 0,0:09:26.27,0:09:27.18,Default,,0,0,0,,Oh ,,, Ibu ...
+Dialogue: 0,0:09:27.26,0:09:29.72,Default,,0,0,0,,Kau selalu berbuat ceroboh.
+Dialogue: 0,0:09:30.02,0:09:34.86,Default,,0,0,0,,Dia tidak pernah mencuci pakaiannya dan membersihkannya.
+Dialogue: 0,0:09:35.06,0:09:38.50,Default,,0,0,0,,Aku khawatir dia akan tetap melakukan hal itu bahkan saat dia menjadi Jounin.
+Dialogue: 0,0:09:41.75,0:09:43.78,Default,,0,0,0,,Apa yang kau katakan didepan semua orang ?
+Dialogue: 0,0:09:44.00,0:09:47.68,Default,,0,0,0,,Hihihi :p Sakura masih bergantung pada ibunya.
+Dialogue: 0,0:09:47.72,0:09:49.34,Default,,0,0,0,,Kau tidak perlu cemas.
+Dialogue: 0,0:09:49.55,0:09:52.30,Default,,0,0,0,,Sakura bersama guru yang baik,
+Dialogue: 0,0:09:52.58,0:09:55.65,Default,,0,0,0,,Dia akan baik-baik saja bahkan jika dia dalam situasi berbulu.
+Dialogue: 0,0:09:57.38,0:09:59.91,Default,,0,0,0,,Hahaha ! :D{\c}\N{\c&Hffff00&\i1}Leluconmu itu menjijikkan ... !!!{\i1}
+Dialogue: 0,0:09:59.97,0:10:03.02,Default,,0,0,0,,Oh, astaga !!! Ayah, Ibu ! Kalian berdua hentikan !!!
+Dialogue: 0,0:10:03.07,0:10:05.48,Default,,0,0,0,,Leluconmu itu terlalu menjijkan dan kurang greget !
+Dialogue: 0,0:10:05.63,0:10:07.66,Default,,0,0,0,,Haa, lihat cara dia bicara !
+Dialogue: 0,0:10:07.84,0:10:10.19,Default,,0,0,0,,Sakura-chan, jangan berkata begitu kepada orang tua mu !
+Dialogue: 0,0:10:10.25,0:10:12.35,Default,,0,0,0,,Diamlah ! Ini bukan urusanmu !
+Dialogue: 0,0:10:18.58,0:10:22.34,Default,,0,0,0,,Sepertinya semua orang tua merekomendasikan anak mereka menjadi Jounin.
+Dialogue: 0,0:10:22.40,0:10:23.90,Default,,0,0,0,,Apa yang kau lakukan ?
+Dialogue: 0,0:10:24.34,0:10:26.64,Default,,0,0,0,,Aku tidak yakin, karena sebelumnya aku sudah dikendalikan.
+Dialogue: 0,0:10:26.78,0:10:29.98,Default,,0,0,0,,Cara belajar menjadi Jounin pun berbeda.
+Dialogue: 0,0:10:45.04,0:10:47.90,Default,,0,0,0,,Hei hei, bagaimana kau menghabiskan semuanya ?
+Dialogue: 0,0:10:47.97,0:10:49.76,Default,,0,0,0,,Hahaha :D Aku dapat menghabiskannya.
+Dialogue: 0,0:10:49.79,0:10:51.44,Default,,0,0,0,,Gigimu nanti akan rusak ! Hehehe :)
+Dialogue: 0,0:11:10.49,0:11:12.02,Default,,0,0,0,,Ayo pulang :)
+Dialogue: 0,0:11:12.10,0:11:13.57,Default,,0,0,0,,Baik ! :)
+Dialogue: 0,0:12:06.46,0:12:09.58,Default,,0,0,0,,Aku pulang !
+Dialogue: 0,0:12:18.09,0:12:19.01,Default,,0,0,0,,Huuffff ,,,
+Dialogue: 0,0:12:19.87,0:12:21.94,Default,,0,0,0,,Capeknya ... #:-s Oh !
+Dialogue: 0,0:12:28.16,0:12:30.47,Default,,0,0,0,,Apa yang ingin kau katakan ?
+Dialogue: 0,0:12:30.64,0:12:33.24,Default,,0,0,0,,Umm,,, Iruka Sensei ,,,
+Dialogue: 0,0:12:33.42,0:12:34.64,Default,,0,0,0,,Itu ,,,
+Dialogue: 0,0:12:34.76,0:12:35.68,Default,,0,0,0,,Baiklah ,,,
+Dialogue: 0,0:12:35.82,0:12:38.34,Default,,0,0,0,,Bisakah kau menuliskan surat rekomendasi Jounin untukku ?
+Dialogue: 0,0:12:38.46,0:12:39.28,Default,,0,0,0,,Haa ?
+Dialogue: 0,0:12:39.40,0:12:44.06,Default,,0,0,0,,Semua temanku bilang bahwa Ibu atauAyah mereka akan menuliskannya untuk mereka.
+Dialogue: 0,0:12:44.20,0:12:45.74,Default,,0,0,0,,Jadi aku ingin kau ,,,
+Dialogue: 0,0:12:45.86,0:12:47.76,Default,,0,0,0,,Tidak, aku tidak bisa.
+Dialogue: 0,0:12:48.20,0:12:49.36,Default,,0,0,0,,Kenapa ?
+Dialogue: 0,0:12:49.64,0:12:53.18,Default,,0,0,0,,Semua itu ada peraturannya.
+Dialogue: 0,0:12:53.44,0:12:57.64,Default,,0,0,0,,Meskipun kau telah melindungi desa Konoha dari Pain,
+Dialogue: 0,0:12:57.74,0:13:00.15,Default,,0,0,0,,Tetapi aku tidak bisa memberikanmu perlakuan khusus.
+Dialogue: 0,0:13:00.22,0:13:02.84,Default,,0,0,0,,Ayahmu, Hokage ke-4 juga melewatinya.
+Dialogue: 0,0:13:03.06,0:13:06.53,Default,,0,0,0,,Ditingkat Genin, Chunin, Jounin, dan menjadi Hokage.
+Dialogue: 0,0:13:06.70,0:13:08.58,Default,,0,0,0,,Dan dia telah menjadi pahlawan.
+Dialogue: 0,0:13:08.64,0:13:11.56,Default,,0,0,0,,Lalu, dia berubah menjadi pahatan batu.
+Dialogue: 0,0:13:12.82,0:13:15.72,Default,,0,0,0,,Batu tidak bisa berkata, "Selamat Datang."
+Dialogue: 0,0:13:16.44,0:13:17.78,Default,,0,0,0,,Kau ...
+Dialogue: 0,0:13:17.92,0:13:24.98,Default,,0,0,0,,Terkadang aku berpikir ,,, daripada punya orang tua yang diukir dibatu dan tidak bisa berbicara,
+Dialogue: 0,0:13:25.21,0:13:29.14,Default,,0,0,0,,Akan lebih baik jika aku punya orang tua yang bisa berkata, "Selamat Datang" disaat aku pulang.
+Dialogue: 0,0:13:32.36,0:13:34.10,Default,,0,0,0,,Iruka Sensei, orang tu ,,,
+Dialogue: 0,0:13:34.12,0:13:36.18,Default,,0,0,0,,Berhentilah berbicara bodoh !
+Dialogue: 0,0:13:37.72,0:13:40.30,Default,,0,0,0,,Mengapa leluconmu begitu buruk sekarang ?
+Dialogue: 0,0:13:40.90,0:13:42.34,Default,,0,0,0,,Entahlah ...
+Dialogue: 0,0:13:45.72,0:13:47.64,Default,,0,0,0,,Ini dia ramennya !
+Dialogue: 0,0:13:48.68,0:13:51.58,Default,,0,0,0,,Naruto memesan ramen kedelai-babi bukan ?
+Dialogue: 0,0:13:56.94,0:14:00.90,Default,,0,0,0,,{\i1}Narutomaki (鳴門巻き/なると巻き) atau Naruto (ナルト/なると) = Kue Ikan Naruto{\i1}
+Dialogue: 0,0:13:56.92,0:14:00.62,Default,,0,0,0,,Paman, disini tidak ada Kue Ikan Naruto.
+Dialogue: 0,0:14:00.86,0:14:02.98,Default,,0,0,0,,Maaf, aku kehabisan.
+Dialogue: 0,0:14:03.00,0:14:06.98,Default,,0,0,0,,{\i1}Menma (メンマ atau 麺麻 atau 麺碼) = Makanan khas Jepang yang terbuat dari bambu.{\i1}
+Dialogue: 0,0:14:03.08,0:14:06.50,Default,,0,0,0,,Tapi aku menambahkan banyak Menma,
+Dialogue: 0,0:14:13.78,0:14:20.78,Default,,0,0,0,,Aku benci Menma ! Aku tidak tahu apa itu Menma ! Aku bahkan tidak sanggup mengunyahnya !
+Dialogue: 0,0:14:21.18,0:14:25.26,Default,,0,0,0,,Menma dibuat dari bambu kering, wajar saja keras dan kasar.
+Dialogue: 0,0:14:25.30,0:14:28.20,Default,,0,0,0,,Kau itu orang yang keras !
+Dialogue: 0,0:14:28.76,0:14:31.22,Default,,0,0,0,,Lalu kenapa kau pilih itu ??!!
+Dialogue: 0,0:14:31.28,0:14:34.92,Default,,0,0,0,,Hei, hei ! Jangan bertengkar disini !
+Dialogue: 0,0:14:34.94,0:14:38.68,Default,,0,0,0,,Ramen tanpa Kue Ikan Naruto bukanlah Ramen !
+Dialogue: 0,0:14:40.54,0:14:43.10,Default,,0,0,0,,Hei, tunggu ! Naruto !
+Dialogue: 0,0:14:44.28,0:14:48.00,Default,,0,0,0,,Dia itu, aku tidak tau mengapa dia membenci Menma,
+Dialogue: 0,0:14:51.20,0:14:52.78,Default,,0,0,0,,Uangnya kurang.
+Dialogue: 0,0:14:53.06,0:14:54.72,Default,,0,0,0,,Aku akan bayar sisanya.
+Dialogue: 0,0:14:59.86,0:15:03.58,Default,,0,0,0,,Kenapa, Iruka Sensei juga.
+Dialogue: 0,0:15:03.76,0:15:06.72,Default,,0,0,0,,Apa kau dalam masa pubertas ?
+Dialogue: 0,0:15:07.09,0:15:09.60,Default,,0,0,0,,Berhentilah ikut campur dalam segala hal,
+Dialogue: 0,0:15:09.69,0:15:11.07,Default,,0,0,0,,Aku sudah dewasa !
+Dialogue: 0,0:15:12.90,0:15:16.12,Default,,0,0,0,,Tunggu, kau mau kemana ? Aku belum selesai bicara !
+Dialogue: 0,0:15:18.86,0:15:21.08,Default,,0,0,0,,Ini hidupku, jadi berhentilah ikut campur !
+Dialogue: 0,0:15:21.52,0:15:22.90,Default,,0,0,0,,Sakura !
+Dialogue: 0,0:15:26.54,0:15:27.64,Default,,0,0,0,,Sakura-chan !
+Dialogue: 0,0:15:27.74,0:15:29.92,Default,,0,0,0,,Berhenti, Sakura !
+Dialogue: 0,0:15:31.28,0:15:33.14,Default,,0,0,0,,Ayo pergi !
+Dialogue: 0,0:15:33.20,0:15:36.14,Default,,0,0,0,,Aku akan kencan denganmu, jadi ikuti aku !
+Dialogue: 0,0:15:36.40,0:15:40.90,Default,,0,0,0,,Aku senang dengan hal itu, tapi tidak seperti ini ,,,
+Dialogue: 0,0:15:40.96,0:15:41.78,Default,,0,0,0,,Diam !
+Dialogue: 0,0:15:41.90,0:15:47.50,Default,,0,0,0,,Ini melampiaskan kemarahanmu padaku, ini bukanlah kencan !
+Dialogue: 0,0:15:47.86,0:15:50.44,Default,,0,0,0,,Hei, lepaskan Sakura. Itu sakit, aduh ! :&
+Dialogue: 0,0:15:56.46,0:16:00.60,Default,,0,0,0,,Sakura-chan, apa ini baik-baik saja ? Ibumu akan mencarimu.
+Dialogue: 0,0:16:00.78,0:16:02.50,Default,,0,0,0,,Ini akan baik-baik saja.
+Dialogue: 0,0:16:02.68,0:16:04.34,Default,,0,0,0,,Ini sudah biasa.
+Dialogue: 0,0:16:04.48,0:16:09.82,Default,,0,0,0,,Dia selalu ikut campur dalam urusanku, dan dia tidak akan puas sampai semua berjalan sesuai keinginannya.
+Dialogue: 0,0:16:10.20,0:16:12.34,Default,,0,0,0,,Begitu pula ayahku.
+Dialogue: 0,0:16:12.72,0:16:15.68,Default,,0,0,0,,Bagaimana perasaannya jika dia ada diposisiku ?
+Dialogue: 0,0:16:15.94,0:16:18.92,Default,,0,0,0,,Dia melakukan semua yang diperintahkan oleh ibu.
+Dialogue: 0,0:16:19.08,0:16:21.88,Default,,0,0,0,,Dia seorang Genin yang bahkan tidak punya kesempatan menjadi Jounin.
+Dialogue: 0,0:16:22.03,0:16:24.36,Default,,0,0,0,,Aku ingin dia melakukan sesuatu untukku.
+Dialogue: 0,0:16:24.62,0:16:25.86,Default,,0,0,0,,Hei ...
+Dialogue: 0,0:16:25.96,0:16:30.16,Default,,0,0,0,,Aku harap, aku bisa menghormati orang tuaku seperti yang lain.
+Dialogue: 0,0:16:30.60,0:16:33.28,Default,,0,0,0,,Aku malu memanggil mereka orang tua.
+Dialogue: 0,0:16:33.34,0:16:36.46,Default,,0,0,0,,Kau itu bicara terlalu kasar.
+Dialogue: 0,0:16:37.48,0:16:39.52,Default,,0,0,0,,Apa ? Jadi kau dipihak orang tuaku ?
+Dialogue: 0,0:16:39.62,0:16:41.54,Default,,0,0,0,,Bukan begitu ! Aku hanya ,,,
+Dialogue: 0,0:16:42.28,0:16:45.52,Default,,0,0,0,,Dari semua orang yang ada, kenapa cuma kau yang ada disini ?
+Dialogue: 0,0:16:47.88,0:16:51.18,Default,,0,0,0,,Jika Sasuke disini, dia pasti mengerti aku.
+Dialogue: 0,0:16:51.24,0:16:52.18,Default,,0,0,0,,Haa ?
+Dialogue: 0,0:16:56.70,0:16:59.38,Default,,0,0,0,,Lama tak berjumpa, Uzumaki Naruto.
+Dialogue: 0,0:16:59.54,0:17:02.52,Default,,0,0,0,,Kau ,,, Madara !!!
+Dialogue: 0,0:17:07.80,0:17:09.58,Default,,0,0,0,,(Jurus 螺旋丸) Rasengan !
+Dialogue: 0,0:17:13.44,0:17:14.78,Default,,0,0,0,,Kau tidak berubah.
+Dialogue: 0,0:17:14.82,0:17:16.70,Default,,0,0,0,,(Jurus) Shannaro !
+Dialogue: 0,0:17:25.70,0:17:27.96,Default,,0,0,0,,Jangan berpikir untuk membuat kekacauan didesa ini !
+Dialogue: 0,0:17:28.42,0:17:31.98,Default,,0,0,0,,Ini sedikit diluar dugaanku, tapi tidak masalah.
+Dialogue: 0,0:17:42.12,0:17:46.96,Default,,0,0,0,,Apa yang ,,,
+Dialogue: 0,0:17:56.94,0:17:59.60,Default,,0,0,0,,Apa itu tadi ?
+Dialogue: 0,0:18:00.70,0:18:03.82,Default,,0,0,0,,Sialan, kemana perginya dia ?
+Dialogue: 0,0:18:03.88,0:18:08.36,Default,,0,0,0,,Mungkin dia sembunyi disekitar sini.
+Dialogue: 0,0:18:10.22,0:18:12.28,Default,,0,0,0,,Hei, apa yang kalian lakukan disini ?
+Dialogue: 0,0:18:12.36,0:18:15.14,Default,,0,0,0,,Kalian, ini waktu yang tepat !
+Dialogue: 0,0:18:15.23,0:18:18.64,Default,,0,0,0,,Ini gawat, tadi madara muncul disini !
+Dialogue: 0,0:18:19.58,0:18:21.74,Default,,0,0,0,,Hei, apa kalian dengar apa yang barusan kami bilang ?
+Dialogue: 0,0:18:21.94,0:18:27.52,Default,,0,0,0,,Tentu saja. Oh ya, Madara apa yang kau bicarakan ? Makanan ?
+Dialogue: 0,0:18:27.62,0:18:31.08,Default,,0,0,0,,Ini bukan saatnya bergurau !!!
+Dialogue: 0,0:18:31.22,0:18:31.98,Default,,0,0,0,,Itulah kena ,,,
+Dialogue: 0,0:18:32.92,0:18:34.46,Default,,0,0,0,,Aduhh ...
+Dialogue: 0,0:18:36.64,0:18:38.02,Default,,0,0,0,,Akamaru ?
+Dialogue: 0,0:18:38.10,0:18:41.59,Default,,0,0,0,,Apa kau ingin mati ? Akamaru !
+Dialogue: 0,0:18:41.64,0:18:44.02,Default,,0,0,0,,Kenapa kau menggigitku ?
+Dialogue: 0,0:18:45.94,0:18:49.98,Default,,0,0,0,,Apa yang kau katakan ? Aku tidak ingin melihatmu !
+Dialogue: 0,0:18:56.44,0:18:59.52,Default,,0,0,0,,Apa kau punya masalah dengan Akamaru ?
+Dialogue: 0,0:18:59.56,0:19:02.06,Default,,0,0,0,,Apa yang kau maksud ? Ini sudah sering terjadi.
+Dialogue: 0,0:19:02.24,0:19:06.12,Default,,0,0,0,,Sungguh ,,, aku ingin terlahir sebagai dukun kucing.
+Dialogue: 0,0:19:06.20,0:19:07.48,Default,,0,0,0,,Kucing ?
+Dialogue: 0,0:19:07.56,0:19:12.38,Default,,0,0,0,,Karena Kiba merasa dia dukun kucing.
+Dialogue: 0,0:19:12.50,0:19:13.26,Default,,0,0,0,,Ngomong-ngomong,
+Dialogue: 0,0:19:13.44,0:19:15.24,Default,,0,0,0,,Apa yang kalian lakukan disini ?
+Dialogue: 0,0:19:15.50,0:19:17.78,Default,,0,0,0,,Jangan bilang kalian berkencan !
+Dialogue: 0,0:19:18.50,0:19:21.68,Default,,0,0,0,,Tidak! Hinata apa yang ,,,
+Dialogue: 0,0:19:22.10,0:19:26.13,Default,,0,0,0,,Jika kau bermain-main dengannya, aku akan membunuhmu !
+Dialogue: 0,0:19:28.58,0:19:30.80,Default,,0,0,0,,Jujur dan katakan !
+Dialogue: 0,0:19:30.98,0:19:32.14,Default,,0,0,0,,Apa ,,,
+Dialogue: 0,0:19:32.16,0:19:34.12,Default,,0,0,0,,Hei, tenanglah !
+Dialogue: 0,0:19:34.22,0:19:37.20,Default,,0,0,0,,Hei ! Kenapa kau membelanya !?
+Dialogue: 0,0:19:39.19,0:19:41.72,Default,,0,0,0,,Sakura-chan ! Pergilah.
+Dialogue: 0,0:19:42.44,0:19:43.84,Default,,0,0,0,,Kurasa begitu !
+Dialogue: 0,0:19:43.98,0:19:48.32,Default,,0,0,0,,Oh ya, lelaki dan wanita berdua dimalam hari itu artinya.
+Dialogue: 0,0:19:48.38,0:19:50.70,Default,,0,0,0,,Mereka kabur !? Sesuai dugaanku, mereka berkencan,
+Dialogue: 0,0:19:50.76,0:19:53.34,Default,,0,0,0,,Berhenti kalian !
+Dialogue: 0,0:19:53.52,0:19:55.12,Default,,0,0,0,,Aku benci diabaikan.
+Dialogue: 0,0:20:13.00,0:20:15.14,Default,,0,0,0,,Kenapa dengannya ?
+Dialogue: 0,0:20:15.24,0:20:18.78,Default,,0,0,0,,Apa mereka biasanya seperti itu ?
+Dialogue: 0,0:20:19.78,0:20:25.29,Default,,0,0,0,,Hei, Choji ! Ayo makan beberapa daging,
+Dialogue: 0,0:20:25.36,0:20:30.17,Default,,0,0,0,,Di Barbeque, mereka memperbolehkan kita makan sepuasnya jika kita membayar 1500 yen saja,
+Dialogue: 0,0:20:30.20,0:20:32.43,Default,,0,0,0,,Jika kita bertiga kesana dan membayarnya dengan patungan,
+Dialogue: 0,0:20:32.45,0:20:33.74,Default,,0,0,0,,Umm ,,,
+Dialogue: 0,0:20:33.74,0:20:34.98,Default,,0,0,0,,Umm ,,,
+Dialogue: 0,0:20:35.32,0:20:36.96,Default,,0,0,0,,500 yen.
+Dialogue: 0,0:20:37.10,0:20:40.04,Default,,0,0,0,,Tapi, aku tidak akan kesana,
+Dialogue: 0,0:20:40.52,0:20:44.07,Default,,0,0,0,,Aku hanya makan burung kecil, itu pemborosan.
+Dialogue: 0,0:20:44.11,0:20:46.14,Default,,0,0,0,,Apa yang kau katakan ?
+Dialogue: 0,0:20:46.14,0:20:50.93,Default,,0,0,0,,Bahkan jika kita hanya makan 5 porsi, itu masih menguntungkan.
+Dialogue: 0,0:20:50.95,0:20:53.70,Default,,0,0,0,,Memangnya aku babi ? Bagaimana aku bisa memakan 5 porsi ?
+Dialogue: 0,0:20:53.76,0:20:55.74,Default,,0,0,0,,Hei kalian,
+Dialogue: 0,0:20:56.69,0:21:00.26,Default,,0,0,0,,Kita sudah dewasa, kita tidak seharusnya bertengkar.
+Dialogue: 0,0:21:00.34,0:21:03.44,Default,,0,0,0,,Apa kau melihatnya ? Mengapa dia begitu pemalu ?
+Dialogue: 0,0:21:06.24,0:21:11.22,Default,,0,0,0,,Sakura-chan, apakah kalian punya waktu ? Mau bergabung dengan kami ?
+Dialogue: 0,0:21:11.28,0:21:13.05,Default,,0,0,0,,Aku merinding.
+Dialogue: 0,0:21:13.09,0:21:16.60,Default,,0,0,0,,Ayolah, akan lebih menyenangkan jika kita pergi bersama.
+Dialogue: 0,0:21:16.84,0:21:21.55,Default,,0,0,0,,Sudah kuduga, sejak Madara menghilang, semuanya jadi aneh.
+Dialogue: 0,0:21:22.00,0:21:23.42,Default,,0,0,0,,Ya, kurasa begitu.
+Dialogue: 0,0:21:23.54,0:21:25.38,Default,,0,0,0,,Bagaimana ? Ikutlah bersama kami.
+Dialogue: 0,0:21:25.44,0:21:30.48,Default,,0,0,0,,Apa kalian, barusan melihat Madara muncul ?
+Dialogue: 0,0:21:31.92,0:21:34.31,Default,,0,0,0,,Apa ? Madara itu apa ?
+Dialogue: 0,0:21:34.36,0:21:37.47,Default,,0,0,0,,Kau tahu, lelaki pantai yang keren itu !
+Dialogue: 0,0:21:39.06,0:21:40.66,Default,,0,0,0,,Bukannya itu ikan ?
+Dialogue: 0,0:21:40.76,0:21:43.26,Default,,0,0,0,,Kalian benar tidak tahu ?
+Dialogue: 0,0:21:43.46,0:21:47.62,Default,,0,0,0,,Ada apa ? Kalian berdua terlihat aneh.
+Dialogue: 0,0:21:47.68,0:21:50.84,Default,,0,0,0,,Kami selalu seperti ini, yang aneh itu ,,,
+Dialogue: 0,0:21:58.90,0:22:04.92,Default,,0,0,0,,Sakura, karena kau putri pahlawan yang menyelamatkan desa, kau harus lebih berhati-hati.
+Dialogue: 0,0:22:07.64,0:22:08.96,Default,,0,0,0,,Putri pahlawan !?
+Dialogue: 0,0:22:09.26,0:22:10.64,Default,,0,0,0,,Lihatlah.
+Dialogue: 0,0:22:21.96,0:22:24.56,Default,,0,0,0,,Huh !? Ayah !
+Dialogue: 0,0:22:28.29,0:22:32.35,Default,,0,0,0,,Bagaimana mungkin ?
+Dialogue: 0,0:22:34.24,0:22:38.68,Default,,0,0,0,,Kalian, kenapa kalian mencari sensasi disini ?
+Dialogue: 0,0:22:42.88,0:22:44.74,Default,,0,0,0,,Sasuke-kun !
+Dialogue: 0,0:22:44.81,0:22:47.90,Default,,0,0,0,,Kau ! Kenapa kau berada disini !?
+Dialogue: 0,0:22:50.41,0:22:53.14,Default,,0,0,0,,Masalah, jika aku ada disini ?
+Dialogue: 0,0:22:53.72,0:22:56.36,Default,,0,0,0,,Tentu tidak, tapi ,,,
+Dialogue: 0,0:22:56.48,0:22:59.86,Default,,0,0,0,,Kau seperti melihat hantu saja.
+Dialogue: 0,0:22:59.90,0:23:01.70,Default,,0,0,0,,Sakura ! Menma !
+Dialogue: 0,0:23:01.84,0:23:06.16,Default,,0,0,0,,{\i1}Menma :  Makanan dari tunas bambu yang direbus dan dikeringkan.{\i1}
+Dialogue: 0,0:23:01.84,0:23:06.16,Default,,0,0,0,,Heh ? Kau memanggilku "Menma" ?
+Dialogue: 0,0:23:09.65,0:23:14.62,Default,,0,0,0,,Rasanya sungguh menyenangkan bahkan jika aku yang melemparnya.
+Dialogue: 0,0:23:14.68,0:23:20.43,Default,,0,0,0,,Tenten-chan, berhentilah melempar benda seperti itu, itu berbahaya !
+Dialogue: 0,0:23:20.52,0:23:22.64,Default,,0,0,0,,{\c&Hffff00&\i1}Sebuah pemandian.{\i1}
+Dialogue: 0,0:23:22.80,0:23:26.88,Default,,0,0,0,,{\c&Hffff00&\i1}Aku pergi bersama mereka karena semuanya bilang mereka pergi.{\i1}
+Dialogue: 0,0:23:29.30,0:23:33.12,Default,,0,0,0,,Kau masih berdada rata, kenapa mereka tidak membesar ?
+Dialogue: 0,0:23:33.20,0:23:34.56,Default,,0,0,0,,Dada Rata ?! Apa maksudmu !?
+Dialogue: 0,0:23:34.66,0:23:39.52,Default,,0,0,0,,Aku selalu mengawasi Menma, jadi ingat itu gadis berdada rata.
+Dialogue: 0,0:23:39.68,0:23:43.82,Default,,0,0,0,,{\c&Hffff00&\i1}Aku berdada rata ? Ini pertama kalinya aku iri pada Hinata.{\i1}
+Dialogue: 0,0:23:50.52,0:23:53.38,Default,,0,0,0,,Jadi, apa semuanya sudah datang kecuali Lee ?
+Dialogue: 0,0:23:53.50,0:23:58.20,Default,,0,0,0,,Itu biasa, karena dia serangga pekerja keras.
+Dialogue: 0,0:23:58.40,0:24:00.12,Default,,0,0,0,,Aku benci serangga jenis itu !
+Dialogue: 0,0:24:00.12,0:24:02.68,Default,,0,0,0,,Kecil sekali, sama seperti penampilan dan pikiranmu.
+Dialogue: 0,0:24:02.70,0:24:04.06,Default,,0,0,0,,Sungguh murah,
+Dialogue: 0,0:24:04.20,0:24:07.74,Default,,0,0,0,,Menma lihat, ini telinga kucing !
+Dialogue: 0,0:24:10.46,0:24:11.98,Default,,0,0,0,,Huh, sungguh ?
+Dialogue: 0,0:24:12.08,0:24:14.94,Default,,0,0,0,,Ada apa denganmu ?
+Dialogue: 0,0:24:15.72,0:24:19.76,Default,,0,0,0,,Baik, kali ini adalah singa !
+Dialogue: 0,0:24:20.06,0:24:25.81,Default,,0,0,0,,Jika aku dipaksa mendengar, aku lebih memilih mendengarmu menggonggong seperti anjing.
+Dialogue: 0,0:24:32.66,0:24:34.66,Default,,0,0,0,,Strike ...
+Dialogue: 0,0:24:34.76,0:24:36.04,Default,,0,0,0,,Haahh ...
+Dialogue: 0,0:24:44.64,0:24:48.97,Default,,0,0,0,,Shikamaru, berhentilah bermain-main, kau bukan satu-satunya orang yang berada disini,
+Dialogue: 0,0:24:49.00,0:24:51.00,Default,,0,0,0,,Kau seperti bayi umur 2 tahun, airnya terbuang sia-sia karena mu.
+Dialogue: 0,0:24:51.72,0:24:53.56,Default,,0,0,0,,Maaf, maaf !
+Dialogue: 0,0:24:53.64,0:24:55.92,Default,,0,0,0,,Apa boleh buat,
+Dialogue: 0,0:24:55.93,0:24:58.64,Default,,0,0,0,,(Jurus 倍化の術) Baika no Jutsu !
+Dialogue: 0,0:24:58.78,0:25:02.74,Default,,0,0,0,,Keren ! Airnya seperti meluap !
+Dialogue: 0,0:25:03.58,0:25:06.78,Default,,0,0,0,,Kiba suka kucing ! Dan Shikamaru jadi bodoh !
+Dialogue: 0,0:25:06.82,0:25:09.04,Default,,0,0,0,,Aku jadi pusing gara-gara mereka !
+Dialogue: 0,0:25:09.31,0:25:12.99,Default,,0,0,0,,Kenapa kau begitu peduli ? Itu menyebalkan,
+Dialogue: 0,0:25:13.32,0:25:16.06,Default,,0,0,0,,Sifatmu tidak berubah,
+Dialogue: 0,0:25:16.14,0:25:21.06,Default,,0,0,0,,Apa ini artinya ada beberapa orang yang tidak berubah ?
+Dialogue: 0,0:25:21.24,0:25:24.88,Default,,0,0,0,,Tidak, tidak ! Begini ! Lakukan seperti ini !
+Dialogue: 0,0:25:25.46,0:25:27.34,Default,,0,0,0,,Aku bilang kami tidak punya hubungan spesial !
+Dialogue: 0,0:25:27.44,0:25:31.36,Default,,0,0,0,,Pembohong ! Aku tahu kau punya maksud lain pada Menma !
+Dialogue: 0,0:25:31.40,0:25:33.36,Default,,0,0,0,,{\c&Hffff00&\i1}Perasaan ini ! Mungkinkah !{\i1}
+Dialogue: 0,0:25:33.78,0:25:35.22,Default,,0,0,0,,Sial !
+Dialogue: 0,0:25:35.42,0:25:39.14,Default,,0,0,0,,Neji ! Sialan, kau ! Akan kubunuh kau !
+Dialogue: 0,0:25:46.86,0:25:48.00,Default,,0,0,0,,Ada apa ?
+Dialogue: 0,0:25:50.64,0:25:52.12,Default,,0,0,0,,Kenapa Lee-san disini ?
+Dialogue: 0,0:25:52.24,0:25:57.80,Default,,0,0,0,,Sialan kau, Rock Lee ! Kau bilang kau pergi berlatih, tapi kau sebenarnya mengintip ?
+Dialogue: 0,0:25:57.86,0:25:59.02,Default,,0,0,0,,Bukan begitu !
+Dialogue: 0,0:25:59.28,0:26:04.66,Default,,0,0,0,,Aku dalam perjalanan pulang setelah berlatih, tapi aku sengaja lewat sini.
+Dialogue: 0,0:26:04.82,0:26:06.86,Default,,0,0,0,,Apa kau berlatih di atap pemandian ?
+Dialogue: 0,0:26:06.94,0:26:09.95,Default,,0,0,0,,Sebelum aku membunuh Neji, aku akan membunuhmu lebih dulu !
+Dialogue: 0,0:26:09.99,0:26:11.68,Default,,0,0,0,,Hei ! Apa yang terjadi !?
+Dialogue: 0,0:26:12.82,0:26:14.64,Default,,0,0,0,,Lee baru saja mengintip kami !
+Dialogue: 0,0:26:14.72,0:26:16.96,Default,,0,0,0,,Apa ? Sialan kau !
+Dialogue: 0,0:26:18.08,0:26:19.66,Default,,0,0,0,,Pikirkan dirimu sendiri !
+Dialogue: 0,0:26:19.72,0:26:21.72,Default,,0,0,0,,Tunggu, Hinata-sama.
+Dialogue: 0,0:26:21.84,0:26:23.66,Default,,0,0,0,,Dia kabur.
+Dialogue: 0,0:26:23.78,0:26:26.42,Default,,0,0,0,,Kalian, tangkap dia !
+Dialogue: 0,0:26:30.61,0:26:34.44,Default,,0,0,0,,Sepertinya tingkah laku teman kita berubah menjadi kebalikannya.
+Dialogue: 0,0:26:34.54,0:26:36.96,Default,,0,0,0,,Semuanya ? Sasuke-kun juga ?
+Dialogue: 0,0:26:37.24,0:26:43.92,Default,,0,0,0,,Tidak, dia tidak berubah, dia seperti biasanya.
+Dialogue: 0,0:26:44.26,0:26:51.25,Default,,0,0,0,,Ya ampun ! Apa Lee juga tidak berubah ? Dia dituduh mengintip.
+Dialogue: 0,0:26:51.34,0:26:53.26,Default,,0,0,0,,Ayo, kita juga harus pergi !
+Dialogue: 0,0:26:55.63,0:27:00.33,Default,,0,0,0,,Apa kau pikir bisa kabur dari kami tanpa jutsu apapun ?
+Dialogue: 0,0:27:00.40,0:27:01.72,Default,,0,0,0,,Aku sangat kecewa, Lee !
+Dialogue: 0,0:27:01.82,0:27:04.52,Default,,0,0,0,,Kau juga mengintip, bagaimana bisa kau bicara seperti itu !
+Dialogue: 0,0:27:05.12,0:27:09.02,Default,,0,0,0,,Bukan begitu, ini salah paham,
+Dialogue: 0,0:27:09.02,0:27:13.46,Default,,0,0,0,,Aku berlatih melompati atapkemudian aku terkait pada sesuatu.
+Dialogue: 0,0:27:13.53,0:27:14.68,Default,,0,0,0,,Jangan banyak alasan !
+Dialogue: 0,0:27:15.06,0:27:16.90,Default,,0,0,0,,Tunggu dulu !
+Dialogue: 0,0:27:16.96,0:27:18.02,Default,,0,0,0,,Menma !
+Dialogue: 0,0:27:18.16,0:27:22.40,Default,,0,0,0,,Semuanya hentikan, mungkin dia benar.
+Dialogue: 0,0:27:22.74,0:27:24.80,Default,,0,0,0,,Sakura-san ...
+Dialogue: 0,0:27:26.74,0:27:28.78,Default,,0,0,0,,Jika itu tidak benar,kau akan mati ditanganku !
+Dialogue: 0,0:27:28.92,0:27:31.72,Default,,0,0,0,,Tunggu, Lee bukan orang seperti itu.
+Dialogue: 0,0:27:36.39,0:27:41.02,Default,,0,0,0,,Kenapa kau memakai pakaian dalamku ?!
+Dialogue: 0,0:27:41.13,0:27:43.62,Default,,0,0,0,,Aku yakin dia mencurinya di ruang ganti.
+Dialogue: 0,0:27:46.22,0:27:50.98,Default,,0,0,0,,Tidak, Lee-san, kau mesum !
+Dialogue: 0,0:27:55.56,0:27:58.94,Default,,0,0,0,,Ini benar-benar membuatku menjadi gila,
+Dialogue: 0,0:27:59.30,0:28:02.16,Default,,0,0,0,,Ini bukanlah hal yang bisa kuhadapi,
+Dialogue: 0,0:28:02.36,0:28:05.28,Default,,0,0,0,,Sasuke ada didesa, dan namaku Menma,
+Dialogue: 0,0:28:05.76,0:28:08.72,Default,,0,0,0,,Bagaimana ini bisa terjadi ?
+Dialogue: 0,0:28:10.86,0:28:15.76,Default,,0,0,0,,Mungkin kita telah dipindahkan ke dunia lain karena jutsu Madara,
+Dialogue: 0,0:28:16.02,0:28:17.82,Default,,0,0,0,,Itu satu-satunya penjelasan yang bisa kusimpulkan.
+Dialogue: 0,0:28:18.10,0:28:20.22,Default,,0,0,0,,Apa maksudmu dunia lain ? Dunia lain yang seperti apa ?
+Dialogue: 0,0:28:20.60,0:28:22.10,Default,,0,0,0,,Aku tidak tahu !
+Dialogue: 0,0:28:22.22,0:28:24.94,Default,,0,0,0,,Sejauh ini, kita tidak punya cukup informasi,
+Dialogue: 0,0:28:25.76,0:28:29.72,Default,,0,0,0,,Jadi lebih baik kita mengumpulkan informasi dari sekarang.
+Dialogue: 0,0:28:29.86,0:28:35.38,Default,,0,0,0,,Kurasa begitu dan ingat jangan sebut-sebut namamu di depan yang lain.
+Dialogue: 0,0:28:35.50,0:28:37.80,Default,,0,0,0,,Apa ? Apa yang harus kulakukan ?
+Dialogue: 0,0:28:38.04,0:28:40.84,Default,,0,0,0,,Soalnya, namamu Menma disini,
+Dialogue: 0,0:28:41.30,0:28:47.25,Default,,0,0,0,,Jadi, kau harus mendapatkan informasi yang kita butuhkan, paham ? Menma !
+Dialogue: 0,0:28:47.68,0:28:50.12,Default,,0,0,0,,Bahkan Sakura-chan juga.
+Dialogue: 0,0:29:19.06,0:29:21.42,Default,,0,0,0,,{\i1}Oh, Sakura-chan !{\i1}
+Dialogue: 0,0:29:22.86,0:29:23.94,Default,,0,0,0,,{\i1}Ini !{\i1}
+Dialogue: 0,0:29:24.46,0:29:26.00,Default,,0,0,0,,{\i1}Apa kau memberiku dengan gratis ?{\i1}
+Dialogue: 0,0:29:26.05,0:29:31.80,Default,,0,0,0,,{\i1}Jangan khawatir, orang tuamu sudah menyelamatkan desa kita.{\i1}
+Dialogue: 0,0:29:32.08,0:29:34.78,Default,,0,0,0,,{\i1}Itu patut dihargai lebih dari ini.{\i1}
+Dialogue: 0,0:29:38.20,0:29:41.58,Default,,0,0,0,,{\c&Hffff00&\i1}Aku paham, mereka pahlawan.{\i1}
+Dialogue: 0,0:29:48.38,0:29:50.16,Default,,0,0,0,,{\i1}Sakura !{\i1}
+Dialogue: 0,0:29:50.58,0:29:53.24,Default,,0,0,0,,{\i1}Kau harus melepas sepatumu sebagaimana mestinya !{\i1}
+Dialogue: 0,0:30:08.12,0:30:11.48,Default,,0,0,0,,Tapi aku Uzumaki Naruto.
+Dialogue: 0,0:30:15.96,0:30:21.36,Default,,0,0,0,,Tunggu, Jika ayah Sakura adalah pahlawan yang menyelamatkan desa,
+Dialogue: 0,0:30:53.50,0:30:56.38,Default,,0,0,0,,Ayah ! Ibu !
+Dialogue: 0,0:31:00.04,0:31:01.88,Default,,0,0,0,,Siapa kau ?
+Dialogue: 0,0:31:01.94,0:31:05.28,Default,,0,0,0,,Tidak ,,, tapi aku yang tinggal disini !
+Dialogue: 0,0:31:05.50,0:31:11.28,Default,,0,0,0,,Apa ? Apa katamu ? Ini rumahku ! Pergi ! Aku akan memanggil polisi !
+Dialogue: 0,0:31:18.78,0:31:24.26,Default,,0,0,0,,Aku bahkan tidak punya rumah ?Apa yang terjadi pada dunia ini ?
+Dialogue: 0,0:31:24.42,0:31:27.06,Default,,0,0,0,,Ini mustahil !
+Dialogue: 0,0:31:27.24,0:31:28.30,Default,,0,0,0,,Berisik !
+Dialogue: 0,0:31:46.10,0:31:51.79,Default,,0,0,0,,Kerja bagus, aku berhasil menjebaknya dengan bantuan kalian.
+Dialogue: 0,0:31:57.76,0:32:01.63,Default,,0,0,0,,{\i1}[Jurus Infinite Tsukuyomi (無限月読,), Limited Tsukuyomi (限定月読)]{\i1}
+Dialogue: 0,0:31:57.76,0:32:01.63,Default,,0,0,0,,Pengujian Mugen Tsukuyomi, Gentei Tsukuyomi.
+Dialogue: 0,0:32:01.91,0:32:06.88,Default,,0,0,0,,Dunia ini seperti bayangan bewarna yang dipantulkan oleh cermin.
+Dialogue: 0,0:32:07.23,0:32:16.90,Default,,0,0,0,,Dengan kekuatan Bijuu, aku memindahkan mereka ke tempat lain yang sama persis dengan dunia nyata.
+Dialogue: 0,0:32:16.97,0:32:23.40,Default,,0,0,0,,Tapi, sepertinya dunia ini tidak sama persis dengan dunia nyata.
+Dialogue: 0,0:32:23.66,0:32:28.88,Default,,0,0,0,,Sebagai contohnya, mereka seperti batu kecil ini.
+Dialogue: 0,0:32:31.65,0:32:35.94,Default,,0,0,0,,Wajar saja air tenang itu menjadi bergelombang jika aku melemparinya batu.
+Dialogue: 0,0:32:36.24,0:32:37.58,Default,,0,0,0,,Jadi begitu.
+Dialogue: 0,0:32:37.76,0:32:41.48,Default,,0,0,0,,Lalu, seharusnya aku segera memulainya.
+Dialogue: 0,0:32:42.25,0:32:46.54,Default,,0,0,0,,Tapi ini sangat aneh, walau dunia ini kau yang buat,
+Dialogue: 0,0:32:46.64,0:32:50.06,Default,,0,0,0,,Kau tidak dapat mengontrolnya sesuai dengan keinginanmu.
+Dialogue: 0,0:32:50.44,0:32:54.58,Default,,0,0,0,,Sudah kukatakan ! Bahwa ini hanya sebuah pengujian.
+Dialogue: 0,0:32:55.06,0:32:59.16,Default,,0,0,0,,Tapi, aku tidak akan membiarkan mereka menguasainya.
+Dialogue: 0,0:33:15.76,0:33:18.52,Default,,0,0,0,,Pengguna Kekkei Genkai,
+Dialogue: 0,0:33:21.18,0:33:26.12,Default,,0,0,0,,Apa kau bermimpi menguasai dunia ninja dengan mengumpulkan seluruh Bijuu ?
+Dialogue: 0,0:33:26.24,0:33:29.40,Default,,0,0,0,,Sungguh impian yang jelas !
+Dialogue: 0,0:33:30.14,0:33:33.04,Default,,0,0,0,,Pemikiranmu lebih baik daripada hantu.
+Dialogue: 0,0:33:33.16,0:33:34.65,Default,,0,0,0,,Siapa kau ?
+Dialogue: 0,0:33:34.82,0:33:39.78,Default,,0,0,0,,Apa itu penting ? Ngomong-ngomong, aku akan meminjamkan kekuatanku padamu.
+Dialogue: 0,0:34:03.28,0:34:04.74,Default,,0,0,0,,Ini 'kan ...
+Dialogue: 0,0:34:05.02,0:34:11.69,Default,,0,0,0,,{\i1}Yondaime (Hokage ke-4){\i1}
+Dialogue: 0,0:34:13.02,0:34:15.04,Default,,0,0,0,,Huh ? Sasuke-kun !
+Dialogue: 0,0:34:19.06,0:34:21.42,Default,,0,0,0,,Ada apa ? Pagi-pagi begini ?
+Dialogue: 0,0:34:21.52,0:34:24.26,Default,,0,0,0,,Aku khawatir dengan wajah birumu kemarin.
+Dialogue: 0,0:34:24.38,0:34:27.30,Default,,0,0,0,,Apa mungkin, kau mengkhatirkanku ?
+Dialogue: 0,0:34:28.00,0:34:32.78,Default,,0,0,0,,Ceritakan saja masalahmu padaku, karena aku selalu disisimu.
+Dialogue: 0,0:34:33.14,0:34:35.76,Default,,0,0,0,,Sasuke-kun !
+Dialogue: 0,0:34:43.90,0:34:47.20,Default,,0,0,0,,Tidur diluar seperti ini sungguh tidak masuk akal.
+Dialogue: 0,0:34:47.44,0:34:49.72,Default,,0,0,0,,Ehh ... ? Kau melalui banyak masalah ?
+Dialogue: 0,0:34:50.02,0:34:52.18,Default,,0,0,0,,Kenapa kau bicara seperti ini ? Apa ini bukan masalahmu juga ?
+Dialogue: 0,0:34:52.28,0:34:54.90,Default,,0,0,0,,Sakura-chan, tidakkah kau merasa kesepian?
+Dialogue: 0,0:34:55.66,0:34:59.30,Default,,0,0,0,,Aku yakin tidak, aku malah nyaman.
+Dialogue: 0,0:34:59.36,0:35:02.42,Default,,0,0,0,,Kau merasa nyaman ? Apa yang terjadi pada semua orang ?
+Dialogue: 0,0:35:06.05,0:35:10.32,Default,,0,0,0,,Sudahlah. Oh ya, ayo kita berbagi informasi.
+Dialogue: 0,0:35:11.72,0:35:17.94,Default,,0,0,0,,Tempat ini dibuat oleh jutsu Madara, tapi sepertinya dia tidak ingin melukai penduduk.
+Dialogue: 0,0:35:18.22,0:35:24.66,Default,,0,0,0,,Teman-teman kita bersikap aneh, mereka sama sekali tidak curiga pada kita.
+Dialogue: 0,0:35:24.88,0:35:26.12,Default,,0,0,0,,Dan juga ,,,
+Dialogue: 0,0:35:26.26,0:35:30.36,Default,,0,0,0,,Ahh ! Sungguh pemandangan yang indah !
+Dialogue: 0,0:35:31.20,0:35:33.22,Default,,0,0,0,,Lukisan itu seperti digambar dengan kakinya.
+Dialogue: 0,0:35:33.46,0:35:35.94,Default,,0,0,0,,Benarkah ? Aku tidak punya jiwa seni.
+Dialogue: 0,0:35:36.24,0:35:38.38,Default,,0,0,0,,Apa itu lukisan pemandangan ?
+Dialogue: 0,0:35:38.50,0:35:41.28,Default,,0,0,0,,Aku tidak punya jiwa seni, jadi Aku tidak tahu !
+Dialogue: 0,0:35:41.72,0:35:45.82,Default,,0,0,0,,Semuanya tidak seperti biasanya.
+Dialogue: 0,0:35:54.08,0:35:54.74,Default,,0,0,0,,Berhenti disana !
+Dialogue: 0,0:35:54.88,0:35:55.74,Default,,0,0,0,,Gawat !
+Dialogue: 0,0:35:55.82,0:35:58.12,Default,,0,0,0,,Ayo pergi, Naruto !
+Dialogue: 0,0:36:00.08,0:36:02.18,Default,,0,0,0,,Aku benci orang yang melarikan diri.
+Dialogue: 0,0:36:10.54,0:36:15.18,Default,,0,0,0,,Hal yang paling berubah adalah sikap orang lain pada Sakura-chan.
+Dialogue: 0,0:36:15.28,0:36:17.86,Default,,0,0,0,,Kak Sakura ! Salaman denganku !
+Dialogue: 0,0:36:17.88,0:36:19.20,Default,,0,0,0,,Baik, ini ... :)
+Dialogue: 0,0:36:19.30,0:36:25.12,Default,,0,0,0,,Saat aku besar nanti, aku ingin jadi seperti Kak Sakura, caranya bagaimana ?
+Dialogue: 0,0:36:25.40,0:36:32.80,Default,,0,0,0,,Ya, jika kau rajin belajar, berlatih keras dan punya keteguhan hati,
+Dialogue: 0,0:36:32.92,0:36:34.44,Default,,0,0,0,,Kau pasti bisa !
+Dialogue: 0,0:36:34.56,0:36:36.22,Default,,0,0,0,,Keren !
+Dialogue: 0,0:36:36.34,0:36:38.84,Default,,0,0,0,,Aku akan berusaha, sampai jumpa !
+Dialogue: 0,0:36:38.88,0:36:39.84,Default,,0,0,0,,Semoga berhasil !
+Dialogue: 0,0:36:41.92,0:36:46.48,Default,,0,0,0,,Ngomong-ngomong, kau sepertinya menikmati situasi ini.
+Dialogue: 0,0:36:46.78,0:36:48.22,Default,,0,0,0,,Apa maksudmu ?
+Dialogue: 0,0:36:48.38,0:36:52.32,Default,,0,0,0,,Aku hanya berpura-pura menjadi putri dari seorang pahlawan.
+Dialogue: 0,0:36:52.44,0:36:54.10,Default,,0,0,0,,Ciyus ? Miapah ? :/
+Dialogue: 0,0:36:54.72,0:36:57.06,Default,,0,0,0,,Jujur, aku sedikit menikmatinya.
+Dialogue: 0,0:36:57.62,0:37:01.20,Default,,0,0,0,,Lagi pula ini tidak berbahaya,
+Dialogue: 0,0:37:01.68,0:37:04.92,Default,,0,0,0,,Dan itu cukup keren untuk hidup seperti ini.
+Dialogue: 0,0:37:05.04,0:37:07.20,Default,,0,0,0,,Kau tidak lupa, 'kan ?
+Dialogue: 0,0:37:07.36,0:37:12.62,Default,,0,0,0,,Sakura-chan, tempat ini adalah dunia dari jutsu Madara.
+Dialogue: 0,0:37:12.72,0:37:15.98,Default,,0,0,0,,Aku mengerti, tenanglah sedikit.
+Dialogue: 0,0:37:16.04,0:37:19.66,Default,,0,0,0,,Lagi pula, aku tidak ingin tinggal didunia ini lebih lama lagi.
+Dialogue: 0,0:37:19.80,0:37:21.72,Default,,0,0,0,,Tunggu, kau mau kemana?
+Dialogue: 0,0:37:21.80,0:37:26.17,Default,,0,0,0,,Mencari informasi lagi ! Aku tidak punya waktu untuk bermain disini !
+Dialogue: 0,0:37:28.18,0:37:30.62,Default,,0,0,0,,Tunggu aku.
+Dialogue: 0,0:37:48.60,0:37:56.47,Default,,0,0,0,,Karena dia terjebak di jutsu ku, Kyuubi hampir menjadi milikku.
+Dialogue: 0,0:37:56.60,0:38:00.24,Default,,0,0,0,,Itu artinya kau bisa mendapatkannya kapanpun kau mau ?
+Dialogue: 0,0:38:00.94,0:38:05.60,Default,,0,0,0,,Kita tak perlu buru-buru, semua ada waktunya.
+Dialogue: 0,0:38:06.20,0:38:10.96,Default,,0,0,0,,Aku akan melawan Uzumaki Naruto dan mendapatkan Kyuubi.
+Dialogue: 0,0:38:12.70,0:38:17.26,Default,,0,0,0,,Jalan terbaik untuk mendapatkan informasi dangan cepat adalah bertanya pada Nenek.
+Dialogue: 0,0:38:18.08,0:38:22.82,Default,,0,0,0,,Tidak mungkin ! Bijuu negara petir telah dicuri ?
+Dialogue: 0,0:38:24.64,0:38:26.84,Default,,0,0,0,,Apa maksudmu ?
+Dialogue: 0,0:38:26.84,0:38:27.62,Default,,0,0,0,,Menma !
+Dialogue: 0,0:38:27.78,0:38:29.06,Default,,0,0,0,,Apa bijuu negara petir telah dicuri ?
+Dialogue: 0,0:38:29.18,0:38:30.92,Default,,0,0,0,,Apa sesuatu terjadi pada Paman Bee ?
+Dialogue: 0,0:38:31.02,0:38:32.26,Default,,0,0,0,,Tenanglah.
+Dialogue: 0,0:38:32.42,0:38:35.58,Default,,0,0,0,,Yang telah dicuri adalah kekuatan utama Bijuu.
+Dialogue: 0,0:38:36.32,0:38:37.62,Default,,0,0,0,,Tsunade-sama !
+Dialogue: 0,0:38:37.78,0:38:40.34,Default,,0,0,0,,Karena pertarungan akan segera terjadi,
+Dialogue: 0,0:38:40.66,0:38:42.60,Default,,0,0,0,,Tidak ada alasan untuk merahasiakannya.
+Dialogue: 0,0:38:42.70,0:38:45.16,Default,,0,0,0,,Bertarung ? Dengan siapa ?
+Dialogue: 0,0:38:46.00,0:38:54.18,Default,,0,0,0,,Kau tahu pria bertopeng  pengguna kekkei genkai yang baru-baru ini mengacau negara, 'kan ?
+Dialogue: 0,0:38:54.50,0:38:56.24,Default,,0,0,0,,Pria bertopeng ?
+Dialogue: 0,0:38:56.58,0:39:00.06,Default,,0,0,0,,Dia kriminal Ranking-S.
+Dialogue: 0,0:39:00.44,0:39:03.40,Default,,0,0,0,,Tapi, aku tidak pernah menyangka dia akan melakukan sesuatu pada Bijuu juga.
+Dialogue: 0,0:39:03.78,0:39:05.78,Default,,0,0,0,,Bijuu dan topeng.
+Dialogue: 0,0:39:06.34,0:39:09.00,Default,,0,0,0,,Sakura-chan, apa mungkin dia ,,,
+Dialogue: 0,0:39:09.06,0:39:12.54,Default,,0,0,0,,Kau benar, Madara mungkin tidak ada didunia ini,
+Dialogue: 0,0:39:12.90,0:39:17.72,Default,,0,0,0,,Tapi, karena kau Menma disini, namanya juga bisa berubah.
+Dialogue: 0,0:39:18.12,0:39:20.62,Default,,0,0,0,,Dimana dia sekarang ?
+Dialogue: 0,0:39:20.86,0:39:24.54,Default,,0,0,0,,Lupakan ! Dia bukanlah tandingan kalian.
+Dialogue: 0,0:39:25.04,0:39:29.16,Default,,0,0,0,,Banyak orang termasuk kami mencoba menangkapnya.
+Dialogue: 0,0:39:29.28,0:39:33.82,Default,,0,0,0,,Namun, Jiraiya tidak selamat dan tidak pernah kembali,
+Dialogue: 0,0:39:33.94,0:39:36.68,Default,,0,0,0,,Ero Sennin kah ...
+Dialogue: 0,0:39:38.22,0:39:45.08,Default,,0,0,0,,Jiraiya berkata ketika dia masih hidup, hanya ada satu cara untuk mengalahkan pria bertopeng.
+Dialogue: 0,0:39:45.38,0:39:47.24,Default,,0,0,0,,Menggunakan sebuah dokumen yang tersegel.
+Dialogue: 0,0:39:47.40,0:39:50.14,Default,,0,0,0,,Menggunakan gulungan bulan merah adalah jalannya.
+Dialogue: 0,0:39:58.64,0:40:00.94,Default,,0,0,0,,Selamat datang kembali.
+Dialogue: 0,0:40:01.34,0:40:03.58,Default,,0,0,0,,Kami telah menyelesaikan misinya.
+Dialogue: 0,0:40:07.28,0:40:09.84,Default,,0,0,0,,Ayah dan Ibu masih ,,,
+Dialogue: 0,0:40:10.60,0:40:11.72,Default,,0,0,0,,Hidup ...
+Dialogue: 0,0:40:15.38,0:40:18.68,Default,,0,0,0,,Apa itu kata yang tepat untuk dikatakan kepada orang tuamu yang baru saja kembali dari misi ?
+Dialogue: 0,0:40:19.28,0:40:21.78,Default,,0,0,0,,Aku mengerti, dunia ini.
+Dialogue: 0,0:40:22.16,0:40:24.64,Default,,0,0,0,,Bisakah kau ceritakan itu lebih detil ?
+Dialogue: 0,0:40:25.08,0:40:29.88,Default,,0,0,0,,Jiraiya Sensei mengatakan padaku bahwa dia mendengar ramalan di Kuil Myoboku.
+Dialogue: 0,0:40:30.18,0:40:38.38,Default,,0,0,0,,Pria bertopeng hanya bisa dikalahkan dengan gulungan bulan merah, itulah ramalan Ōgama Sennin.
+Dialogue: 0,0:40:39.18,0:40:46.00,Default,,0,0,0,,Untuk mengikuti ramalan, Sensei mempertaruhkan nyawanya untuk mendapat gulungan bulan merah.
+Dialogue: 0,0:40:46.82,0:40:52.84,Default,,0,0,0,,Tapi, dia tidak bisa kembali ke desa, dan meninggal karena terluka parah.
+Dialogue: 0,0:40:53.16,0:40:55.87,Default,,0,0,0,,Lalu dimana gulungan itu ?
+Dialogue: 0,0:40:56.34,0:40:59.84,Default,,0,0,0,,Disembunyikan di perbatasan negara api.
+Dialogue: 0,0:41:00.32,0:41:02.98,Default,,0,0,0,,Itu artinya kau telah memecahkan sandinya ?
+Dialogue: 0,0:41:03.38,0:41:06.44,Default,,0,0,0,,Kami kewalahan untuk memecahkannya.
+Dialogue: 0,0:41:06.84,0:41:13.62,Default,,0,0,0,,Minato dan Kushina, kalian berdua harus pergi mencarinya setelah Kakashi dan Guy kembali dari misi mereka.
+Dialogue: 0,0:41:14.46,0:41:17.46,Default,,0,0,0,,Misi itu ! Biarkan aku juga pergi.
+Dialogue: 0,0:41:17.50,0:41:18.84,Default,,0,0,0,,Kenapa kau ingin pergi ?
+Dialogue: 0,0:41:18.94,0:41:23.40,Default,,0,0,0,,Aku tidak bisa hanya berdiri disini, jutsu nya akan berakhir jika kita hentikan penggunanya.
+Dialogue: 0,0:41:23.56,0:41:26.50,Default,,0,0,0,,Ini mungkin kesempatan terakhir kita untuk kembali ke dunia nyata.
+Dialogue: 0,0:41:26.90,0:41:28.26,Default,,0,0,0,,Memang benar.
+Dialogue: 0,0:41:28.64,0:41:30.38,Default,,0,0,0,,Nenek ...
+Dialogue: 0,0:41:30.58,0:41:33.16,Default,,0,0,0,,Aku tidak bisa membiarkanmu pergi !
+Dialogue: 0,0:41:34.44,0:41:36.49,Default,,0,0,0,,Aku juga memohon agar kau mengizinkannya.
+Dialogue: 0,0:41:36.96,0:41:38.30,Default,,0,0,0,,Minato !
+Dialogue: 0,0:41:38.50,0:41:42.82,Default,,0,0,0,,Jangan khawatir, kami akan kembali dengan gulungannya.
+Dialogue: 0,0:41:43.38,0:41:44.84,Default,,0,0,0,,Baiklah.
+Dialogue: 0,0:41:45.00,0:41:46.52,Default,,0,0,0,,Terima kasih banyak.
+Dialogue: 0,0:42:09.80,0:42:14.14,Default,,0,0,0,,Aku sangat kaget, aku tidak menyangka orang tuamu masih ,,,
+Dialogue: 0,0:42:15.44,0:42:18.46,Default,,0,0,0,,Sialan ! Madara ! Dia mempermainkan semua orang !
+Dialogue: 0,0:42:18.74,0:42:21.82,Default,,0,0,0,,Dia bahkan membuat kepalsuan ini !
+Dialogue: 0,0:42:23.00,0:42:24.50,Default,,0,0,0,,Aku tahu ...
+Dialogue: 0,0:42:27.30,0:42:32.98,Default,,0,0,0,,Aku harus bergegas mendapatkan gulungan itu, sebelum Madara mendapatkannya.
+Dialogue: 0,0:42:33.06,0:42:35.32,Default,,0,0,0,,Aku harus segera keluar dari dunia palsu ini.
+Dialogue: 0,0:42:50.96,0:42:55.02,Default,,0,0,0,,Ada orang-orang yang telah mati,  namun bisa hidup kembali.
+Dialogue: 0,0:42:55.69,0:42:58.58,Default,,0,0,0,,Dunia macam apa ini ?
+Dialogue: 0,0:43:07.26,0:43:09.76,Default,,0,0,0,,Orang tua Naruto hidup.
+Dialogue: 0,0:43:10.86,0:43:13.44,Default,,0,0,0,,Aku ragu jika dia akan baik-baik saja.
+Dialogue: 0,0:43:17.08,0:43:21.04,Default,,0,0,0,,Berhentilah bersikap begitu, Menma ! Keluarlah, makan malamnya sudah siap.
+Dialogue: 0,0:43:21.24,0:43:23.60,Default,,0,0,0,,Kubilang aku tidak lapar jadi biarkan aku sendirian,
+Dialogue: 0,0:43:25.10,0:43:27.54,Default,,0,0,0,,Aku tidak akan duduk dan tertawa dengan kebohongan ini.
+Dialogue: 0,0:43:41.28,0:43:46.24,Default,,0,0,0,,Beraninya kau mengabaikanku ! Kau sepertinya kehilangan pikiranmu dan bertingkah seperti itu.
+Dialogue: 0,0:43:46.46,0:43:48.42,Default,,0,0,0,,Kau lebih baik mendengarkan ibumu, Menma !
+Dialogue: 0,0:43:48.60,0:43:52.80,Default,,0,0,0,,Kau tidak lupa julukan ibumu, 'kan?  "Laut Darah Merah"
+Dialogue: 0,0:43:52.94,0:43:56.02,Default,,0,0,0,,Kau akan makan bersama kami, 'kan ?
+Dialogue: 0,0:43:56.12,0:43:57.28,Default,,0,0,0,,Baik.
+Dialogue: 0,0:44:01.64,0:44:02.82,Default,,0,0,0,,Aku sudah selesai.
+Dialogue: 0,0:44:02.98,0:44:05.68,Default,,0,0,0,,Menma ! Keluarkan cucianmu jika ada.
+Dialogue: 0,0:44:05.82,0:44:07.30,Default,,0,0,0,,Aku bisa mencucinya sendiri.
+Dialogue: 0,0:44:08.64,0:44:12.34,Default,,0,0,0,,Kau tidak terlihat senang,apa kau sedang ribut dengan Sakura ?
+Dialogue: 0,0:45:00.24,0:45:03.76,Default,,0,0,0,,Tidak biasanya kau melihat album foto itu.
+Dialogue: 0,0:45:04.38,0:45:06.09,Default,,0,0,0,,Kenapa tidak ?
+Dialogue: 0,0:45:07.60,0:45:11.96,Default,,0,0,0,,Oh iya, kenapa kau meminta nenek untuk mengizinkanku pergi ?
+Dialogue: 0,0:45:12.28,0:45:14.78,Default,,0,0,0,,Soalnya aku pikir kau punya alasan untuk pergi.
+Dialogue: 0,0:45:14.90,0:45:19.70,Default,,0,0,0,,Putraku bukanlah tipe anak yang memohon tanpa alasan, apa aku salah ?
+Dialogue: 0,0:45:19.90,0:45:21.53,Default,,0,0,0,,Apa-apaan itu ?
+Dialogue: 0,0:45:22.08,0:45:24.80,Default,,0,0,0,,Baik, itu karena hubungan ayah dan anak.
+Dialogue: 0,0:45:42.38,0:45:44.98,Default,,0,0,0,,Baiklah semuanya! Ayo kita pergi dengan semangat !
+Dialogue: 0,0:45:45.06,0:45:49.84,Default,,0,0,0,,Semangatku sudah habis, sangat sulit menjalankan misi dalam keadaan galau begini.
+Dialogue: 0,0:45:50.00,0:45:52.24,Default,,0,0,0,,Kita bahkan tidak muda lagi.
+Dialogue: 0,0:45:52.42,0:45:55.33,Default,,0,0,0,,Jangan galau begitu, tetaplah bersemangat !
+Dialogue: 0,0:45:55.44,0:45:58.18,Default,,0,0,0,,Apa mereka tertukar satu sama lain ?
+Dialogue: 0,0:46:03.64,0:46:05.88,Default,,0,0,0,,Ada apa dengan wajah cemberut itu ?
+Dialogue: 0,0:46:05.97,0:46:09.70,Default,,0,0,0,,Kau harus pergi dengan keberanian dan terlihat keren dihadapan putri pahlawan.
+Dialogue: 0,0:46:09.90,0:46:11.42,Default,,0,0,0,,Berhenti menyentuhku !
+Dialogue: 0,0:46:11.86,0:46:15.60,Default,,0,0,0,,Ada apa dengannya ? Apa dia dalam masa membantah ?
+Dialogue: 0,0:46:19.04,0:46:21.10,Default,,0,0,0,,Hei, kau tidak seharusnya ,,,
+Dialogue: 0,0:46:21.16,0:46:25.41,Default,,0,0,0,,Sudahlah ? Aku bukan Menma !
+Dialogue: 0,0:46:25.92,0:46:27.44,Default,,0,0,0,,Naruto ...
+Dialogue: 0,0:46:38.64,0:46:44.72,Default,,0,0,0,,Terima kasih, aku bisa menemukan dokumennya karena informasi darimu.
+Dialogue: 0,0:46:45.16,0:46:48.91,Default,,0,0,0,,Tidak ada yang tidak aku ketahui didunia ini.
+Dialogue: 0,0:46:50.84,0:46:56.10,Default,,0,0,0,,Aku akan memberimu beberapa saran. Kau akan segera berada dalam masalah.
+Dialogue: 0,0:46:56.72,0:47:00.04,Default,,0,0,0,,Apa kau berbicara tentang gulungan bulan merah yang ada di ramalan itu ?
+Dialogue: 0,0:47:00.72,0:47:03.24,Default,,0,0,0,,Musuh mulai bergerak.
+Dialogue: 0,0:47:05.42,0:47:06.94,Default,,0,0,0,,Aku tahu.
+Dialogue: 0,0:47:10.74,0:47:13.68,Default,,0,0,0,,Gulungan bulan merah ada disana.
+Dialogue: 0,0:47:14.18,0:47:18.10,Default,,0,0,0,,Sensei mungkin telah memasang beberapa perangkap.
+Dialogue: 0,0:47:18.36,0:47:21.56,Default,,0,0,0,,Kakashi, kau duluan dan lihatlah menggunakan Sharinganmu.
+Dialogue: 0,0:47:21.70,0:47:25.88,Default,,0,0,0,,Baik ! Aku ingin bilang begitu tapi ,,,
+Dialogue: 0,0:47:25.98,0:47:30.74,Default,,0,0,0,,Aku telah menggunakan Sharingan dengan semangatku.
+Dialogue: 0,0:47:31.42,0:47:34.52,Default,,0,0,0,,Kau sungguh menjadi tidak berguna disaat penting begini.
+Dialogue: 0,0:47:35.02,0:47:38.20,Default,,0,0,0,,Sial, aku sungguh lelah.
+Dialogue: 0,0:47:38.58,0:47:40.92,Default,,0,0,0,,Aku sudah tua sekarang.
+Dialogue: 0,0:47:43.32,0:47:46.12,Default,,0,0,0,,Baiklah, ayo istirahat sejenak.
+Dialogue: 0,0:47:46.24,0:47:48.96,Default,,0,0,0,,Hei, dimana Menma ?
+Dialogue: 0,0:47:51.30,0:47:53.12,Default,,0,0,0,,Ah, yang benar saja.
+Dialogue: 0,0:47:58.00,0:48:00.49,Default,,0,0,0,,Tidak ada waktu untuk bersantai.
+Dialogue: 0,0:48:02.22,0:48:03.52,Default,,0,0,0,,Apa itu tempatnya ?
+Dialogue: 0,0:48:16.16,0:48:18.56,Default,,0,0,0,,Gama Oyabin.
+Dialogue: 0,0:48:20.40,0:48:21.78,Default,,0,0,0,,Kita menginjaknya kah ?
+Dialogue: 0,0:48:21.88,0:48:23.96,Default,,0,0,0,,Menma, kau terlalu cereboh ?
+Dialogue: 0,0:48:24.22,0:48:26.96,Default,,0,0,0,,Karena kau menginjaknya, tidak ada pilihan lagi.
+Dialogue: 0,0:48:27.16,0:48:33.00,Default,,0,0,0,,Kami Ninja dari Konoha ! Kami datang untuk mencari dokumen yang Jiraiya Sensei sembunyikan.
+Dialogue: 0,0:48:33.49,0:48:35.50,Default,,0,0,0,,Aku tidak tahu mengenai perjanjian itu.
+Dialogue: 0,0:48:35.80,0:48:41.38,Default,,0,0,0,,Kami hanya disuruh untuk menjaga dokumen itu !
+Dialogue: 0,0:48:41.76,0:48:43.48,Default,,0,0,0,,Gama Oyabin ! Bicaralah padaku.
+Dialogue: 0,0:48:43.56,0:48:45.12,Default,,0,0,0,,Diam!
+Dialogue: 0,0:48:48.50,0:48:50.94,Default,,0,0,0,,Apa aku tidak meyakinkan ?
+Dialogue: 0,0:48:51.20,0:48:52.42,Default,,0,0,0,,Tidak ada pilihan lain.
+Dialogue: 0,0:48:52.50,0:48:53.50,Default,,0,0,0,,Ada lebih dari satu cara untuk melewati mereka.
+Dialogue: 0,0:49:13.18,0:49:15.74,Default,,0,0,0,,Banyak sekali !
+Dialogue: 0,0:49:15.76,0:49:17.54,Default,,0,0,0,,Aku tidak bisa bergerak.
+Dialogue: 0,0:49:18.86,0:49:20.88,Default,,0,0,0,,Namun, aku tidak ingin menyakiti mereka.
+Dialogue: 0,0:49:21.92,0:49:24.16,Default,,0,0,0,,Jangan melukai mereka.
+Dialogue: 0,0:49:24.54,0:49:29.15,Default,,0,0,0,,Semua ini adalah katak yang Jiraiya Sensei minta padaku untuk merawatnya.
+Dialogue: 0,0:49:32.04,0:49:33.40,Default,,0,0,0,,Tunggu sebentar !
+Dialogue: 0,0:49:35.32,0:49:36.24,Default,,0,0,0,,Menma !
+Dialogue: 0,0:49:38.28,0:49:39.84,Default,,0,0,0,,Biarkan aku lewat, Oyabin !
+Dialogue: 0,0:49:39.90,0:49:43.96,Default,,0,0,0,,Bocah ! Kenapa kau sok akrab ?
+Dialogue: 0,0:49:44.08,0:49:45.96,Default,,0,0,0,,Bahkan Oyabin berbeda didunia ini,
+Dialogue: 0,0:49:46.28,0:49:48.30,Default,,0,0,0,,Baiklah, aku akan tunjukan padanya.
+Dialogue: 0,0:49:51.76,0:49:56.75,Default,,0,0,0,,Dimana kau ? Dimana bocah itu ?
+Dialogue: 0,0:49:59.32,0:50:01.02,Default,,0,0,0,,(Jurus) Whip of Love !
+Dialogue: 0,0:49:59.32,0:50:01.02,Default,,0,0,0,,(Jurus 愛の鞭) Ai no Muchi !
+Dialogue: 0,0:50:01.82,0:50:03.50,Default,,0,0,0,,Padahal sedikit lagi !
+Dialogue: 0,0:50:05.04,0:50:06.48,Default,,0,0,0,,Terima ini !
+Dialogue: 0,0:50:07.52,0:50:09.08,Default,,0,0,0,,Menma !
+Dialogue: 0,0:50:16.22,0:50:18.34,Default,,0,0,0,,Kushina !
+Dialogue: 0,0:50:20.34,0:50:21.74,Default,,0,0,0,,Minato ...
+Dialogue: 0,0:50:28.24,0:50:29.38,Default,,0,0,0,,Kenapa ,,,
+Dialogue: 0,0:50:29.70,0:50:33.14,Default,,0,0,0,,Kenapa kau menyelamatkanku ... ?
+Dialogue: 0,0:50:33.38,0:50:34.64,Default,,0,0,0,,Mundurlah, Menma !
+Dialogue: 0,0:50:34.74,0:50:35.66,Default,,0,0,0,,Tapi !
+Dialogue: 0,0:50:35.76,0:50:37.44,Default,,0,0,0,,Jagalah Kushina,
+Dialogue: 0,0:50:37.94,0:50:40.18,Default,,0,0,0,,Aku akan mengatasi ini.
+Dialogue: 0,0:50:43.88,0:50:45.28,Default,,0,0,0,,Kurang ajar !
+Dialogue: 0,0:50:56.00,0:50:57.42,Default,,0,0,0,,Sial !
+Dialogue: 0,0:51:05.94,0:51:10.16,Default,,0,0,0,,Ini jutsu penyegel yang digabungkan dengan jutsu ruang-waktu dan jutsu rantai.
+Dialogue: 0,0:51:11.38,0:51:15.08,Default,,0,0,0,,Aku pikir ini hanya bisa dibuka olehku dan Jiraiya Sensei.
+Dialogue: 0,0:51:36.20,0:51:37.54,Default,,0,0,0,,Kerja bagus,
+Dialogue: 0,0:51:37.82,0:51:40.18,Default,,0,0,0,,Aku dapat gulungannya.
+Dialogue: 0,0:51:44.06,0:51:45.34,Default,,0,0,0,,Apa kau baik-baik saja ?
+Dialogue: 0,0:51:55.68,0:51:57.92,Default,,0,0,0,,Kushina hanya sedikit terkena luka bakar,
+Dialogue: 0,0:51:58.14,0:52:00.94,Default,,0,0,0,,Tapi, seharusnya kau sudah tau, 'kan ?
+Dialogue: 0,0:52:01.28,0:52:02.42,Default,,0,0,0,,Kumohon tinggalkan aku sendiri.
+Dialogue: 0,0:52:02.58,0:52:03.08,Default,,0,0,0,,Huh ?
+Dialogue: 0,0:52:03.34,0:52:07.02,Default,,0,0,0,,Ini bukan urusanmu, berhenti bertingkah seperti itu !
+Dialogue: 0,0:52:07.24,0:52:09.76,Default,,0,0,0,,Dia terluka karena tindakannya sendiri,
+Dialogue: 0,0:52:09.86,0:52:13.56,Default,,0,0,0,,Aku bisa menghindari serangan itu jika aku sendirian !
+Dialogue: 0,0:52:17.78,0:52:19.86,Default,,0,0,0,,Aku tidak bisa meninggalkanmu sendirian,
+Dialogue: 0,0:52:20.04,0:52:22.28,Default,,0,0,0,,Tidak peduli apa yang terjadi, kami akan melindungimu,
+Dialogue: 0,0:52:22.58,0:52:24.99,Default,,0,0,0,,Tubuh kami akan bergerak spontan saat kau dalam bahaya,
+Dialogue: 0,0:52:25.18,0:52:27.06,Default,,0,0,0,,Itulah orang tua.
+Dialogue: 0,0:52:29.14,0:52:32.52,Default,,0,0,0,,Kenapa kau katakan itu padaku ?
+Dialogue: 0,0:52:33.82,0:52:36.16,Default,,0,0,0,,Apakah aneh jika aku mengatakan itu ?
+Dialogue: 0,0:52:36.34,0:52:38.38,Default,,0,0,0,,Bukan begitu !
+Dialogue: 0,0:52:39.46,0:52:40.66,Default,,0,0,0,,Kenapa ,,,
+Dialogue: 0,0:52:44.30,0:52:46.76,Default,,0,0,0,,Jangan melakukan hal membahayakan lagi.
+Dialogue: 0,0:52:46.96,0:52:49.48,Default,,0,0,0,,Aku sudah bicara dengan kushina,
+Dialogue: 0,0:52:50.06,0:52:54.04,Default,,0,0,0,,Kami akan menulis surat rekomendasi untuk menjadikanmu Jounin.
+Dialogue: 0,0:52:56.00,0:52:57.42,Default,,0,0,0,,Menma !
+Dialogue: 0,0:53:04.30,0:53:07.02,Default,,0,0,0,,Ah Kushina ,,, aku telah memarahinya.
+Dialogue: 0,0:53:07.16,0:53:09.14,Default,,0,0,0,,Anak ini benar-benar ,,,
+Dialogue: 0,0:53:11.24,0:53:14.08,Default,,0,0,0,,Syukurlah kau tidak terluka.
+Dialogue: 0,0:53:59.62,0:54:03.04,Default,,0,0,0,,Sungguh hubungan orang tua & anak yang luar biasa.
+Dialogue: 0,0:54:08.88,0:54:11.54,Default,,0,0,0,,Sekarang Jiraiya dapat beristirahat dengan tenang.
+Dialogue: 0,0:54:11.80,0:54:17.40,Default,,0,0,0,,Lalu, ayo siapkan pasukan kita! Kita harus segera mengalahkan pria bertopeng itu.
+Dialogue: 0,0:54:18.16,0:54:21.80,Default,,0,0,0,,Tidak, kita harus menunggu kesempatan.
+Dialogue: 0,0:54:21.98,0:54:23.00,Default,,0,0,0,,Kesempatan ?
+Dialogue: 0,0:54:24.98,0:54:27.30,Default,,0,0,0,,Ramalan itu belum berakhir,
+Dialogue: 0,0:54:27.96,0:54:30.58,Default,,0,0,0,,Ada kalimat selanjutnya dalam ramalannya.
+Dialogue: 0,0:54:30.92,0:54:33.74,Default,,0,0,0,,Gulungan itu akan terbuka ketika bulan merah keluar,
+Dialogue: 0,0:54:34.12,0:54:37.34,Default,,0,0,0,,Aku akan menyimpannya sampai saat itu tiba.
+Dialogue: 0,0:54:50.92,0:54:55.22,Default,,0,0,0,,Walau kita telah mendapatkangulungan itu, sepertinya kita harus menunggu lagi.
+Dialogue: 0,0:54:57.42,0:55:03.92,Default,,0,0,0,,Kapan bulan berubah jadi merah ? Kita harus bertanya pada Tsunade-sama besok untuk ,,,
+Dialogue: 0,0:55:03.92,0:55:07.92,Default,,0,0,0,,Sakura-chan, maaf, tapi aku harus pergi sekarang.
+Dialogue: 0,0:56:45.82,0:56:47.34,Default,,0,0,0,,Kau pulang lebih awal.
+Dialogue: 0,0:56:51.48,0:56:53.94,Default,,0,0,0,,Ayah, Ibu.
+Dialogue: 0,0:56:55.90,0:56:58.88,Default,,0,0,0,,Selamat datang, Menma !
+Dialogue: 0,0:57:04.98,0:57:06.18,Default,,0,0,0,,Aku pulang.
+Dialogue: 0,0:57:32.10,0:57:35.60,Default,,0,0,0,,Aku dengar Konoha punya gulungan bulan merah.
+Dialogue: 0,0:57:35.88,0:57:38.74,Default,,0,0,0,,Lalu, aku akan memulainya.
+Dialogue: 0,0:57:49.76,0:57:57.28,Default,,0,0,0,,{\c&Hffff00&\i1}Limited Tsukuyomi membuat hal yang paling diinginkan oleh seseorang terjadi dengan mudah.{\i1}
+Dialogue: 0,0:57:57.58,0:58:00.10,Default,,0,0,0,,{\c&Hffff00&\i1}Sebuah dunia yang benar-benar mereka idamkan.{\i1}
+Dialogue: 0,0:58:00.42,0:58:06.70,Default,,0,0,0,,{\c&Hffff00&\i1}Itulah kenapa aku, yang merupakan penciptanya, tidak bisa merubahnya.{\i1}
+Dialogue: 0,0:58:07.74,0:58:14.02,Default,,0,0,0,,{\c&Hffff00&\i1}Untuk hasrat mereka, manusia dipuaskan tanpa perlawanan apapun.{\i1}
+Dialogue: 0,0:58:18.50,0:58:22.32,Default,,0,0,0,,Aku tidak terlalu berselera memakan makanan favoritku.
+Dialogue: 0,0:59:01.88,0:59:09.19,Default,,0,0,0,,Putri seorang pahlawan, Naruto, apa hidupmu sendirian seperti ini setiap saat ?
+Dialogue: 0,0:59:31.46,0:59:32.80,Default,,0,0,0,,Sasuke-kun !
+Dialogue: 0,0:59:35.06,0:59:37.66,Default,,0,0,0,,Kau sungguh baik, Sasuke-kun.
+Dialogue: 0,0:59:37.80,0:59:41.82,Default,,0,0,0,,Aku serius, ingat bahwa aku selalu ada disisimu.
+Dialogue: 0,1:00:12.98,1:00:16.76,Default,,0,0,0,,{\c&Hffff00&\i1}Maaf Naruto, aku ternyata salah.{\i1}
+Dialogue: 0,1:00:22.98,1:00:25.66,Default,,0,0,0,,{\c&Hffff00&\i1}Ayo kita segera kembali ke dunia kita.{\i1}
+Dialogue: 0,1:00:35.96,1:00:38.34,Default,,0,0,0,,Maaf Naruto ! Ayo pergi ,,,
+Dialogue: 0,1:00:41.90,1:00:43.74,Default,,0,0,0,,Aku akan meniupnya sekarang !
+Dialogue: 0,1:01:13.80,1:01:15.04,Default,,0,0,0,,Apa yang harus kulakukan ?
+Dialogue: 0,1:01:15.66,1:01:18.42,Default,,0,0,0,,Apa yang kukatakan sebelumnya adalah sebuah masalah ?
+Dialogue: 0,1:01:20.70,1:01:21.90,Default,,0,0,0,,Tapi ,,,
+Dialogue: 0,1:01:22.20,1:01:23.58,Default,,0,0,0,,Mimpinya adalah ,,,
+Dialogue: 0,1:01:52.68,1:01:58.56,Default,,0,0,0,,Apa maksudmu ada hal penting yang ingin kau bicarakan ?
+Dialogue: 0,1:01:58.86,1:01:59.84,Default,,0,0,0,,Sepertinya begitu.
+Dialogue: 0,1:01:59.96,1:02:07.30,Default,,0,0,0,,Aku pikir karena kita harus menunggu sampai ada kesempatan.
+Dialogue: 0,1:02:08.46,1:02:12.70,Default,,0,0,0,,Naruto, ternyata kau lebih senang tinggal didunia ini.
+Dialogue: 0,1:02:13.04,1:02:18.60,Default,,0,0,0,,Huh ? Sakura-chan, apa yang kau katakan ?
+Dialogue: 0,1:02:31.56,1:02:34.26,Default,,0,0,0,,{\c&Hffff00&\i1}Tempat ini adalah segalanya,{\i1}
+Dialogue: 0,1:02:35.04,1:02:37.69,Default,,0,0,0,,{\c&Hffff00&\i1}Segalanya yang kuinginkan.{\i1}
+Dialogue: 0,1:02:43.62,1:02:47.00,Default,,0,0,0,,{\c&Hffff00&\i1}Ada ayah dan ibu,{\i1}
+Dialogue: 0,1:02:47.62,1:02:49.68,Default,,0,0,0,,{\c&Hffff00&\i1}Aku selalu ingin hidup seperti ini.{\i1}
+Dialogue: 0,1:03:01.90,1:03:04.02,Default,,0,0,0,,{\c&Hffff00&\i1}Ini mimpi lamaku{\i1}
+Dialogue: 0,1:03:04.80,1:03:06.68,Default,,0,0,0,,{\c&Hffff00&\i1}Tapi tempat ini ,,,{\i1}
+Dialogue: 0,1:03:07.10,1:03:11.82,Default,,0,0,0,,{\c&Hffff00&\i1}Aku tahu ini dunia palsu, tapi aku ,,,{\i1}
+Dialogue: 0,1:03:26.26,1:03:27.76,Default,,0,0,0,,Kau ,,,
+Dialogue: 0,1:03:49.54,1:03:54.40,Default,,0,0,0,,Terima kasih, telah mengeluarkan gulungan itu dari perangkap.
+Dialogue: 0,1:03:55.86,1:03:58.70,Default,,0,0,0,,Kemari, aku harus mendapatkan kembali gulungan bulan merah itu.
+Dialogue: 0,1:03:58.78,1:04:02.18,Default,,0,0,0,,Hokage-sama ! Kami tidak akan menyerahkannya.
+Dialogue: 0,1:04:02.64,1:04:05.56,Default,,0,0,0,,Aku tidak tertarik pada kalian.
+Dialogue: 0,1:04:07.40,1:04:08.20,Default,,0,0,0,,Guy !
+Dialogue: 0,1:04:25.94,1:04:27.30,Default,,0,0,0,,Hokage-sama !
+Dialogue: 0,1:04:38.84,1:04:40.16,Default,,0,0,0,,Sial !
+Dialogue: 0,1:04:41.60,1:04:44.05,Default,,0,0,0,,Musnahkan mereka.
+Dialogue: 0,1:04:50.76,1:04:53.80,Default,,0,0,0,,Tidak mungkin, dia mengeluarkan chakra kami hanya dengan satu serangan !
+Dialogue: 0,1:04:53.98,1:05:00.66,Default,,0,0,0,,Aku akan membunuhmu kali ini, menurutlah dan serahkan gulungan bulan merah itu.
+Dialogue: 0,1:05:06.60,1:05:08.94,Default,,0,0,0,,Jangan kemari, Menma ! Dia pria bertopeng itu !
+Dialogue: 0,1:05:09.04,1:05:10.66,Default,,0,0,0,,Jadi, pria itu ,,,
+Dialogue: 0,1:05:11.04,1:05:13.63,Default,,0,0,0,,Tidak mungkin, dia bukan Madara.
+Dialogue: 0,1:05:13.74,1:05:17.82,Default,,0,0,0,,Madara ? Aku mengerti, jadi kalian mengenalnya ?
+Dialogue: 0,1:05:17.92,1:05:19.90,Default,,0,0,0,,Kau, kau kenal Madara ?
+Dialogue: 0,1:05:20.04,1:05:23.10,Default,,0,0,0,,Dia sangat membantu.
+Dialogue: 0,1:05:23.26,1:05:26.12,Default,,0,0,0,,Katakan, dimana dia ?
+Dialogue: 0,1:05:26.32,1:05:32.69,Default,,0,0,0,,Kenapa harus kukatakan itu ? Kalian sepertinya bukan rekannya.
+Dialogue: 0,1:05:33.40,1:05:36.46,Default,,0,0,0,,Baiklah, aku akan membuatmu mengatakannya !
+Dialogue: 0,1:05:38.86,1:05:41.06,Default,,0,0,0,,Sakura-chan !
+Dialogue: 0,1:05:42.46,1:05:46.10,Default,,0,0,0,,Menyerahlah, kau bukan tandingannku.
+Dialogue: 0,1:05:46.48,1:05:51.80,Default,,0,0,0,,Bagaimanapun, untuk keluar dari dunia ini, Madara harus dikalahkan !
+Dialogue: 0,1:05:52.30,1:05:54.14,Default,,0,0,0,,Aku harus melakukannya !
+Dialogue: 0,1:05:54.38,1:06:01.32,Default,,0,0,0,,Pahlawan sesungguhnya adalah yang menyelamatkan semua orang, dunia, dan desa dengan resiko hidup mereka !
+Dialogue: 0,1:06:01.85,1:06:03.88,Default,,0,0,0,,Aku tidak akan lupa dengan hal itu !
+Dialogue: 0,1:06:09.82,1:06:11.12,Default,,0,0,0,,Sakura-chan !
+Dialogue: 0,1:06:11.20,1:06:16.46,Default,,0,0,0,,Cepatlah lari, Menma ! Aku tak akan memaafkanmu jika kau mati sebelum kami !
+Dialogue: 0,1:06:16.58,1:06:18.26,Default,,0,0,0,,Ibu !
+Dialogue: 0,1:06:20.86,1:06:24.56,Default,,0,0,0,,Aku dapat merasakan energi jahat darimu.
+Dialogue: 0,1:06:34.62,1:06:36.44,Default,,0,0,0,,Kiiroi Senkō, kah ?
+Dialogue: 0,1:06:34.62,1:06:36.44,Default,,0,0,0,,{\i1}Si Kilat Kuning (黄色い閃光){\i1}
+Dialogue: 0,1:06:39.70,1:06:44.60,Default,,0,0,0,,Aku menanamkan jutsu ku saat aku mengambil gulungan,
+Dialogue: 0,1:06:44.94,1:06:50.77,Default,,0,0,0,,Aku akan mengambil kembali, gulungan bulan merah dan menjaganya jika perlu,
+Dialogue: 0,1:06:50.92,1:06:52.70,Default,,0,0,0,,Tidak akan kubiarkan dia mengambil barang milik Guruku !
+Dialogue: 0,1:06:52.80,1:06:55.98,Default,,0,0,0,,Kalau begitu, aku akan membuatmu menyerahkannya padaku.
+Dialogue: 0,1:06:56.84,1:06:58.00,Default,,0,0,0,,Sakura-chan !
+Dialogue: 0,1:06:58.22,1:07:01.00,Default,,0,0,0,,Dengan menukar gulungan itu dangan gadis ini.
+Dialogue: 0,1:07:01.36,1:07:03.06,Default,,0,0,0,,Sialan kau !
+Dialogue: 0,1:07:07.90,1:07:09.30,Default,,0,0,0,,Akan kuberi kau hadiah !
+Dialogue: 0,1:07:14.02,1:07:14.62,Default,,0,0,0,,Apa itu ?
+Dialogue: 0,1:07:14.92,1:07:17.82,Default,,0,0,0,,Gawat ! Itu bola chakra !
+Dialogue: 0,1:07:23.12,1:07:26.56,Default,,0,0,0,,(Jurus 大螺旋輪虞) Dai Rasenringu {\i1}[Great spiralling Ring]{\i1}
+Dialogue: 0,1:07:35.69,1:07:38.48,Default,,0,0,0,,Menma !
+Dialogue: 0,1:07:56.64,1:07:57.76,Default,,0,0,0,,Menma !
+Dialogue: 0,1:07:59.28,1:08:01.86,Default,,0,0,0,,Menma ! Menma !
+Dialogue: 0,1:08:03.64,1:08:05.16,Default,,0,0,0,,Menma !
+Dialogue: 0,1:08:14.92,1:08:17.44,Default,,0,0,0,,Ini dahsyat sekali.
+Dialogue: 0,1:08:21.78,1:08:23.04,Default,,0,0,0,,Dimana Sakura ?
+Dialogue: 0,1:08:23.16,1:08:24.22,Default,,0,0,0,,Soal itu ,,,
+Dialogue: 0,1:08:25.64,1:08:31.04,Default,,0,0,0,,Gulungan bulan merah masih ada di pihak kita.
+Dialogue: 0,1:08:31.22,1:08:35.92,Default,,0,0,0,,Apa yang kau katakan ? Ini bukan saatnya untuk santai ! Kita harus mengejarnya.
+Dialogue: 0,1:08:36.02,1:08:37.32,Default,,0,0,0,,Itu mustahil, Menma !
+Dialogue: 0,1:08:38.42,1:08:41.22,Default,,0,0,0,,Kita akan sulit mengatasinya dengan kondisi seperti ini.
+Dialogue: 0,1:08:41.96,1:08:47.13,Default,,0,0,0,,Kita tak bisa membahayakan nyawa kita untuk menyelamatkannya.
+Dialogue: 0,1:08:47.30,1:08:48.64,Default,,0,0,0,,Bagaimana bisa ?
+Dialogue: 0,1:08:49.30,1:08:53.36,Default,,0,0,0,,Sebelum menjadi ninja, kita adalah manusia biasa.
+Dialogue: 0,1:08:55.46,1:08:56.14,Default,,0,0,0,,Tapi ,,,
+Dialogue: 0,1:08:56.24,1:08:58.32,Default,,0,0,0,,Bagaimana jika kau terluka ?
+Dialogue: 0,1:08:58.92,1:09:01.72,Default,,0,0,0,,Sebagai orang tuamu,kami menghawatirkanmu, Menma !
+Dialogue: 0,1:09:03.08,1:09:08.14,Default,,0,0,0,,{\i1}Aku percaya padamu untuk menjaga Konoha,{\i1}
+Dialogue: 0,1:09:08.26,1:09:09.24,Default,,0,0,0,,{\i1}Naruto ! :){\i1}
+Dialogue: 0,1:09:09.36,1:09:16.48,Default,,0,0,0,,{\i1}Pahlawan sesungguhnya adalah yang menyelamatkan semua orang, dunia, dan desa dengan resiko hidup mereka !{\i1}
+Dialogue: 0,1:09:16.58,1:09:18.86,Default,,0,0,0,,{\i1}Aku tidak akan lupa dengan hal itu !{\i1}
+Dialogue: 0,1:09:19.52,1:09:21.04,Default,,0,0,0,,{\i1}Aku akan segera kembali,{\i1}
+Dialogue: 0,1:09:23.80,1:09:29.86,Default,,0,0,0,,{\i1}Jika aku tidak membunuhnya sekarang, dia akan menjadi ancaman besar bagi Kyuubi.{\i1}
+Dialogue: 0,1:09:32.82,1:09:37.62,Default,,0,0,0,,{\i1}Kalian telah kehilangan harapan.{\i1}
+Dialogue: 0,1:09:47.13,1:09:48.94,Default,,0,0,0,,{\i1}(Jurus) Rasengan !{\i1}
+Dialogue: 0,1:10:00.92,1:10:03.26,Default,,0,0,0,,{\i1}Kushina, maafkan aku.{\i1}
+Dialogue: 0,1:10:05.52,1:10:07.64,Default,,0,0,0,,{\i1}Aku masih sanggup bertarung, Minato !{\i1}
+Dialogue: 0,1:10:15.64,1:10:19.82,Default,,0,0,0,,{\i1}Terima kasih atas semua yang telah kau lakukan padaku sejauh ini.{\i1}
+Dialogue: 0,1:10:21.10,1:10:22.36,Default,,0,0,0,,{\i1}Minato ! :'){\i1}
+Dialogue: 0,1:10:22.58,1:10:31.42,Default,,0,0,0,,{\i1}Jangan memasang ekspresi seperti itu, aku senang karena kau mencintaiku !{\i1}
+Dialogue: 0,1:10:33.22,1:10:41.66,Default,,0,0,0,,{\i1}Jika aku mampu bertahan hidup, aku yakin kita bertiga akan hidup bahagia.{\i1}
+Dialogue: 0,1:10:52.28,1:10:57.44,Default,,0,0,0,,{\i1}Aku sangat gembira hanya dengan membayangkannya.{\i1}
+Dialogue: 0,1:11:05.12,1:11:11.44,Default,,0,0,0,,{\i1}Aku akan menyegel Kyuubi pada Naruto bersama sisa chakramu.{\i1}
+Dialogue: 0,1:11:12.98,1:11:15.06,Default,,0,0,0,,{\i1}Kedalam anak itu ?{\i1}
+Dialogue: 0,1:11:15.48,1:11:21.36,Default,,0,0,0,,{\i1}Aku tidak ingin memberikan beban yang sangat besar pada anak kita !{\i1}
+Dialogue: 0,1:11:22.38,1:11:24.02,Default,,0,0,0,,{\i1}Demi keseimbangan Bijuu,{\i1}
+Dialogue: 0,1:11:24.20,1:11:25.46,Default,,0,0,0,,{\i1}Demi negara,{\i1}
+Dialogue: 0,1:11:25.60,1:11:27.20,Default,,0,0,0,,{\i1}Demi diriku !{\i1}
+Dialogue: 0,1:11:27.52,1:11:30.88,Default,,0,0,0,,{\i1}Aku tidak ingin Naruto dikorbankan untuk hal itu !{\i1}
+Dialogue: 0,1:11:31.12,1:11:36.54,Default,,0,0,0,,{\i1}Bukan hanya Naruto ! Kenapa kau mengorbankan dirimu sendiri ?{\i1}
+Dialogue: 0,1:11:42.24,1:11:43.82,Default,,0,0,0,,{\i1}Karena kita adalah ,,,{\i1}
+Dialogue: 0,1:11:45.40,1:11:47.14,Default,,0,0,0,,{\i1}Keluarga Ninja !{\i1}
+Dialogue: 0,1:11:58.44,1:12:02.66,Default,,0,0,0,,{\i1}Kita tidak akan bertemu dengannya untuk sementara waktu, katakanlah apa yang ingin kau katakan padanya.{\i1}
+Dialogue: 0,1:12:04.12,1:12:10.14,Default,,0,0,0,,{\i1}Naruto, jangan pilih-pilih makan, makanlah yang banyak dan tumbuh besar dan kuat,{\i1}
+Dialogue: 0,1:12:10.80,1:12:16.48,Default,,0,0,0,,{\i1}Juga, bertemanlah, kau tak perlu punya banyak teman,{\i1}
+Dialogue: 0,1:12:16.90,1:12:23.46,Default,,0,0,0,,{\i1}Tidak apa-apa jika kau punya sedikit teman, tapi mereka dapat dipercaya,{\i1}
+Dialogue: 0,1:12:23.63,1:12:25.98,Default,,0,0,0,,{\i1}Dan ingatlah selalu tiga hal tabu untuk Ninja.{\i1}
+Dialogue: 0,1:12:26.24,1:12:29.62,Default,,0,0,0,,{\i1}Kau harus berhati-hati dengan Jiraiya Sensei,{\i1}
+Dialogue: 0,1:12:32.70,1:12:38.74,Default,,0,0,0,,{\i1}Naruto, kau akan menghadapi banyak hal sulit dan penderitaan nantinya,{\i1}
+Dialogue: 0,1:12:39.20,1:12:41.76,Default,,0,0,0,,{\i1}Percaya diri dan yakinlah,{\i1}
+Dialogue: 0,1:12:42.02,1:12:47.24,Default,,0,0,0,,{\i1}Dan bermimpilah, wujudkan mimpimu, dan percayalah,{\i1}
+Dialogue: 0,1:12:47.46,1:12:56.08,Default,,0,0,0,,{\i1}Sesungguhnya aku ingin mengajarimu hal itu secara langsung padamu,{\i1}
+Dialogue: 0,1:12:56.24,1:13:02.76,Default,,0,0,0,,{\i1}Dengan berada disampingmu, aku ingin bersamamu lebih lama lagi,{\i1}
+Dialogue: 0,1:13:03.64,1:13:05.84,Default,,0,0,0,,{\i1}Aku menyayangimu !{\i1}
+Dialogue: 0,1:13:09.98,1:13:11.26,Default,,0,0,0,,{\i1}Naruto !{\i1}
+Dialogue: 0,1:13:11.56,1:13:18.36,Default,,0,0,0,,{\i1}Apa yang ingin kukatakan, hampir sama dengan ibumu yang rewel ini.{\i1}
+Dialogue: 0,1:13:28.28,1:13:30.60,Default,,0,0,0,,Aku harus pergi.
+Dialogue: 0,1:13:30.68,1:13:33.20,Default,,0,0,0,,Jangan pergi ! Jangan sok menjadi pahlawan !
+Dialogue: 0,1:13:33.28,1:13:36.54,Default,,0,0,0,,Sebetulnya, aku bukan orang dari dunia ini !
+Dialogue: 0,1:13:37.30,1:13:38.36,Default,,0,0,0,,Dan lagi,
+Dialogue: 0,1:13:38.58,1:13:42.34,Default,,0,0,0,,Namaku bukan Menma, maaf karena aku telah berbohong.
+Dialogue: 0,1:13:42.98,1:13:45.16,Default,,0,0,0,,Kenapa kau tiba-tiba bicara hal yang tidak masuk akal ?
+Dialogue: 0,1:13:46.02,1:13:54.66,Default,,0,0,0,,Ayahku sebenarnya adalah Hokage ke-4 dan ibuku adalah Jinchuuriki Kyuubi,
+Dialogue: 0,1:13:55.26,1:13:59.76,Default,,0,0,0,,Mereka berdua melindungi semua orang,
+Dialogue: 0,1:13:59.92,1:14:07.37,Default,,0,0,0,,Demi menyelamatkan orang, desa,dan untuk melindungiku, mereka mati.
+Dialogue: 0,1:14:11.82,1:14:13.34,Default,,0,0,0,,Menma ! Aku mohon !
+Dialogue: 0,1:14:13.50,1:14:15.12,Default,,0,0,0,,Jangan pergi !
+Dialogue: 0,1:14:18.28,1:14:20.59,Default,,0,0,0,,Aku harus pergi.
+Dialogue: 0,1:14:21.66,1:14:23.13,Default,,0,0,0,,Menma !
+Dialogue: 0,1:14:34.64,1:14:38.78,Default,,0,0,0,,Karena aku adalah anak dari dua pahlawan !
+Dialogue: 0,1:14:59.76,1:15:01.46,Default,,0,0,0,,{\c&Hffff00&\i1}Tempat ini ,,,{\i1}
+Dialogue: 0,1:15:01.76,1:15:05.50,Default,,0,0,0,,{\i1}(Jurus) Limited Tsukuyomi = (限定月読){\i1}
+Dialogue: 0,1:15:01.76,1:15:05.50,Default,,0,0,0,,Kenyataan lain yang dibuat dengan Gentei Tsukuyomi.
+Dialogue: 0,1:15:06.64,1:15:12.80,Default,,0,0,0,,Dan tempat ini adalah tempat latihan dari dunia dimana kita berada sebelumnya,
+Dialogue: 0,1:15:13.70,1:15:18.60,Default,,0,0,0,,Tempat dimana Hokage ke-4 dan Jiraiya berlatih.
+Dialogue: 0,1:15:19.06,1:15:23.74,Default,,0,0,0,,Ya, sepertinya seseorang menggunakan tempat ini sebagai rumah didunia ini.
+Dialogue: 0,1:15:24.36,1:15:27.08,Default,,0,0,0,,Tujuanmu sebenarnya apa ?
+Dialogue: 0,1:15:27.30,1:15:30.50,Default,,0,0,0,,Kau akan segera tahu.
+Dialogue: 0,1:15:30.72,1:15:33.10,Default,,0,0,0,,Berterimakasihlah karena kau tidak akan pernah melihat hal seperti ini lagi.
+Dialogue: 0,1:15:33.40,1:15:36.02,Default,,0,0,0,,Akhirnya, aku menemukanmu ! Madara !
+Dialogue: 0,1:15:36.32,1:15:37.46,Default,,0,0,0,,Naruto !
+Dialogue: 0,1:15:39.64,1:15:44.32,Default,,0,0,0,,Aku akan kembali kedunia asalku setelah mengalahkanmu !
+Dialogue: 0,1:15:45.56,1:15:48.44,Default,,0,0,0,,Maaf tapi lawanmu bukan aku,
+Dialogue: 0,1:15:56.54,1:15:59.26,Default,,0,0,0,,Sebaiknya kau mengembalikan gulungan bulan merah padaku sekarang !
+Dialogue: 0,1:15:59.34,1:16:03.02,Default,,0,0,0,,Tidak akan, aku akan melakukannya jika kau melepaskan Sakura-chan lebih dulu !
+Dialogue: 0,1:16:03.32,1:16:06.70,Default,,0,0,0,,Kalau begitu, aku akan mengambilnya dengan membunuhmu,
+Dialogue: 0,1:16:07.34,1:16:10.36,Default,,0,0,0,,Aku akan bertarung denganmu.
+Dialogue: 0,1:16:10.78,1:16:13.92,Default,,0,0,0,,Aku bisa merasakan kekuatan jahat dari dalam dirimu,
+Dialogue: 0,1:16:14.16,1:16:16.20,Default,,0,0,0,,Aku tidak akan membiarkanmu hidup,
+Dialogue: 0,1:16:16.64,1:16:18.40,Default,,0,0,0,,Kekuatan jahat itu.
+Dialogue: 0,1:16:18.76,1:16:19.76,Default,,0,0,0,,Apa ?
+Dialogue: 0,1:16:23.12,1:16:25.70,Default,,0,0,0,,{\c&Hffff00&\i1}Perasaan apa ini ?{\i1}
+Dialogue: 0,1:16:30.50,1:16:31.84,Default,,0,0,0,,{\c&Hffff00&\i1}Lagi ?{\i1}
+Dialogue: 0,1:16:35.42,1:16:39.48,Default,,0,0,0,,{\c&Hffff00&\i1}Sial, ada apa dengan diriku ?{\i1}
+Dialogue: 0,1:16:42.64,1:16:48.30,Default,,0,0,0,,Keberadaanmu dan chakramu sunggu membuatku bergairah.
+Dialogue: 0,1:16:48.72,1:16:52.42,Default,,0,0,0,,{\c&Hffff00&\i1}Apa yang terjadi ? Rasanya isi perutku bergoncang.{\i1}
+Dialogue: 0,1:16:52.76,1:16:57.58,Default,,0,0,0,,Karena itu, sebaiknya aku mengakhirinya sekarang.
+Dialogue: 0,1:16:57.83,1:17:00.37,Default,,0,0,0,,{\i1}(Jurus) Koen Subaku [Zodiac Summoning = Sembilan Hewan Bertopeng !]{\i1}
+Dialogue: 0,1:17:00.44,1:17:03.94,Default,,0,0,0,,{\i1}(Jurus) Ular Emas, Kura-kura, Naga Biru, Macan Putih,{\i1}
+Dialogue: 0,1:17:03.98,1:17:09.47,Default,,0,0,0,,{\i1}(Jurus) Burung Merah, Pertapa Selatan, Malaikat Maut yang Kejam, Pertapa Utara, Gadis Luar Angkasa !{\i1}
+Dialogue: 0,1:17:16.48,1:17:20.02,Default,,0,0,0,,Ubah setiap tulangnya menjadi debu.
+Dialogue: 0,1:17:20.58,1:17:24.00,Default,,0,0,0,,{\c&Hffff00&\i1}Terlalu banyak musuh.{\i1}
+Dialogue: 0,1:17:36.86,1:17:39.28,Default,,0,0,0,,Jumlah musuh terus bertambah !
+Dialogue: 0,1:17:39.42,1:17:41.02,Default,,0,0,0,,Hentikan itu,
+Dialogue: 0,1:17:41.40,1:17:44.76,Default,,0,0,0,,Kami datang kesini karena perintah Hokage,
+Dialogue: 0,1:17:44.88,1:17:46.06,Default,,0,0,0,,Huh ?
+Dialogue: 0,1:17:46.60,1:17:51.08,Default,,0,0,0,,Dia meminta kami membantumu, jadi kau bisa mengalahkan pria bertopeng itu.
+Dialogue: 0,1:17:52.84,1:17:55.14,Default,,0,0,0,,Apa itu Akatsuki kelompok ninja bayaran ?
+Dialogue: 0,1:18:18.34,1:18:22.56,Default,,0,0,0,,Sepertinya menyenangkan jika menghisap chakra Malaikat yang Kejam.
+Dialogue: 0,1:18:25.02,1:18:27.96,Default,,0,0,0,,{\c&Hffff00&\i1}Ini keren ! Akatsuki ternyata sekutu !{\i1}
+Dialogue: 0,1:18:28.08,1:18:30.80,Default,,0,0,0,,Jangan bercanda !
+Dialogue: 0,1:18:49.36,1:18:53.10,Default,,0,0,0,,Jadi begitu, apa ini juga termasuk kebalikan dunia ini ?
+Dialogue: 0,1:18:54.30,1:18:57.46,Default,,0,0,0,,Aku tak pernah menyangka Hokage akan meminta bantuan Akatsuki.
+Dialogue: 0,1:18:58.16,1:19:00.30,Default,,0,0,0,,{\c&Hffff00&\i1}Uchiha Itachi ?{\i1}
+Dialogue: 0,1:19:00.58,1:19:05.52,Default,,0,0,0,,Dia bukan orang yang bisa dikalahkan dengan serangan fisik.
+Dialogue: 0,1:19:06.38,1:19:10.26,Default,,0,0,0,,Namun, pasti ada cara lain.
+Dialogue: 0,1:19:10.54,1:19:13.98,Default,,0,0,0,,Maksudmu kau dapat mengorbankan api jika kau mau ?
+Dialogue: 0,1:19:14.40,1:19:17.32,Default,,0,0,0,,Kau tetap saja seorang pengganggu.
+Dialogue: 0,1:19:20.00,1:19:22.64,Default,,0,0,0,,Tolong lindungi Sakura-chan.
+Dialogue: 0,1:19:45.34,1:19:50.69,Default,,0,0,0,,Menyenangkan jika melihat Burung Merah itu ketakutan.
+Dialogue: 0,1:19:55.04,1:19:58.06,Default,,0,0,0,,Tak ada yang lebih indah dari seni ledakan.
+Dialogue: 0,1:20:03.16,1:20:05.04,Default,,0,0,0,,Apakah itu bentuk aslinya ?
+Dialogue: 0,1:20:22.50,1:20:24.24,Default,,0,0,0,,{\c&Hffff00&\i1}Apa ini ...{\i1}
+Dialogue: 0,1:20:34.52,1:20:38.78,Default,,0,0,0,,{\c&Hffff00&\i1}Aku tahu, tempat ini adalah tempat latihan bawah tanah.{\i1}
+Dialogue: 0,1:20:52.20,1:20:55.18,Default,,0,0,0,,{\i1}(Jurus) 多重影分身の術 Tajuu Kage Bhunsin no Jutsu !{\i1}
+Dialogue: 0,1:21:22.08,1:21:24.58,Default,,0,0,0,,Kau mencoba menang dengan memperbanyak jumlahmu ? Sungguh menyedihkan.
+Dialogue: 0,1:21:25.18,1:21:27.76,Default,,0,0,0,,Menurutmu begitu ?
+Dialogue: 0,1:21:28.60,1:21:30.44,Default,,0,0,0,,Cukup sampai disini !
+Dialogue: 0,1:21:37.86,1:21:40.02,Default,,0,0,0,,Kau yang akan berakhir.
+Dialogue: 0,1:22:03.74,1:22:06.04,Default,,0,0,0,,Siapa kau ?
+Dialogue: 0,1:22:06.52,1:22:09.31,Default,,0,0,0,,Kau tidak tahu kapan harus menyerah !
+Dialogue: 0,1:22:27.16,1:22:28.84,Default,,0,0,0,,Naruto ...
+Dialogue: 0,1:22:39.80,1:22:43.22,Default,,0,0,0,,{\c&Hffff00&\i1}Orang ini, bahkan dengan Rasen Shuriken !{\i1}
+Dialogue: 0,1:22:46.36,1:22:49.90,Default,,0,0,0,,Apa perutmu seperti berguncang ?
+Dialogue: 0,1:22:53.06,1:22:59.16,Default,,0,0,0,,Sepertinya yang ada didalam perutmu telah merasa gelisah sejak lama.
+Dialogue: 0,1:22:59.56,1:23:00.88,Default,,0,0,0,,{\c&Hffff00&\i1}Didalam perutku ?{\i1}
+Dialogue: 0,1:23:01.68,1:23:02.96,Default,,0,0,0,,Kenapa kau bisa ,,,
+Dialogue: 0,1:23:03.08,1:23:07.42,Default,,0,0,0,,Kutebak itu mungkin Kyuubi atau yang lain,
+Dialogue: 0,1:23:10.02,1:23:14.50,Default,,0,0,0,,Sungguh, aku bahkan tidak sanggup membayangkan apa itu.
+Dialogue: 0,1:23:35.60,1:23:37.32,Default,,0,0,0,,Jangan-jangan ...
+Dialogue: 0,1:23:37.58,1:23:42.41,Default,,0,0,0,,Aku tidak tahu bahwaada orang lain yang sama sepertiku,
+Dialogue: 0,1:23:43.14,1:23:45.88,Default,,0,0,0,,Itulah kenapa aku tidak bisa menangkapnya.
+Dialogue: 0,1:23:48.10,1:23:52.26,Default,,0,0,0,,Jika kau tetap ada, hidupmu hanya akan sebagai pengganggu.
+Dialogue: 0,1:23:54.58,1:23:58.42,Default,,0,0,0,,Aku akan menghabisimu !
+Dialogue: 0,1:24:49.82,1:24:52.03,Default,,0,0,0,,Mati kau !
+Dialogue: 0,1:25:02.16,1:25:04.68,Default,,0,0,0,,Apa itu ? Apa yang terjadi ?
+Dialogue: 0,1:25:12.62,1:25:14.52,Default,,0,0,0,,{\c&Hffff00&\i1}Dia punya wajah yang sama dengan Naruto.{\i1}
+Dialogue: 0,1:25:15.00,1:25:17.32,Default,,0,0,0,,{\c&Hffff00&\i1}Apa dia Jinchuriki didunia ini ?{\i1}
+Dialogue: 0,1:25:18.08,1:25:24.34,Default,,0,0,0,,{\c&Hffff00&\i1}Kyuubi adalah Bijuu yang memiliki kebencian paling murni diantara yang lain.{\i1}
+Dialogue: 0,1:25:25.26,1:25:30.92,Default,,0,0,0,,{\c&Hffff00&\i1}Jika Kyuubi bertemu satusama lain, sudah pasti akan ada pertarungan yang hebat,{\i1}
+Dialogue: 0,1:25:31.44,1:25:34.24,Default,,0,0,0,,{\c&Hffff00&\i1}Sekarang, apa yang akan dia lakukan ?{\i1}
+Dialogue: 0,1:25:34.74,1:25:38.78,Default,,0,0,0,,Targetnya adalah aku, semuanya menjauhlah dari sini.
+Dialogue: 0,1:25:40.34,1:25:41.52,Default,,0,0,0,,Naruto !
+Dialogue: 0,1:25:42.86,1:25:45.56,Default,,0,0,0,,Tidak ada kontrak untuk bertarung melawannya,
+Dialogue: 0,1:25:45.76,1:25:48.37,Default,,0,0,0,,Kami tidak dibayar untuk itu.
+Dialogue: 0,1:25:48.45,1:25:50.86,Default,,0,0,0,,Tidak mungkin !
+Dialogue: 0,1:26:00.00,1:26:03.08,Default,,0,0,0,,Kau tidak bisa bergerak sesuka hatimu dengan tubuh besar itu !
+Dialogue: 0,1:26:30.62,1:26:33.56,Default,,0,0,0,,{\i1}(Jurus) 螺旋超多連丸 Rasen Tarengan !{\i1}<
+Dialogue: 0,1:26:41.80,1:26:43.62,Default,,0,0,0,,{\c&Hffff00&\i1}Sialan !{\i1}
+Dialogue: 0,1:26:48.42,1:26:53.30,Default,,0,0,0,,{\i1}Bagaimana bisa, kau dikalahkan oleh yang palsu ?{\i1}
+Dialogue: 0,1:26:53.52,1:26:57.36,Default,,0,0,0,,{\c&H00ffff&\i1}Diamlah !Aku akan membalasnya !{\i1}
+Dialogue: 0,1:26:57.60,1:27:00.14,Default,,0,0,0,,{\c&H00ffff&\i1}Aku akan menggunakan Bijū Mōdo untuk menyerangnya.{\i1}
+Dialogue: 0,1:27:00.42,1:27:02.56,Default,,0,0,0,,{\i1}Apa kau sudah gila ?{\i1}
+Dialogue: 0,1:27:03.08,1:27:07.48,Default,,0,0,0,,{\i1}Walaupun dia palsu, dia adalah Kyuubi, sama sepertiku.{\i1}
+Dialogue: 0,1:27:07.96,1:27:15.16,Default,,0,0,0,,{\i1}Bagaimana bisa kau bertarung hanya dengan sebagian kecil dari chakraku ?{\i1}
+Dialogue: 0,1:27:17.16,1:27:19.46,Default,,0,0,0,,{\i1}Akan kubantu kau Naruto,{\i1}
+Dialogue: 0,1:27:20.22,1:27:23.40,Default,,0,0,0,,{\i1}Aku akan menghadapinya mulai dari sekarang.{\i1}
+Dialogue: 0,1:27:27.76,1:27:30.68,Default,,0,0,0,,{\c&H00ffff&\i1}Hah ? Kau pikir aku akan terjebak dengan taktik seperti itu ?{\i1}
+Dialogue: 0,1:27:30.80,1:27:32.38,Default,,0,0,0,,{\c&H00ffff&\i1}Maksudmu sudah jelas,{\i1}
+Dialogue: 0,1:27:32.62,1:27:34.80,Default,,0,0,0,,{\c&H00ffff&\i1}Aku tidak tertarik memberikan tubuhku padamu.{\i1}
+Dialogue: 0,1:27:35.78,1:27:38.42,Default,,0,0,0,,{\i1}Aku tidak menyukaimu.{\i1}
+Dialogue: 0,1:27:40.48,1:27:49.22,Default,,0,0,0,,{\i1}Tapi pengemis tidak bisa menjadi pemilih, aku benci Uchiha Madara lebih dari kau.{\i1}
+Dialogue: 0,1:27:51.54,1:27:57.54,Default,,0,0,0,,{\i1}Aku mungkin akan terjebak didunia ini jika kau mati.{\i1}
+Dialogue: 0,1:27:57.74,1:28:03.04,Default,,0,0,0,,{\i1}Jika itu tujuannya, aku tidak akan tinggal diam !{\i1}
+Dialogue: 0,1:28:03.56,1:28:08.60,Default,,0,0,0,,{\i1}Aku akan meminjamkanmu kekuatanku kali ini,{\i1}
+Dialogue: 0,1:28:09.38,1:28:12.54,Default,,0,0,0,,{\c&H00ffff&\i1}Musuh dari musuhku adalah sekutuku ?{\i1}
+Dialogue: 0,1:28:13.74,1:28:19.04,Default,,0,0,0,,{\c&H00ffff&\i1}Baiklah ! Tapi kali ini saja ! Kita akan bertarung besama-sama !{\i1}
+Dialogue: 0,1:29:25.56,1:29:26.93,Default,,0,0,0,,{\c&Hffff00&\i1}Aku pasti menang !{\i1}
+Dialogue: 0,1:30:24.26,1:30:26.14,Default,,0,0,0,,Apa yang terjadi ?
+Dialogue: 0,1:30:26.46,1:30:29.27,Default,,0,0,0,,Bukankah ini bernilai seni ?
+Dialogue: 0,1:30:29.38,1:30:32.82,Default,,0,0,0,,Daratan akan berputar dan berganti.
+Dialogue: 0,1:30:34.04,1:30:35.54,Default,,0,0,0,,{\c&Hffff00&\i1}Naruto ...{\i1}
+Dialogue: 0,1:30:39.11,1:30:40.86,Default,,0,0,0,,Kitalah yang akan menang !
+Dialogue: 0,1:30:41.12,1:30:42.68,Default,,0,0,0,,Sialan kau, palsu !
+Dialogue: 0,1:30:42.78,1:30:44.58,Default,,0,0,0,,{\i1}Sial !{\i1}
+Dialogue: 0,1:30:44.82,1:30:48.20,Default,,0,0,0,,Dia melakukan segala yang dia inginkan dengan sebagian Chakra Kyuubi.
+Dialogue: 0,1:30:52.62,1:30:55.70,Default,,0,0,0,,Menyerahlah sekarang !
+Dialogue: 0,1:30:55.88,1:30:56.78,Default,,0,0,0,,Kau !
+Dialogue: 0,1:31:05.36,1:31:07.58,Default,,0,0,0,,Mati kau !
+Dialogue: 0,1:31:07.84,1:31:11.00,Default,,0,0,0,,Aku tidak akan mati !
+Dialogue: 0,1:31:57.06,1:32:01.66,Default,,0,0,0,,Sudah kuduga, kau pasti menang.
+Dialogue: 0,1:32:03.22,1:32:08.12,Default,,0,0,0,,Tapi pertarungan ini diluar dugaanku,
+Dialogue: 0,1:32:09.34,1:32:14.66,Default,,0,0,0,,Aku tidak menyangka, kau dan Kyuubi akan bekerja sama seperti itu.
+Dialogue: 0,1:32:15.88,1:32:18.86,Default,,0,0,0,,Semuanya akan berakhir ketika aku mengalahkanmu,
+Dialogue: 0,1:32:19.16,1:32:24.99,Default,,0,0,0,,Sepertinya kau belum mengerti situasi dimana kau berada.
+Dialogue: 0,1:32:27.02,1:32:30.72,Default,,0,0,0,,{\c&H00ffff&\i1}Dengan Kyuubi dan Resonansi Kyuubi. Dan,{\i1}
+Dialogue: 0,1:32:32.62,1:32:38.03,Default,,0,0,0,,{\c&H00ffff&\i1}Pertarungan yang tidak bisa kau lakukan didunia nyata.{\i1}
+Dialogue: 0,1:32:38.20,1:32:41.86,Default,,0,0,0,,{\c&H00ffff&\i1}Segel Kyuubi telah melemah.{\i1}
+Dialogue: 0,1:32:43.02,1:32:46.38,Default,,0,0,0,,{\c&H00ffff&\i1}Ya, sama seperti waktu itu,{\i1}
+Dialogue: 0,1:32:46.44,1:32:48.86,Default,,0,0,0,,{\i1}Sial, lari Naruto !{\i1}
+Dialogue: 0,1:32:49.20,1:32:50.90,Default,,0,0,0,,Apa yang terjadi ?
+Dialogue: 0,1:32:51.18,1:32:54.58,Default,,0,0,0,,{\i1}Aku meremehkannya karena dia tidak punya tubuh disini,{\i1}
+Dialogue: 0,1:32:55.54,1:33:02.30,Default,,0,0,0,,{\i1}Naruto ! Dengan Sharingan aku akan ditarik keluar dari tubuhmu seperti yang terjadi pada Kushina jika kita tidak bertindak.{\i1}
+Dialogue: 0,1:33:02.60,1:33:05.62,Default,,0,0,0,,{\c&H00ffff&\i1}Kyuubi ,,, adalah milikku !{\i1}
+Dialogue: 0,1:33:07.40,1:33:11.20,Default,,0,0,0,,{\i1}Hei ! Jangan pernah melihat ke matanya !{\i1}
+Dialogue: 0,1:33:25.64,1:33:30.03,Default,,0,0,0,,{\c&Hffff00&\i1}Sial ! Jika kita tidak melakukan apa-apa ,,,{\i1}
+Dialogue: 0,1:33:33.46,1:33:35.10,Default,,0,0,0,,{\c&Hffff00&\i1}Bulan merah.{\i1}
+Dialogue: 0,1:33:38.30,1:33:43.24,Default,,0,0,0,,{\c&Hffff00&\i1}Aku tak punya pilihan, jika sekarang adalah kesempatan yang dikatakan oleh ramalan itu ...{\i1}
+Dialogue: 0,1:33:54.62,1:33:56.66,Default,,0,0,0,,{\c&H00ffff&\i1}Lupakan semuanya,{\i1}
+Dialogue: 0,1:33:57.74,1:34:02.70,Default,,0,0,0,,{\c&H00ffff&\i1}Kyuubi sekarang adalah milikku.{\i1}
+Dialogue: 0,1:34:06.34,1:34:09.88,Default,,0,0,0,,{\c&H00ffff&\i1}Kau telah kehilangan harapanmu.{\i1}
+Dialogue: 0,1:34:21.62,1:34:23.58,Default,,0,0,0,,Naruto ! Sadarlah !
+Dialogue: 0,1:34:24.12,1:34:28.80,Default,,0,0,0,,{\c&H00ffff&\i1}Aku sudah menghapus ingatannya, dia mungkin tidak bisa bergerak.{\i1}
+Dialogue: 0,1:34:29.06,1:34:32.04,Default,,0,0,0,,Jangan sekali-kali kau menyentuh Naruto !
+Dialogue: 0,1:34:40.04,1:34:41.68,Default,,0,0,0,,{\c&Hffff00&\i1}Hah ?{\i1}
+Dialogue: 0,1:34:43.16,1:34:47.24,Default,,0,0,0,,{\c&Hffff00&\i1}Apa yang sedang kau lakukan ?{\i1}
+Dialogue: 0,1:34:53.80,1:35:00.26,Default,,0,0,0,,{\c&Hffff00&\i1}Dan, siapa aku ?{\i1}
+Dialogue: 0,1:35:01.32,1:35:06.26,Default,,0,0,0,,{\c&Hffff00&\i1}Kenapa ,,, aku ,,,{\i1}
+Dialogue: 0,1:35:20.68,1:35:24.40,Default,,0,0,0,,{\i1}Ini jutsu yang diciptakan oleh Hokage ke-4.{\i1}
+Dialogue: 0,1:35:26.50,1:35:29.23,Default,,0,0,0,,{\i1}Ajarkan aku itu !{\i1}
+Dialogue: 0,1:35:41.44,1:35:43.04,Default,,0,0,0,,{\i1}Makan ini.{\i1}
+Dialogue: 0,1:36:10.32,1:36:11.66,Default,,0,0,0,,Naruto.
+Dialogue: 0,1:36:12.34,1:36:14.50,Default,,0,0,0,,{\c&H00ffff&\i1}Kau sudah sadar.{\i1}
+Dialogue: 0,1:36:14.66,1:36:16.68,Default,,0,0,0,,Aku tidak akan lupa bahkan jika aku mati.
+Dialogue: 0,1:36:16.96,1:36:21.96,Default,,0,0,0,,Apa yang telah Guru berikan adalah Rasengan dan namaku.
+Dialogue: 0,1:36:22.40,1:36:28.00,Default,,0,0,0,,Buku yang Guruku tulis adalah tentang Legenda Shinobi yang kuat !
+Dialogue: 0,1:36:28.92,1:36:30.80,Default,,0,0,0,,Adalah namaku !
+Dialogue: 0,1:36:31.16,1:36:35.82,Default,,0,0,0,,{\c&H00ffff&\i1}Serahkan Kyuubi dan matilah kau didunia ini !{\i1}
+Dialogue: 0,1:36:37.72,1:36:40.00,Default,,0,0,0,,Aku bukan Menma,
+Dialogue: 0,1:36:43.54,1:36:46.84,Default,,0,0,0,,Namaku adalah Naruto !
+Dialogue: 0,1:36:53.88,1:36:55.08,Default,,0,0,0,,Naruto !
+Dialogue: 0,1:36:59.96,1:37:06.64,Default,,0,0,0,,Sudah 16 tahun sejak aku merasakan jutsu ini.
+Dialogue: 0,1:37:08.58,1:37:10.88,Default,,0,0,0,,Madara ! Kau masih ,,, !
+Dialogue: 0,1:37:11.00,1:37:13.44,Default,,0,0,0,,Tapi kali ini ,,,
+Dialogue: 0,1:37:22.18,1:37:24.24,Default,,0,0,0,,Minato-san ! Kushina-san !
+Dialogue: 0,1:37:24.46,1:37:26.78,Default,,0,0,0,,Bagaimana bisa kalian kesini ?
+Dialogue: 0,1:37:27.02,1:37:29.28,Default,,0,0,0,,Itu karena kunai Minato !
+Dialogue: 0,1:37:35.32,1:37:42.30,Default,,0,0,0,,Walau kau bilang kau bukan Menma, tapi kau tidak merasa asing bersama kami.
+Dialogue: 0,1:37:42.88,1:37:45.54,Default,,0,0,0,,Apa itu suatu hubungan juga ?
+Dialogue: 0,1:37:46.32,1:37:52.62,Default,,0,0,0,,Baiklah, aku akan memberikan Kyuubi padamu sekarang.
+Dialogue: 0,1:37:58.70,1:38:00.22,Default,,0,0,0,,Pria itu ?
+Dialogue: 0,1:38:02.62,1:38:04.44,Default,,0,0,0,,Dia adalah penghasut,
+Dialogue: 0,1:38:04.98,1:38:09.94,Default,,0,0,0,,Dia melempar kami kedunia ini, itulah mengapa hal aneh ini bisa terjadi !
+Dialogue: 0,1:38:23.44,1:38:25.10,Default,,0,0,0,,Menma !
+Dialogue: 0,1:38:31.12,1:38:32.40,Default,,0,0,0,,Jadi ,,,
+Dialogue: 0,1:38:40.58,1:38:42.70,Default,,0,0,0,,Naruto ! Ini ,,,
+Dialogue: 0,1:38:45.42,1:38:48.80,Default,,0,0,0,,Sepertinya kalian akan kembali kedunia kalian,
+Dialogue: 0,1:38:49.24,1:38:50.74,Default,,0,0,0,,Ini sebuah perpisahan.
+Dialogue: 0,1:38:54.78,1:38:57.68,Default,,0,0,0,,Aku sangat berterima kasih, karena kalian sudah menyelamatkanku,
+Dialogue: 0,1:38:58.00,1:39:00.80,Default,,0,0,0,,Meskipun ini sangat singkat,
+Dialogue: 0,1:39:01.22,1:39:04.41,Default,,0,0,0,,Aku benar-benar berterima kasih kepada kalian berdua,
+Dialogue: 0,1:39:04.78,1:39:09.88,Default,,0,0,0,,Ini pertama kalinya aku menghabiskan waktuku bersama keluargaku,
+Dialogue: 0,1:39:10.50,1:39:14.38,Default,,0,0,0,,Terima kasih telah memberiku makanan hangat,
+Dialogue: 0,1:39:14.82,1:39:26.23,Default,,0,0,0,,Terima kasih telah mengkhawatirkanku, memarahiku, dan menjagaku,
+Dialogue: 0,1:39:26.23,1:40:06.50,Default,,0,0,0,,{\c&H9933ff&}Subtitle By : Silver Bullet Cavendish{\c}\N{\c&H0000ff&}Garut, 22 Mei 2013
+Dialogue: 0,1:40:07.63,1:40:08.80,Default,,0,0,0,,Tempat ini ,,,
+Dialogue: 0,1:40:25.04,1:40:27.36,Default,,0,0,0,,Naruto ! Jubahmu ,,,
+Dialogue: 0,1:40:45.40,1:40:49.26,Default,,0,0,0,,Kita kembali kedunia kita.
+Dialogue: 0,1:40:52.70,1:40:54.82,Default,,0,0,0,,Sayang sekali,
+Dialogue: 0,1:40:55.80,1:40:58.86,Default,,0,0,0,,Kau hampir mendapatkan Kyuubi.
+Dialogue: 0,1:41:11.56,1:41:14.16,Default,,0,0,0,,Aku tidak tahu ramalan itu akan menjadi nyata.
+Dialogue: 0,1:41:30.90,1:41:35.66,Default,,0,0,0,,Madara sialan, aku tak pernah menyangka dia akan muncul ditengah desa.
+Dialogue: 0,1:41:36.28,1:41:40.85,Default,,0,0,0,,Berdasarkan penjelasan mereka,ini mungkin sebuah jutsu ruang waktu.
+Dialogue: 0,1:41:41.02,1:41:43.34,Default,,0,0,0,,Aku jadi bingung dengan batas kemampuannya.
+Dialogue: 0,1:41:43.78,1:41:46.30,Default,,0,0,0,,Suatu keajaiban, kalian baik-baik saja,
+Dialogue: 0,1:41:46.84,1:41:51.80,Default,,0,0,0,,Namun, desa kacau itu wajar,
+Dialogue: 0,1:41:52.38,1:41:56.98,Default,,0,0,0,,Aku pikir akan lebih baik merahasiakan ini sampai kita mengetahui apa yang terjadi,
+Dialogue: 0,1:41:57.68,1:42:01.66,Default,,0,0,0,,Oh ya, ini mengenai surat rekomendasi Jounin.
+Dialogue: 0,1:42:01.80,1:42:04.48,Default,,0,0,0,,Tentu saja aku menolaknya !
+Dialogue: 0,1:42:05.92,1:42:10.70,Default,,0,0,0,,Bagaimanapun juga, yang terbaik adalah membiarkan mereka menjadi diri mereka sendiri.
+Dialogue: 0,1:42:10.78,1:42:12.50,Default,,0,0,0,,Aku tahu, itu membuatku jadi tenang.
+Dialogue: 0,1:42:12.90,1:42:15.20,Default,,0,0,0,,Sakura !!!
+Dialogue: 0,1:42:16.18,1:42:17.34,Default,,0,0,0,,Ayah ?
+Dialogue: 0,1:42:18.38,1:42:19.84,Default,,0,0,0,,Sakura !
+Dialogue: 0,1:42:20.28,1:42:22.56,Default,,0,0,0,,Kami menemukanmu !
+Dialogue: 0,1:42:22.72,1:42:27.10,Default,,0,0,0,,Kami pikir kau tersesat saat pulang karena kau tidak kembali lagi,
+Dialogue: 0,1:42:27.66,1:42:32.86,Default,,0,0,0,,Oh, My God ! Hanya bercanda ! Hahaha :D
+Dialogue: 0,1:42:44.10,1:42:47.89,Default,,0,0,0,,Ada apa dengannya ? Ini bukanlah pertemuan keluarga yang terpisah.
+Dialogue: 0,1:42:47.89,1:42:54.04,Default,,0,0,0,,Soalnya aku tidak mendengarkan kalian, maaf tidak mendengarkanmu :'(
+Dialogue: 0,1:42:54.26,1:43:04.34,Default,,0,0,0,,Ibumu menegurmu karena dia mengkhawatirkanmu, jadi dengarkanlah kata ibumu.
+Dialogue: 0,1:43:08.38,1:43:13.70,Default,,0,0,0,,Oh ya, Sakura-chan ! Kuharap nanti kita bisa kencan sungguhan !
+Dialogue: 0,1:43:16.82,1:43:20.60,Default,,0,0,0,,Apa katamu ? Aku baru saja kencan begitu lama denganmu.
+Dialogue: 0,1:43:21.40,1:43:25.34,Default,,0,0,0,,Apa ? Kau sebut itu kencan !?
+Dialogue: 0,1:43:32.90,1:43:37.24,Default,,0,0,0,,{\c&Hffff00&\i1}Seseorang bertanya padaku, apa itu Ninja ?{\i1}
+Dialogue: 0,1:43:57.68,1:44:05.39,Default,,0,0,0,,{\c&Hffff00&\i1}Guruku berkata bahwa Ninja adalah orang yang menanggung beban.{\i1}
+Dialogue: 0,1:44:19.62,1:44:21.36,Default,,0,0,0,,Dari mana saja kau ?
+Dialogue: 0,1:44:21.54,1:44:23.26,Default,,0,0,0,,Aku sudah lama menunggumu.
+Dialogue: 0,1:44:24.42,1:44:25.72,Default,,0,0,0,,Iruka Sensei !
+Dialogue: 0,1:44:26.70,1:44:27.86,Default,,0,0,0,,Kenapa kau disini ?
+Dialogue: 0,1:44:28.82,1:44:34.30,Default,,0,0,0,,Uh ,,, mungkin aku terlalu keras padamu.
+Dialogue: 0,1:44:35.22,1:44:39.42,Default,,0,0,0,,Baiklah ! Ayo kita makan bersama dan mengobrol.
+Dialogue: 0,1:44:46.92,1:44:48.80,Default,,0,0,0,,Ada apa ini ?
+Dialogue: 0,1:44:51.42,1:44:53.75,Default,,0,0,0,,Tak apa ,,,
+Dialogue: 0,1:44:58.06,1:45:00.08,Default,,0,0,0,,Selamat datang ! Naruto !
+Dialogue: 0,1:45:08.98,1:45:10.36,Default,,0,0,0,,Aku pulang !
+Dialogue: 0,1:45:20.14,1:45:23.10,Default,,0,0,0,,Yosh ! Aku berangkat !
+Dialogue: 0,1:45:32.62,1:45:35.44,Default,,0,0,0,,{\c&Hffff00&\i1}Namaku adalah ,,,{\i1}
+Dialogue: 0,1:45:35.60,1:45:37.70,Default,,0,0,0,,{\c&Hffff00&\i1}Uzumaki Naruto !{\i1}
+Dialogue: 0,1:45:38.16,1:45:41.74,Default,,0,0,0,,{\c&Hffff00&\i1}Ninja Dattebayo !{\i1}
