@@ -6,6 +6,10 @@ Type: v4.00+
 
 WrapStyle: 2
 
+PlayResX: 640
+
+PlayResY: 480
+
 ScaledBorderAndShadow: yes
 
 Video File: OuterScienceAVI.avi
@@ -19,7 +23,6 @@ Video Position: 6487
 Last Style Storage: Default
 
 Collisions: Normal
-
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
