@@ -1,28 +1,49 @@
 ﻿[Script Info]
+
 Title: Default Aegisub file
-ScriptType: v4.00+
+Script
+Type: v4.00+
+
 WrapStyle: 2
+
 PlayResX: 640
+
 PlayResY: 480
+
 ScaledBorderAndShadow: yes
+
 Video File: OuterScienceAVI.avi
+
 Video Aspect Ratio: 0
+
 Video Zoom: 4
+
 Video Position: 6487
+
 Last Style Storage: Default
+
 Collisions: Normal
 
+
+
 [V4+ Styles]
+
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Small,Gisha,20,&H00D2FDFD,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
 Style: Title,Aharoni,48,&H00D2FDFD,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
 Style: Science,Gisha,24,&H00B4EAED,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
 Style: Outer,Gisha,36,&H00FDFDFD,&H000000FF,&H6055F0FC,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
 
+
+
 [Events]
+
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
 Dialogue: 0,0:00:10.04,0:00:10.28,Small,,0000,0000,0000,,{\pos(320,270)\fad(50,0)\c&HF2FFFF&\t(0,210,\fs18)}If you love him,
+
 Dialogue: 0,0:00:10.31,0:00:10.54,Small,,0000,0000,0000,,{\pos(320,270)\fad(50,0)\c&HF2FFFF&\t(0,210,\fs18)}use your monstrous {\b1}power.
+
 Dialogue: 0,0:00:11.18,0:00:20.84,Title,,0000,0000,0000,,{\move(320,200,330,230)\fad(200,200)\b1\fs48\t(0,9680,\fs24)\frz-4\t(0,9680,\frz-8)}OUTER {\frz4\t(0,9680,\frz-16)}SCIENCE
 Dialogue: 0,0:00:21.18,0:00:21.71,Title,,0000,0000,0000,,{\pos(90,200)\fad(50,50)\c&H000000&}CONCEAL
 Dialogue: 0,0:00:21.18,0:00:21.71,Title,,0000,0000,0000,,{\pos(520,200)\fad(50,50)\c&H000000&}STEAL
