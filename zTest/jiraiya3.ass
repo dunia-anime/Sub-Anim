@@ -27,14 +27,8 @@ Collisions: Normal
 
 
 [V4+ Styles]
-
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Small,Gisha,20,&H00D2FDFD,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
-Style: Title,Aharoni,48,&H00D2FDFD,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
-Style: Science,Gisha,24,&H00B4EAED,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
-Style: Outer,Gisha,36,&H00FDFDFD,&H000000FF,&H6055F0FC,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
-
-
+Style: Default,Arial Rounded MT Bold,17,&H00FFFFFF,&H0300FFFF,&H00000000,&H02000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
