@@ -30,7 +30,7 @@ Video Position: 109076
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: CRT,Century Gothic,31,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
 Style: CRT-furigana,Century Gothic,15,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,10,10,10,1
-Style: Default,Diverda Sans Com Medium,50,&H00FFFFFF,&HFF0000FF,&H00000000,&H00000000,-1,0,0,0,90,100,0.5,0,1,3,0,2,100,100,36,1
+Style: Default,Diverda Sans Com Medium,40,&H00FFFFFF,&HFF0000FF,&H00000000,&H00000000,-1,0,0,0,90,100,0.5,0,1,3,0,2,100,100,36,1
 Style: Dialogue Italic,A-OTF TakaHand Std DB,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,95,95,0,0,1,1.75,0.44,2,82,82,44,1
 Style: Dialogue Normal,A-OTF TakaHand Std DB,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,95,95,0,0,1,1.75,0.44,2,82,82,44,1
 Style: Dialogue Normal Up,Corbel,50,&H00FFFFFF,&H000000FF,&H00FF0000,&H00000000,0,-1,0,0,95,95,0,0,1,1.75,0.44,8,82,82,20,1
@@ -44,7 +44,7 @@ Style: Kanji,AvantGarde Md BT,34,&H00FFFFFF,&H00B16152,&H00D57971,&H00000000,0,0
 Style: Kanji - Loop,AvantGarde Md BT,34,&H00FFFFFF,&H00B16152,&H00D57971,&H00000000,0,0,0,0,100,100,0,0,1,1.9,0,8,20,20,60,1
 Style: Kanji - Loop-furigana,AvantGarde Md BT,17,&H00FFFFFF,&H00B16152,&H00D57971,&H00000000,0,0,0,0,100,100,0,0,1,0.95,0,8,20,20,60,1
 Style: Kanji-furigana,AvantGarde Md BT,17,&H00FFFFFF,&H00B16152,&H00D57971,&H00000000,0,0,0,0,100,100,0,0,1,0.95,0,8,20,20,60,1
-Style: Miring,Diverda Sans Com Medium,50,&H00FFFFFF,&HFF0000FF,&H00000000,&H00000000,-1,-1,0,0,90,100,0.5,0,1,3,0,2,100,100,36,1
+Style: Miring,Diverda Sans Com Medium,40,&H00FFFFFF,&HFF0000FF,&H00000000,&H00000000,-1,-1,0,0,90,100,0.5,0,1,3,0,2,100,100,36,1
 Style: Romaji,AvantGarde Bk BT Eclipse,42,&H00FFFFFF,&H00F985B2,&H00B16152,&H00000000,-1,0,0,0,100,100,0,0,1,1.9,0,8,20,20,15,1
 Style: Romaji - Loop,AvantGarde Bk BT Eclipse,42,&H00FFFFFF,&H00F985B2,&H00B16152,&H00000000,-1,0,0,0,100,100,0,0,1,1.9,0,8,20,20,15,1
 Style: Romaji - Loop-furigana,AvantGarde Bk BT Eclipse,21,&H00FFFFFF,&H00F985B2,&H00B16152,&H00000000,-1,0,0,0,100,100,0,0,1,0.95,0,8,20,20,15,1
